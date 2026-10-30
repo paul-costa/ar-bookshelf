@@ -1,0 +1,557 @@
+[
+ {
+  "id": "M1-01",
+  "compartment": "M1",
+  "poly": [
+   [
+    1376,
+    189
+   ],
+   [
+    1437,
+    189
+   ],
+   [
+    1437,
+    577
+   ],
+   [
+    1376,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI BLIND WILLOW, SLEEPING WOMAN VINTAGE",
+  "title": "Blind Willow, Sleeping Woman",
+  "author": "Haruki Murakami",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Blind Willow, Sleeping Woman",
+   "author": "Haruki Murakami",
+   "rating": 3.83,
+   "ratings_count": 44662,
+   "url": "https://www.goodreads.com/book/show/206006245-blind-willow-sleeping-woman"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-02",
+  "compartment": "M1",
+  "poly": [
+   [
+    1437,
+    192
+   ],
+   [
+    1524,
+    192
+   ],
+   [
+    1524,
+    577
+   ],
+   [
+    1437,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI KAFKA ON THE SHORE VINTAGE",
+  "title": "Kafka on the Shore",
+  "author": "Haruki Murakami",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kafka on the Shore",
+   "author": "Haruki Murakami",
+   "rating": 4.11,
+   "ratings_count": 581483,
+   "url": "https://www.goodreads.com/book/show/59539714-kafka-on-the-shore"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-03",
+  "compartment": "M1",
+  "poly": [
+   [
+    1524,
+    172
+   ],
+   [
+    1586,
+    172
+   ],
+   [
+    1586,
+    577
+   ],
+   [
+    1524,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Naokos Lächeln btb Haruki Murakami",
+  "title": "Naokos Lächeln",
+  "author": "Haruki Murakami",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Norwegian Wood",
+   "author": "Haruki Murakami",
+   "rating": 3.98,
+   "ratings_count": 779476,
+   "url": "https://www.goodreads.com/book/show/11297.Norwegian_Wood"
+  },
+  "note": "German translation of Norwegian Wood",
+  "series": null
+ },
+ {
+  "id": "M1-04",
+  "compartment": "M1",
+  "poly": [
+   [
+    1586,
+    191
+   ],
+   [
+    1604,
+    191
+   ],
+   [
+    1604,
+    577
+   ],
+   [
+    1586,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GEORGE ORWELL ANIMAL FARM",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Animal Farm",
+   "author": "George Orwell",
+   "rating": 4.03,
+   "ratings_count": 4850864,
+   "url": "https://www.goodreads.com/book/show/170448.Animal_Farm"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-05",
+  "compartment": "M1",
+  "poly": [
+   [
+    1604,
+    196
+   ],
+   [
+    1645,
+    196
+   ],
+   [
+    1645,
+    577
+   ],
+   [
+    1604,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ALDOUS HUXLEY BRAVE NEW WORLD VINTAGE",
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Brave New World",
+   "author": "Aldous Huxley",
+   "rating": 3.98,
+   "ratings_count": 2166332,
+   "url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-06",
+  "compartment": "M1",
+  "poly": [
+   [
+    1645,
+    184
+   ],
+   [
+    1693,
+    184
+   ],
+   [
+    1693,
+    577
+   ],
+   [
+    1645,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GEORGE ORWELL NINETEEN EIGHTY-FOUR",
+  "title": "Nineteen Eighty-Four",
+  "author": "George Orwell",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "rating": 4.21,
+   "ratings_count": 5813070,
+   "url": "https://www.goodreads.com/book/show/60204901-nineteen-eighty-four"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-07",
+  "compartment": "M1",
+  "poly": [
+   [
+    1693,
+    136
+   ],
+   [
+    1724,
+    136
+   ],
+   [
+    1724,
+    577
+   ],
+   [
+    1693,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "NO LONGER HUMAN OSAMU DAZAI",
+  "title": "No Longer Human",
+  "author": "Osamu Dazai",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "No Longer Human",
+   "author": "Osamu Dazai",
+   "rating": 3.92,
+   "ratings_count": 294504,
+   "url": "https://www.goodreads.com/book/show/61235077-no-longer-human"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-08",
+  "compartment": "M1",
+  "poly": [
+   [
+    1724,
+    147
+   ],
+   [
+    1774,
+    147
+   ],
+   [
+    1774,
+    577
+   ],
+   [
+    1724,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "JOHN WILLIAMS STONER VINTAGE",
+  "title": "Stoner",
+  "author": "John Williams",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Stoner",
+   "author": "John Williams",
+   "rating": 4.36,
+   "ratings_count": 314100,
+   "url": "https://www.goodreads.com/book/show/166997.Stoner"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-09",
+  "compartment": "M1",
+  "poly": [
+   [
+    1774,
+    151
+   ],
+   [
+    1806,
+    151
+   ],
+   [
+    1806,
+    577
+   ],
+   [
+    1774,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WILLIAM GOLDING Lord of the Flies PENGUIN",
+  "title": "Lord of the Flies",
+  "author": "William Golding",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Lord of the Flies",
+   "author": "William Golding",
+   "rating": 3.71,
+   "ratings_count": 3334064,
+   "url": "https://www.goodreads.com/book/show/7624.Lord_of_the_Flies"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-10",
+  "compartment": "M1",
+  "poly": [
+   [
+    1806,
+    155
+   ],
+   [
+    1843,
+    155
+   ],
+   [
+    1843,
+    577
+   ],
+   [
+    1806,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE GREAT GATSBY F. SCOTT FITZGERALD",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "rating": 3.92,
+   "ratings_count": 6176434,
+   "url": "https://www.goodreads.com/book/show/41733839-the-great-gatsby"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-11",
+  "compartment": "M1",
+  "poly": [
+   [
+    1843,
+    160
+   ],
+   [
+    1863,
+    160
+   ],
+   [
+    1863,
+    577
+   ],
+   [
+    1843,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ALDOUS HUXLEY THE DOORS OF PERCEPTION AND HEAVEN AND HELL VINTAGE",
+  "title": "The Doors of Perception and Heaven and Hell",
+  "author": "Aldous Huxley",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Doors of Perception & Heaven and Hell",
+   "author": "Aldous Huxley",
+   "rating": 3.9,
+   "ratings_count": 78328,
+   "url": "https://www.goodreads.com/book/show/5128.The_Doors_of_Perception_Heaven_and_Hell"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-12",
+  "compartment": "M1",
+  "poly": [
+   [
+    1863,
+    173
+   ],
+   [
+    1900,
+    173
+   ],
+   [
+    1900,
+    577
+   ],
+   [
+    1863,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MARCUS AURELIUS MEDITATIONS PENGUIN CLASSICS",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Meditations",
+   "author": "Marcus Aurelius",
+   "rating": 4.27,
+   "ratings_count": 387140,
+   "url": "https://www.goodreads.com/book/show/233411514-meditations"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-13",
+  "compartment": "M1",
+  "poly": [
+   [
+    1900,
+    171
+   ],
+   [
+    1925,
+    171
+   ],
+   [
+    1925,
+    577
+   ],
+   [
+    1900,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANACONDA Kafka Die Verwandlung",
+  "title": "Die Verwandlung",
+  "author": "Franz Kafka",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Metamorphosis",
+   "author": "Franz Kafka",
+   "rating": 3.91,
+   "ratings_count": 1580271,
+   "url": "https://www.goodreads.com/book/show/485894.The_Metamorphosis"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-14",
+  "compartment": "M1",
+  "poly": [
+   [
+    1925,
+    140
+   ],
+   [
+    2045,
+    140
+   ],
+   [
+    2045,
+    577
+   ],
+   [
+    1925,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Fjodor Dostojewski Die Dämonen ANACONDA",
+  "title": "Die Dämonen",
+  "author": "Fjodor Dostojewski",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Demons",
+   "author": "Fyodor Dostoevsky",
+   "rating": 4.31,
+   "ratings_count": 68747,
+   "url": "https://www.goodreads.com/book/show/5695.Demons"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M1-15",
+  "compartment": "M1",
+  "poly": [
+   [
+    2045,
+    141
+   ],
+   [
+    2146,
+    141
+   ],
+   [
+    2146,
+    577
+   ],
+   [
+    2045,
+    577
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Fjodor Dostojewski Schuld und Sühne ANACONDA",
+  "title": "Schuld und Sühne",
+  "author": "Fjodor Dostojewski",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Crime and Punishment",
+   "author": "Fyodor Dostoevsky",
+   "rating": 4.29,
+   "ratings_count": 1172048,
+   "url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+  },
+  "series": null,
+  "note": ""
+ }
+]

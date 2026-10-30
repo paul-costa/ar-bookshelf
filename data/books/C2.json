@@ -1,0 +1,890 @@
+[
+ {
+  "id": "C2-01",
+  "compartment": "C2",
+  "poly": [
+   [
+    2240,
+    712
+   ],
+   [
+    2766,
+    712
+   ],
+   [
+    2766,
+    812
+   ],
+   [
+    2240,
+    812
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "REBECCA YARROS ONYX STORM",
+  "title": "Onyx Storm",
+  "author": "Rebecca Yarros",
+  "series": "The Empyrean #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Onyx Storm (The Empyrean, #3)",
+   "author": "Rebecca Yarros",
+   "rating": 4.22,
+   "ratings_count": 1986791,
+   "url": "https://www.goodreads.com/book/show/209439446-onyx-storm"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-02",
+  "compartment": "C2",
+  "poly": [
+   [
+    2240,
+    812
+   ],
+   [
+    2750,
+    812
+   ],
+   [
+    2750,
+    919
+   ],
+   [
+    2240,
+    919
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "REBECCA YARROS IRON FLAME",
+  "title": "Iron Flame",
+  "author": "Rebecca Yarros",
+  "series": "The Empyrean #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Iron Flame (The Empyrean, #2)",
+   "author": "Rebecca Yarros",
+   "rating": 4.36,
+   "ratings_count": 2943967,
+   "url": "https://www.goodreads.com/book/show/90202302-iron-flame"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-03",
+  "compartment": "C2",
+  "poly": [
+   [
+    2240,
+    919
+   ],
+   [
+    2750,
+    919
+   ],
+   [
+    2750,
+    1013
+   ],
+   [
+    2240,
+    1013
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "REBECCA YARROS FOURTH WING",
+  "title": "Fourth Wing",
+  "author": "Rebecca Yarros",
+  "series": "The Empyrean #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Fourth Wing",
+   "author": "Rebecca Yarros",
+   "rating": 4.56,
+   "ratings_count": 4038877,
+   "url": "https://www.goodreads.com/book/show/217165422-fourth-wing"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-04",
+  "compartment": "C2",
+  "poly": [
+   [
+    2238,
+    1013
+   ],
+   [
+    2750,
+    1013
+   ],
+   [
+    2750,
+    1081
+   ],
+   [
+    2238,
+    1081
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "TOMORROW, AND TOMORROW, AND TOMORROW GABRIELLE ZEVIN",
+  "title": "Tomorrow, and Tomorrow, and Tomorrow",
+  "author": "Gabrielle Zevin",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tomorrow, and Tomorrow, and Tomorrow",
+   "author": "Gabrielle Zevin",
+   "rating": 4.1,
+   "ratings_count": 1485362,
+   "url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-05",
+  "compartment": "C2",
+  "poly": [
+   [
+    2236,
+    1081
+   ],
+   [
+    2750,
+    1081
+   ],
+   [
+    2750,
+    1183
+   ],
+   [
+    2236,
+    1183
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "V.E. SCHWAB The Fragile Threads of Power",
+  "title": "The Fragile Threads of Power",
+  "author": "V.E. Schwab",
+  "series": "Threads of Power #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Fragile Threads of Power (Threads of Power, #1)",
+   "author": "V.E. Schwab",
+   "rating": 4.25,
+   "ratings_count": 50462,
+   "url": "https://www.goodreads.com/book/show/111673828-the-fragile-threads-of-power"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-06",
+  "compartment": "C2",
+  "poly": [
+   [
+    2236,
+    1183
+   ],
+   [
+    2740,
+    1183
+   ],
+   [
+    2740,
+    1262
+   ],
+   [
+    2236,
+    1262
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "LEIGH BARDUGO HELL BENT",
+  "title": "Hell Bent",
+  "author": "Leigh Bardugo",
+  "series": "Alex Stern #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Hell Bent (Ninth House Trilogy, #2)",
+   "author": "Leigh Bardugo",
+   "rating": 4.11,
+   "ratings_count": 199529,
+   "url": "https://www.goodreads.com/book/show/60652997-hell-bent"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-07",
+  "compartment": "C2",
+  "poly": [
+   [
+    2236,
+    1262
+   ],
+   [
+    2750,
+    1262
+   ],
+   [
+    2750,
+    1340
+   ],
+   [
+    2236,
+    1340
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "LEIGH BARDUGO NINTH HOUSE",
+  "title": "Ninth House",
+  "author": "Leigh Bardugo",
+  "series": "Alex Stern #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Ninth House (Ninth House Trilogy, #1)",
+   "author": "Leigh Bardugo",
+   "rating": 4.0,
+   "ratings_count": 432590,
+   "url": "https://www.goodreads.com/book/show/43263680-ninth-house"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-08",
+  "compartment": "C2",
+  "poly": [
+   [
+    2760,
+    917
+   ],
+   [
+    3250,
+    917
+   ],
+   [
+    3250,
+    974
+   ],
+   [
+    2760,
+    974
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "MALIBU RISING TAYLOR JENKINS REID",
+  "title": "Malibu Rising",
+  "author": "Taylor Jenkins Reid",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Malibu Rising",
+   "author": "Taylor Jenkins Reid",
+   "rating": 4.02,
+   "ratings_count": 1385147,
+   "url": "https://www.goodreads.com/book/show/55404546-malibu-rising"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-09",
+  "compartment": "C2",
+  "poly": [
+   [
+    2755,
+    974
+   ],
+   [
+    3250,
+    974
+   ],
+   [
+    3250,
+    1028
+   ],
+   [
+    2755,
+    1028
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "HOLLY BLACK TITHE",
+  "title": "Tithe",
+  "author": "Holly Black",
+  "series": "Modern Faerie Tales #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tithe (Modern Faerie Tales, #1)",
+   "author": "Holly Black",
+   "rating": 3.68,
+   "ratings_count": 111055,
+   "url": "https://www.goodreads.com/book/show/46777.Tithe"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-10",
+  "compartment": "C2",
+  "poly": [
+   [
+    2757,
+    1028
+   ],
+   [
+    3252,
+    1028
+   ],
+   [
+    3252,
+    1100
+   ],
+   [
+    2757,
+    1100
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "OLIVIE BLAKE THE ATLAS PARADOX",
+  "title": "The Atlas Paradox",
+  "author": "Olivie Blake",
+  "series": "The Atlas #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Atlas Paradox (The Atlas, #2)",
+   "author": "Olivie Blake",
+   "rating": 3.49,
+   "ratings_count": 86667,
+   "url": "https://www.goodreads.com/book/show/57912066-the-atlas-paradox"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-11",
+  "compartment": "C2",
+  "poly": [
+   [
+    2765,
+    1100
+   ],
+   [
+    3252,
+    1100
+   ],
+   [
+    3252,
+    1160
+   ],
+   [
+    2765,
+    1160
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE ATLAS SIX OLIVIE BLAKE",
+  "title": "The Atlas Six",
+  "author": "Olivie Blake",
+  "series": "The Atlas #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Atlas Six (The Atlas, #1)",
+   "author": "Olivie Blake",
+   "rating": 3.53,
+   "ratings_count": 291245,
+   "url": "https://www.goodreads.com/book/show/50520939-the-atlas-six"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-12",
+  "compartment": "C2",
+  "poly": [
+   [
+    2757,
+    1160
+   ],
+   [
+    3252,
+    1160
+   ],
+   [
+    3252,
+    1229
+   ],
+   [
+    2757,
+    1229
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "WE WHO WILL DIE STACIA STARK",
+  "title": "We Who Will Die",
+  "author": "Stacia Stark",
+  "series": "Empire of Blood #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "We Who Will Die (Empire of Blood, #1)",
+   "author": "Stacia Stark",
+   "rating": 4.06,
+   "ratings_count": 99247,
+   "url": "https://www.goodreads.com/book/show/225910699-we-who-will-die"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-13",
+  "compartment": "C2",
+  "poly": [
+   [
+    2782,
+    1229
+   ],
+   [
+    3242,
+    1229
+   ],
+   [
+    3242,
+    1281
+   ],
+   [
+    2782,
+    1281
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "HWANG BO-REUM WELCOME TO THE HYUNAM-DONG BOOKSHOP",
+  "title": "Welcome to the Hyunam-dong Bookshop",
+  "author": "Hwang Bo-Reum",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Welcome to the Hyunam-Dong Bookshop",
+   "author": "Hwang Bo-Reum",
+   "rating": 3.87,
+   "ratings_count": 103250,
+   "url": "https://www.goodreads.com/book/show/133938826-welcome-to-the-hyunam-dong-bookshop"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-14",
+  "compartment": "C2",
+  "poly": [
+   [
+    2754,
+    1281
+   ],
+   [
+    3252,
+    1281
+   ],
+   [
+    3252,
+    1346
+   ],
+   [
+    2754,
+    1346
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CIRCE MADELINE MILLER",
+  "title": "Circe",
+  "author": "Madeline Miller",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Circe",
+   "author": "Madeline Miller",
+   "rating": 4.22,
+   "ratings_count": 1501333,
+   "url": "https://www.goodreads.com/book/show/35959740-circe"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-15",
+  "compartment": "C2",
+  "poly": [
+   [
+    3254,
+    900
+   ],
+   [
+    3331,
+    900
+   ],
+   [
+    3331,
+    1347
+   ],
+   [
+    3254,
+    1347
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE 7 1/2 DEATHS OF EVELYN HARDCASTLE STUART TURTON",
+  "title": "The 7½ Deaths of Evelyn Hardcastle",
+  "author": "Stuart Turton",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The 7½ Deaths of Evelyn Hardcastle",
+   "author": "Stuart Turton",
+   "rating": 3.77,
+   "ratings_count": 518438,
+   "url": "https://www.goodreads.com/book/show/36337550-the-7-deaths-of-evelyn-hardcastle"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-16",
+  "compartment": "C2",
+  "poly": [
+   [
+    3331,
+    872
+   ],
+   [
+    3380,
+    872
+   ],
+   [
+    3380,
+    1348
+   ],
+   [
+    3331,
+    1348
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SUSANNA CLARKE PIRANESI",
+  "title": "Piranesi",
+  "author": "Susanna Clarke",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Piranesi",
+   "author": "Susanna Clarke",
+   "rating": 4.19,
+   "ratings_count": 601412,
+   "url": "https://www.goodreads.com/book/show/50202953-piranesi"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-17",
+  "compartment": "C2",
+  "poly": [
+   [
+    3380,
+    850
+   ],
+   [
+    3434,
+    850
+   ],
+   [
+    3434,
+    1350
+   ],
+   [
+    3380,
+    1350
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "OLIVIE BLAKE ALONE WITH YOU IN THE ETHER",
+  "title": "Alone With You in the Ether",
+  "author": "Olivie Blake",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Alone With You in the Ether",
+   "author": "Olivie Blake",
+   "rating": 3.76,
+   "ratings_count": 114590,
+   "url": "https://www.goodreads.com/book/show/61126612-alone-with-you-in-the-ether"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-18",
+  "compartment": "C2",
+  "poly": [
+   [
+    3437,
+    925
+   ],
+   [
+    3873,
+    925
+   ],
+   [
+    3873,
+    1001
+   ],
+   [
+    3437,
+    1001
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "LORE ALEXANDRA BRACKEN",
+  "title": "Lore",
+  "author": "Alexandra Bracken",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Lore",
+   "author": "Alexandra Bracken",
+   "rating": 3.73,
+   "ratings_count": 111467,
+   "url": "https://www.goodreads.com/book/show/53375824-lore"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-19",
+  "compartment": "C2",
+  "poly": [
+   [
+    3440,
+    1001
+   ],
+   [
+    3878,
+    1001
+   ],
+   [
+    3878,
+    1066
+   ],
+   [
+    3440,
+    1066
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "OLIVIE BLAKE ONE FOR MY ENEMY",
+  "title": "One for My Enemy",
+  "author": "Olivie Blake",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "One for My Enemy",
+   "author": "Olivie Blake",
+   "rating": 3.68,
+   "ratings_count": 36885,
+   "url": "https://www.goodreads.com/book/show/43795562-one-for-my-enemy"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-20",
+  "compartment": "C2",
+  "poly": [
+   [
+    3437,
+    1066
+   ],
+   [
+    3873,
+    1066
+   ],
+   [
+    3873,
+    1125
+   ],
+   [
+    3437,
+    1125
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Daisy Jones & THE SIX TAYLOR JENKINS REID",
+  "title": "Daisy Jones & The Six",
+  "author": "Taylor Jenkins Reid",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Daisy Jones & The Six",
+   "author": "Taylor Jenkins Reid",
+   "rating": 4.19,
+   "ratings_count": 1964475,
+   "url": "https://www.goodreads.com/book/show/40597810-daisy-jones-the-six"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-21",
+  "compartment": "C2",
+  "poly": [
+   [
+    3434,
+    1125
+   ],
+   [
+    3869,
+    1125
+   ],
+   [
+    3869,
+    1175
+   ],
+   [
+    3434,
+    1175
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE SONG OF ACHILLES MADELINE MILLER",
+  "title": "The Song of Achilles",
+  "author": "Madeline Miller",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Song of Achilles",
+   "author": "Madeline Miller",
+   "rating": 4.3,
+   "ratings_count": 2210670,
+   "url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-22",
+  "compartment": "C2",
+  "poly": [
+   [
+    3434,
+    1175
+   ],
+   [
+    3878,
+    1175
+   ],
+   [
+    3878,
+    1250
+   ],
+   [
+    3434,
+    1250
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE BOOK THIEF MARKUS ZUSAK",
+  "title": "The Book Thief",
+  "author": "Markus Zusak",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Book Thief",
+   "author": "Markus Zusak",
+   "rating": 4.39,
+   "ratings_count": 2994657,
+   "url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-23",
+  "compartment": "C2",
+  "poly": [
+   [
+    3434,
+    1250
+   ],
+   [
+    3873,
+    1250
+   ],
+   [
+    3873,
+    1302
+   ],
+   [
+    3434,
+    1302
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "The SEVEN HUSBANDS of EVELYN HUGO TAYLOR JENKINS REID",
+  "title": "The Seven Husbands of Evelyn Hugo",
+  "author": "Taylor Jenkins Reid",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Seven Husbands of Evelyn Hugo",
+   "author": "Taylor Jenkins Reid",
+   "rating": 4.39,
+   "ratings_count": 4486976,
+   "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo"
+  },
+  "note": ""
+ },
+ {
+  "id": "C2-24",
+  "compartment": "C2",
+  "poly": [
+   [
+    3438,
+    1302
+   ],
+   [
+    3867,
+    1302
+   ],
+   [
+    3867,
+    1351
+   ],
+   [
+    3438,
+    1351
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Eleanor & PARK Rainbow Rowell",
+  "title": "Eleanor & Park",
+  "author": "Rainbow Rowell",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Eleanor & Park",
+   "author": "Rainbow Rowell",
+   "rating": 3.92,
+   "ratings_count": 1286428,
+   "url": "https://www.goodreads.com/book/show/15745753-eleanor-park"
+  },
+  "note": ""
+ }
+]

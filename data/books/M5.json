@@ -1,0 +1,742 @@
+[
+ {
+  "id": "M5-01",
+  "compartment": "M5",
+  "poly": [
+   [
+    1366,
+    2722
+   ],
+   [
+    1796,
+    2722
+   ],
+   [
+    1796,
+    2799
+   ],
+   [
+    1366,
+    2799
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CASSANDRA CLARE THE INFERNAL DEVICES 3 Clockwork Princess",
+  "title": "Clockwork Princess",
+  "author": "Cassandra Clare",
+  "series": "The Infernal Devices #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Clockwork Princess",
+   "author": "Cassandra Clare",
+   "rating": 4.55,
+   "ratings_count": 487968,
+   "url": "https://www.goodreads.com/book/show/18335634-clockwork-princess"
+  },
+  "note": "Lying, top of stack"
+ },
+ {
+  "id": "M5-02",
+  "compartment": "M5",
+  "poly": [
+   [
+    1366,
+    2799
+   ],
+   [
+    1796,
+    2799
+   ],
+   [
+    1796,
+    2869
+   ],
+   [
+    1366,
+    2869
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CASSANDRA CLARE THE INFERNAL DEVICES 2 Clockwork Prince",
+  "title": "Clockwork Prince",
+  "author": "Cassandra Clare",
+  "series": "The Infernal Devices #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Clockwork Prince",
+   "author": "Cassandra Clare",
+   "rating": 4.42,
+   "ratings_count": 596810,
+   "url": "https://www.goodreads.com/book/show/10025305-clockwork-prince"
+  },
+  "note": "Lying in stack"
+ },
+ {
+  "id": "M5-03",
+  "compartment": "M5",
+  "poly": [
+   [
+    1366,
+    2869
+   ],
+   [
+    1796,
+    2869
+   ],
+   [
+    1796,
+    2946
+   ],
+   [
+    1366,
+    2946
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CASSANDRA CLARE THE INFERNAL DEVICES 1 Clockwork Angel",
+  "title": "Clockwork Angel",
+  "author": "Cassandra Clare",
+  "series": "The Infernal Devices #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Clockwork Angel",
+   "author": "Cassandra Clare",
+   "rating": 4.3,
+   "ratings_count": 891908,
+   "url": "https://www.goodreads.com/book/show/7171637-clockwork-angel"
+  },
+  "note": "Lying in stack"
+ },
+ {
+  "id": "M5-04",
+  "compartment": "M5",
+  "poly": [
+   [
+    1366,
+    2946
+   ],
+   [
+    1796,
+    2946
+   ],
+   [
+    1796,
+    2999
+   ],
+   [
+    1366,
+    2999
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ALLISON SAFT A FRAGILE ENCHANTMENT Orion",
+  "title": "A Fragile Enchantment",
+  "author": "Allison Saft",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Fragile Enchantment",
+   "author": "Allison Saft",
+   "rating": 3.47,
+   "ratings_count": 29340,
+   "url": "https://www.goodreads.com/book/show/127305900-a-fragile-enchantment"
+  },
+  "note": "Lying, bottom of stack, resting on upright books"
+ },
+ {
+  "id": "M5-05",
+  "compartment": "M5",
+  "poly": [
+   [
+    1367,
+    3000
+   ],
+   [
+    1420,
+    3000
+   ],
+   [
+    1420,
+    3423
+   ],
+   [
+    1367,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "EDITION C.G. JUNG C. G. JUNG ARCHETYPEN",
+  "title": "Archetypen",
+  "author": "C. G. Jung",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Archetypes and the Collective Unconscious",
+   "author": "C.G. Jung",
+   "rating": 4.29,
+   "ratings_count": 7631,
+   "url": "https://www.goodreads.com/book/show/67890.The_Archetypes_and_the_Collective_Unconscious"
+  },
+  "note": "German dtv edition; Goodreads work is merged with the German 'Archetypen'"
+ },
+ {
+  "id": "M5-06",
+  "compartment": "M5",
+  "poly": [
+   [
+    1420,
+    3000
+   ],
+   [
+    1451,
+    3000
+   ],
+   [
+    1451,
+    3423
+   ],
+   [
+    1420,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANACONDA Freud · Abriss der Psychoanalyse",
+  "title": "Abriss der Psychoanalyse",
+  "author": "Sigmund Freud",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Abriß der Psychoanalyse",
+   "author": "Sigmund Freud",
+   "rating": 3.67,
+   "ratings_count": 2160,
+   "url": "https://www.goodreads.com/book/show/13499542-abri-der-psychoanalyse"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-07",
+  "compartment": "M5",
+  "poly": [
+   [
+    1451,
+    3000
+   ],
+   [
+    1502,
+    3000
+   ],
+   [
+    1502,
+    3423
+   ],
+   [
+    1451,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Albert Hofmann LSD – mein Sorgenkind Klett-Cotta",
+  "title": "LSD – mein Sorgenkind",
+  "author": "Albert Hofmann",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "LSD: My Problem Child",
+   "author": "Albert Hofmann",
+   "rating": 4.19,
+   "ratings_count": 4638,
+   "url": "https://www.goodreads.com/book/show/8791.LSD"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-08",
+  "compartment": "M5",
+  "poly": [
+   [
+    1502,
+    3000
+   ],
+   [
+    1555,
+    3000
+   ],
+   [
+    1555,
+    3423
+   ],
+   [
+    1502,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ADAM RUTHERFORD A Brief History of Everyone Who Ever Lived W&N",
+  "title": "A Brief History of Everyone Who Ever Lived",
+  "author": "Adam Rutherford",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Brief History of Everyone Who Ever Lived: The Stories in Our Genes",
+   "author": "Adam Rutherford",
+   "rating": 4.02,
+   "ratings_count": 12722,
+   "url": "https://www.goodreads.com/book/show/30135182-a-brief-history-of-everyone-who-ever-lived"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-09",
+  "compartment": "M5",
+  "poly": [
+   [
+    1555,
+    3000
+   ],
+   [
+    1605,
+    3000
+   ],
+   [
+    1605,
+    3423
+   ],
+   [
+    1555,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GOOD STRATEGY BAD STRATEGY RICHARD RUMELT P",
+  "title": "Good Strategy Bad Strategy",
+  "author": "Richard P. Rumelt",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Good Strategy Bad Strategy: The Difference and Why It Matters",
+   "author": "Richard P. Rumelt",
+   "rating": 4.12,
+   "ratings_count": 19349,
+   "url": "https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-10",
+  "compartment": "M5",
+  "poly": [
+   [
+    1605,
+    3000
+   ],
+   [
+    1651,
+    3000
+   ],
+   [
+    1651,
+    3423
+   ],
+   [
+    1605,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "surrounded by idiots thomas erikson",
+  "title": "Surrounded by Idiots",
+  "author": "Thomas Erikson",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Surrounded by Idiots",
+   "author": "Thomas Erikson",
+   "rating": 3.51,
+   "ratings_count": 85826,
+   "url": "https://www.goodreads.com/book/show/39101777-surrounded-by-idiots"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-11",
+  "compartment": "M5",
+  "poly": [
+   [
+    1651,
+    3000
+   ],
+   [
+    1699,
+    3000
+   ],
+   [
+    1699,
+    3423
+   ],
+   [
+    1651,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DANIEL KAHNEMAN THINKING, FAST AND SLOW Penguin",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Thinking, Fast and Slow",
+   "author": "Daniel Kahneman",
+   "rating": 4.16,
+   "ratings_count": 621498,
+   "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-12",
+  "compartment": "M5",
+  "poly": [
+   [
+    1699,
+    2994
+   ],
+   [
+    1725,
+    2994
+   ],
+   [
+    1725,
+    3423
+   ],
+   [
+    1699,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BURN AFTER WRITING SHARON JONES",
+  "title": "Burn After Writing",
+  "author": "Sharon Jones",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Burn After Writing",
+   "author": "Sharon Jones",
+   "rating": 4.01,
+   "ratings_count": 2426,
+   "url": "https://www.goodreads.com/book/show/23340689-burn-after-writing"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-13",
+  "compartment": "M5",
+  "poly": [
+   [
+    1725,
+    2994
+   ],
+   [
+    1780,
+    2994
+   ],
+   [
+    1780,
+    3423
+   ],
+   [
+    1725,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "INFLUENCE The Psychology of Persuasion ROBERT B. CIALDINI, PH.D. HARPER",
+  "title": "Influence: The Psychology of Persuasion",
+  "author": "Robert B. Cialdini",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Influence: The Psychology of Persuasion",
+   "author": "Robert B. Cialdini",
+   "rating": 4.21,
+   "ratings_count": 186161,
+   "url": "https://www.goodreads.com/book/show/28815.Influence"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-14",
+  "compartment": "M5",
+  "poly": [
+   [
+    1780,
+    2992
+   ],
+   [
+    1825,
+    2992
+   ],
+   [
+    1825,
+    3423
+   ],
+   [
+    1780,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ALEX PENTLAND SOCIAL PHYSICS HOW SOCIAL NETWORKS CAN MAKE US SMARTER Penguin",
+  "title": "Social Physics",
+  "author": "Alex Pentland",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Social Physics: How Good Ideas Spread— The Lessons from a New Science",
+   "author": "Alex Pentland",
+   "rating": 3.53,
+   "ratings_count": 1440,
+   "url": "https://www.goodreads.com/book/show/18079689-social-physics"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-15",
+  "compartment": "M5",
+  "poly": [
+   [
+    1825,
+    2981
+   ],
+   [
+    1874,
+    2981
+   ],
+   [
+    1874,
+    3423
+   ],
+   [
+    1825,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Psycho-Cybernetics MAXWELL MALTZ, MD, FICS TarcherPerigee",
+  "title": "Psycho-Cybernetics",
+  "author": "Maxwell Maltz",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Psycho-Cybernetics: A New Way to Get More Living Out of Life",
+   "author": "Maxwell Maltz",
+   "rating": 4.24,
+   "ratings_count": 31482,
+   "url": "https://www.goodreads.com/book/show/155981.Psycho_Cybernetics"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-16",
+  "compartment": "M5",
+  "poly": [
+   [
+    1874,
+    2991
+   ],
+   [
+    1930,
+    2991
+   ],
+   [
+    1930,
+    3423
+   ],
+   [
+    1874,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE MYTH OF MENTAL ILLNESS Foundations of a Theory of Personal Conduct THOMAS S. SZASZ, M.D. HARPER PERENNIAL",
+  "title": "The Myth of Mental Illness",
+  "author": "Thomas S. Szasz",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Myth of Mental Illness: Foundations of a Theory of Personal Conduct",
+   "author": "Thomas Szasz",
+   "rating": 3.76,
+   "ratings_count": 1854,
+   "url": "https://www.goodreads.com/book/show/706525.The_Myth_of_Mental_Illness"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-17",
+  "compartment": "M5",
+  "poly": [
+   [
+    1932,
+    2983
+   ],
+   [
+    1994,
+    2983
+   ],
+   [
+    1994,
+    3423
+   ],
+   [
+    1932,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MISBEHAVING The Making of Behavioral Economics Richard H. Thaler NORTON",
+  "title": "Misbehaving: The Making of Behavioral Economics",
+  "author": "Richard H. Thaler",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Misbehaving: The Making of Behavioral Economics",
+   "author": "Richard H. Thaler",
+   "rating": 4.16,
+   "ratings_count": 24477,
+   "url": "https://www.goodreads.com/book/show/26530355-misbehaving"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-18",
+  "compartment": "M5",
+  "poly": [
+   [
+    1994,
+    2981
+   ],
+   [
+    2047,
+    2981
+   ],
+   [
+    2047,
+    3423
+   ],
+   [
+    1994,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DON NORMAN The DESIGN of EVERYDAY THINGS BASIC BOOKS",
+  "title": "The Design of Everyday Things",
+  "author": "Don Norman",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Design of Everyday Things",
+   "author": "Donald A. Norman",
+   "rating": 4.15,
+   "ratings_count": 49552,
+   "url": "https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-19",
+  "compartment": "M5",
+  "poly": [
+   [
+    2047,
+    2969
+   ],
+   [
+    2095,
+    2969
+   ],
+   [
+    2095,
+    3423
+   ],
+   [
+    2047,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "RICHARD H. THALER CASS R. SUNSTEIN Nudge Improving Decisions About Health, Wealth, and Happiness Penguin",
+  "title": "Nudge",
+  "author": "Richard H. Thaler, Cass R. Sunstein",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+   "author": "Richard H. Thaler",
+   "rating": 3.84,
+   "ratings_count": 97326,
+   "url": "https://www.goodreads.com/book/show/3450744-nudge"
+  },
+  "note": ""
+ },
+ {
+  "id": "M5-20",
+  "compartment": "M5",
+  "poly": [
+   [
+    2095,
+    2947
+   ],
+   [
+    2150,
+    2947
+   ],
+   [
+    2150,
+    3423
+   ],
+   [
+    2095,
+    3423
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MAPS OF MEANING THE ARCHITECTURE OF BELIEF JORDAN B. PETERSON Routledge",
+  "title": "Maps of Meaning: The Architecture of Belief",
+  "author": "Jordan B. Peterson",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Maps of Meaning: The Architecture of Belief",
+   "author": "Jordan B. Peterson",
+   "rating": 4.03,
+   "ratings_count": 6849,
+   "url": "https://www.goodreads.com/book/show/2218102.Maps_of_Meaning"
+  },
+  "note": ""
+ }
+]

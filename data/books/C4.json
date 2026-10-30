@@ -1,0 +1,1297 @@
+[
+ {
+  "id": "C4-01",
+  "compartment": "C4",
+  "poly": [
+   [
+    2234,
+    2225
+   ],
+   [
+    2331,
+    2225
+   ],
+   [
+    2331,
+    2739
+   ],
+   [
+    2234,
+    2739
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BOOK I THE WILL OF THE MANY JAMES ISLINGTON SAGA PRESS",
+  "title": "The Will of the Many",
+  "author": "James Islington",
+  "series": "Hierarchy #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Will of the Many (Hierarchy, #1)",
+   "author": "James Islington",
+   "rating": 4.56,
+   "ratings_count": 298429,
+   "url": "https://www.goodreads.com/book/show/58416952-the-will-of-the-many"
+  },
+  "note": "appears hazy in the panorama (stitching ghost overlay)"
+ },
+ {
+  "id": "C4-02",
+  "compartment": "C4",
+  "poly": [
+   [
+    2331,
+    2236
+   ],
+   [
+    2386,
+    2236
+   ],
+   [
+    2386,
+    2742
+   ],
+   [
+    2331,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEVENSELLER THE SHADOWS BETWEEN US",
+  "title": "The Shadows Between Us",
+  "author": "Tricia Levenseller",
+  "series": "The Stathos Sisters #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Shadows Between Us (The Stathos Sisters, #1)",
+   "author": "Tricia Levenseller",
+   "rating": 3.81,
+   "ratings_count": 226177,
+   "url": "https://www.goodreads.com/book/show/35702241-the-shadows-between-us"
+  },
+  "note": "appears hazy in the panorama (stitching ghost overlay)"
+ },
+ {
+  "id": "C4-03",
+  "compartment": "C4",
+  "poly": [
+   [
+    2386,
+    2317
+   ],
+   [
+    2458,
+    2317
+   ],
+   [
+    2458,
+    2742
+   ],
+   [
+    2386,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "CLEOPATRA and FRANKENSTEIN COCO MELLORS 4th",
+  "title": "Cleopatra and Frankenstein",
+  "author": "Coco Mellors",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Cleopatra and Frankenstein",
+   "author": "Coco Mellors",
+   "rating": 3.67,
+   "ratings_count": 267893,
+   "url": "https://www.goodreads.com/book/show/60784819-cleopatra-and-frankenstein"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-04",
+  "compartment": "C4",
+  "poly": [
+   [
+    2458,
+    2320
+   ],
+   [
+    2482,
+    2320
+   ],
+   [
+    2482,
+    2742
+   ],
+   [
+    2458,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "CONVENIENCE STORE WOMAN SAYAKA MURATA GRANTA",
+  "title": "Convenience Store Woman",
+  "author": "Sayaka Murata",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Convenience Store Woman",
+   "author": "Sayaka Murata",
+   "rating": 3.66,
+   "ratings_count": 415767,
+   "url": "https://www.goodreads.com/book/show/36739755-convenience-store-woman"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-05",
+  "compartment": "C4",
+  "poly": [
+   [
+    2482,
+    2320
+   ],
+   [
+    2511,
+    2320
+   ],
+   [
+    2511,
+    2742
+   ],
+   [
+    2482,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE VEGETARIAN HAN KANG GRANTA",
+  "title": "The Vegetarian",
+  "author": "Han Kang",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Vegetarian",
+   "author": "Han Kang",
+   "rating": 3.65,
+   "ratings_count": 470581,
+   "url": "https://www.goodreads.com/book/show/25489025-the-vegetarian"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-06",
+  "compartment": "C4",
+  "poly": [
+   [
+    2511,
+    2305
+   ],
+   [
+    2559,
+    2305
+   ],
+   [
+    2559,
+    2742
+   ],
+   [
+    2511,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Michiko Aoyama What you are looking for is in the library",
+  "title": "What You Are Looking For Is in the Library",
+  "author": "Michiko Aoyama",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "What You Are Looking for Is in the Library",
+   "author": "Michiko Aoyama",
+   "rating": 4.01,
+   "ratings_count": 145264,
+   "url": "https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-07",
+  "compartment": "C4",
+  "poly": [
+   [
+    2559,
+    2307
+   ],
+   [
+    2580,
+    2307
+   ],
+   [
+    2580,
+    2742
+   ],
+   [
+    2559,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Days at the Morisaki Bookshop SATOSHI YAGISAWA",
+  "title": "Days at the Morisaki Bookshop",
+  "author": "Satoshi Yagisawa",
+  "series": "Days at the Morisaki Bookshop #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)",
+   "author": "Satoshi Yagisawa",
+   "rating": 3.63,
+   "ratings_count": 225429,
+   "url": "https://www.goodreads.com/book/show/62047992-days-at-the-morisaki-bookshop"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-08",
+  "compartment": "C4",
+  "poly": [
+   [
+    2580,
+    2311
+   ],
+   [
+    2614,
+    2311
+   ],
+   [
+    2614,
+    2742
+   ],
+   [
+    2580,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Days at the Torunka Cafe SATOSHI YAGISAWA",
+  "title": "Days at the Torunka Café",
+  "author": "Satoshi Yagisawa",
+  "series": "Days at the Torunka Café #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Days at the Torunka Café (Days at the Torunka Café, #1)",
+   "author": "Satoshi Yagisawa",
+   "rating": 3.73,
+   "ratings_count": 8777,
+   "url": "https://www.goodreads.com/book/show/226381619-days-at-the-torunka-caf"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-09",
+  "compartment": "C4",
+  "poly": [
+   [
+    2614,
+    2282
+   ],
+   [
+    2651,
+    2282
+   ],
+   [
+    2651,
+    2742
+   ],
+   [
+    2614,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The Bookshop Woman Nanako Hanada",
+  "title": "The Bookshop Woman",
+  "author": "Nanako Hanada",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Bookshop Woman",
+   "author": "Nanako Hanada",
+   "rating": 3.45,
+   "ratings_count": 6080,
+   "url": "https://www.goodreads.com/book/show/198403445-the-bookshop-woman"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-10",
+  "compartment": "C4",
+  "poly": [
+   [
+    2651,
+    2313
+   ],
+   [
+    2693,
+    2313
+   ],
+   [
+    2693,
+    2742
+   ],
+   [
+    2651,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WON-PYUNG SOHN ALMOND",
+  "title": "Almond",
+  "author": "Won-pyung Sohn",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Almond",
+   "author": "Sohn Won-Pyung",
+   "rating": 4.13,
+   "ratings_count": 201512,
+   "url": "https://www.goodreads.com/book/show/52219386-almond"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-11",
+  "compartment": "C4",
+  "poly": [
+   [
+    2693,
+    2324
+   ],
+   [
+    2723,
+    2324
+   ],
+   [
+    2723,
+    2742
+   ],
+   [
+    2693,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Before the coffee gets cold TOSHIKAZU KAWAGUCHI PICADOR",
+  "title": "Before the Coffee Gets Cold",
+  "author": "Toshikazu Kawaguchi",
+  "series": "Before the Coffee Gets Cold #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)",
+   "author": "Toshikazu Kawaguchi",
+   "rating": 3.64,
+   "ratings_count": 786393,
+   "url": "https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-12",
+  "compartment": "C4",
+  "poly": [
+   [
+    2723,
+    2324
+   ],
+   [
+    2754,
+    2324
+   ],
+   [
+    2754,
+    2742
+   ],
+   [
+    2723,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Tales from the Cafe TOSHIKAZU KAWAGUCHI PICADOR",
+  "title": "Tales from the Cafe",
+  "author": "Toshikazu Kawaguchi",
+  "series": "Before the Coffee Gets Cold #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tales from the Cafe (Before the Coffee Gets Cold, #2)",
+   "author": "Toshikazu Kawaguchi",
+   "rating": 3.95,
+   "ratings_count": 151023,
+   "url": "https://www.goodreads.com/book/show/54373691-tales-from-the-cafe"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-13",
+  "compartment": "C4",
+  "poly": [
+   [
+    2754,
+    2324
+   ],
+   [
+    2795,
+    2324
+   ],
+   [
+    2795,
+    2742
+   ],
+   [
+    2754,
+    2742
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Before your memory fades TOSHIKAZU KAWAGUCHI PICADOR",
+  "title": "Before Your Memory Fades",
+  "author": "Toshikazu Kawaguchi",
+  "series": "Before the Coffee Gets Cold #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Before Your Memory Fades (Before the Coffee Gets Cold, #3)",
+   "author": "Toshikazu Kawaguchi",
+   "rating": 3.87,
+   "ratings_count": 74150,
+   "url": "https://www.goodreads.com/book/show/60224365-before-your-memory-fades"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-14",
+  "compartment": "C4",
+  "poly": [
+   [
+    2795,
+    2318
+   ],
+   [
+    2854,
+    2318
+   ],
+   [
+    2854,
+    2740
+   ],
+   [
+    2795,
+    2740
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "TROY Stephen Fry",
+  "title": "Troy",
+  "author": "Stephen Fry",
+  "series": "Stephen Fry's Great Mythology #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Troy (Stephen Fry's Great Mythology, #3)",
+   "author": "Stephen Fry",
+   "rating": 4.34,
+   "ratings_count": 50760,
+   "url": "https://www.goodreads.com/book/show/53443339-troy"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-15",
+  "compartment": "C4",
+  "poly": [
+   [
+    2854,
+    2318
+   ],
+   [
+    2924,
+    2318
+   ],
+   [
+    2924,
+    2740
+   ],
+   [
+    2854,
+    2740
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Stephen Fry HEROES",
+  "title": "Heroes",
+  "author": "Stephen Fry",
+  "series": "Stephen Fry's Great Mythology #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)",
+   "author": "Stephen Fry",
+   "rating": 4.31,
+   "ratings_count": 67129,
+   "url": "https://www.goodreads.com/book/show/41433634-heroes"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-16",
+  "compartment": "C4",
+  "poly": [
+   [
+    2924,
+    2322
+   ],
+   [
+    2990,
+    2322
+   ],
+   [
+    2990,
+    2738
+   ],
+   [
+    2924,
+    2738
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Stephen Fry MYTHOS",
+  "title": "Mythos",
+  "author": "Stephen Fry",
+  "series": "Stephen Fry's Great Mythology #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Mythos - The Greek Myths Retold (Stephen Fry's Great Mythology, #1)",
+   "author": "Stephen Fry",
+   "rating": 4.25,
+   "ratings_count": 182314,
+   "url": "https://www.goodreads.com/book/show/35074096-mythos---the-greek-myths-retold"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-17",
+  "compartment": "C4",
+  "poly": [
+   [
+    2990,
+    2321
+   ],
+   [
+    3052,
+    2321
+   ],
+   [
+    3052,
+    2736
+   ],
+   [
+    2990,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GAIL HONEYMAN Eleanor Oliphant is Completely Fine",
+  "title": "Eleanor Oliphant Is Completely Fine",
+  "author": "Gail Honeyman",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Eleanor Oliphant Is Completely Fine",
+   "author": "Gail Honeyman",
+   "rating": 4.22,
+   "ratings_count": 1506797,
+   "url": "https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-18",
+  "compartment": "C4",
+  "poly": [
+   [
+    3052,
+    2322
+   ],
+   [
+    3096,
+    2322
+   ],
+   [
+    3096,
+    2736
+   ],
+   [
+    3052,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SALLY ROONEY NORMAL PEOPLE ff",
+  "title": "Normal People",
+  "author": "Sally Rooney",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Normal People",
+   "author": "Sally Rooney",
+   "rating": 3.81,
+   "ratings_count": 2020718,
+   "url": "https://www.goodreads.com/book/show/41057294-normal-people"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-19",
+  "compartment": "C4",
+  "poly": [
+   [
+    3096,
+    2326
+   ],
+   [
+    3131,
+    2326
+   ],
+   [
+    3131,
+    2736
+   ],
+   [
+    3096,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DALLERGUT DREAM DEPARTMENT STORE MIYE LEE",
+  "title": "The DallerGut Dream Department Store",
+  "author": "Miye Lee",
+  "series": "DallerGut Dream Department Store #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The DallerGut Dream Department Store (DallerGut Dream Department Store, #1)",
+   "author": "Miye Lee",
+   "rating": 3.63,
+   "ratings_count": 46952,
+   "url": "https://www.goodreads.com/book/show/199524153-the-dallergut-dream-department-store"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-20",
+  "compartment": "C4",
+  "poly": [
+   [
+    3131,
+    2326
+   ],
+   [
+    3198,
+    2326
+   ],
+   [
+    3198,
+    2736
+   ],
+   [
+    3131,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "V E SCHWAB our dark duet TITAN BOOKS",
+  "title": "Our Dark Duet",
+  "author": "V.E. Schwab",
+  "series": "Monsters of Verity #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Our Dark Duet (Monsters of Verity, #2)",
+   "author": "Victoria Schwab",
+   "rating": 4.11,
+   "ratings_count": 63063,
+   "url": "https://www.goodreads.com/book/show/32075662-our-dark-duet"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-21",
+  "compartment": "C4",
+  "poly": [
+   [
+    3198,
+    2326
+   ],
+   [
+    3253,
+    2326
+   ],
+   [
+    3253,
+    2736
+   ],
+   [
+    3198,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "this savage song V E SCHWAB TITAN BOOKS",
+  "title": "This Savage Song",
+  "author": "V.E. Schwab",
+  "series": "Monsters of Verity #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "This Savage Song (Monsters of Verity, #1)",
+   "author": "Victoria Schwab",
+   "rating": 4.02,
+   "ratings_count": 114910,
+   "url": "https://www.goodreads.com/book/show/40642172-this-savage-song"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-22",
+  "compartment": "C4",
+  "poly": [
+   [
+    3253,
+    2326
+   ],
+   [
+    3309,
+    2326
+   ],
+   [
+    3309,
+    2736
+   ],
+   [
+    3253,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE HAWTHORNE LEGACY JENNIFER LYNN BARNES",
+  "title": "The Hawthorne Legacy",
+  "author": "Jennifer Lynn Barnes",
+  "series": "The Inheritance Games #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Hawthorne Legacy (The Inheritance Games, #2)",
+   "author": "Jennifer Lynn Barnes",
+   "rating": 4.18,
+   "ratings_count": 676844,
+   "url": "https://www.goodreads.com/book/show/50531218-the-hawthorne-legacy"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-23",
+  "compartment": "C4",
+  "poly": [
+   [
+    3309,
+    2327
+   ],
+   [
+    3366,
+    2327
+   ],
+   [
+    3366,
+    2736
+   ],
+   [
+    3309,
+    2736
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE FINAL GAMBIT JENNIFER LYNN BARNES",
+  "title": "The Final Gambit",
+  "author": "Jennifer Lynn Barnes",
+  "series": "The Inheritance Games #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Final Gambit (The Inheritance Games, #3)",
+   "author": "Jennifer Lynn Barnes",
+   "rating": 4.09,
+   "ratings_count": 509196,
+   "url": "https://www.goodreads.com/book/show/58658940-the-final-gambit"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-24",
+  "compartment": "C4",
+  "poly": [
+   [
+    3366,
+    2325
+   ],
+   [
+    3422,
+    2325
+   ],
+   [
+    3422,
+    2737
+   ],
+   [
+    3366,
+    2737
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE INHERITANCE GAMES JENNIFER LYNN BARNES",
+  "title": "The Inheritance Games",
+  "author": "Jennifer Lynn Barnes",
+  "series": "The Inheritance Games #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Inheritance Games (The Inheritance Games, #1)",
+   "author": "Jennifer Lynn Barnes",
+   "rating": 4.12,
+   "ratings_count": 1166698,
+   "url": "https://www.goodreads.com/book/show/52439531-the-inheritance-games"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-25",
+  "compartment": "C4",
+  "poly": [
+   [
+    3431,
+    2209
+   ],
+   [
+    3850,
+    2209
+   ],
+   [
+    3850,
+    2248
+   ],
+   [
+    3431,
+    2248
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE QUEEN'S GAMBIT WALTER TEVIS",
+  "title": "The Queen's Gambit",
+  "author": "Walter Tevis",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Queen's Gambit",
+   "author": "Walter Tevis",
+   "rating": 4.18,
+   "ratings_count": 143838,
+   "url": "https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit"
+  },
+  "note": "top of lying stack; upper part hidden behind the shelf board above"
+ },
+ {
+  "id": "C4-26",
+  "compartment": "C4",
+  "poly": [
+   [
+    3431,
+    2248
+   ],
+   [
+    3850,
+    2248
+   ],
+   [
+    3850,
+    2293
+   ],
+   [
+    3431,
+    2293
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "SALLY ROONEY CONVERSATIONS WITH FRIENDS",
+  "title": "Conversations with Friends",
+  "author": "Sally Rooney",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Conversations with Friends",
+   "author": "Sally Rooney",
+   "rating": 3.72,
+   "ratings_count": 638962,
+   "url": "https://www.goodreads.com/book/show/32187419-conversations-with-friends"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-27",
+  "compartment": "C4",
+  "poly": [
+   [
+    3429,
+    2293
+   ],
+   [
+    3851,
+    2293
+   ],
+   [
+    3851,
+    2347
+   ],
+   [
+    3429,
+    2347
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Small Pleasures Clare Chambers W&N",
+  "title": "Small Pleasures",
+  "author": "Clare Chambers",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Small Pleasures",
+   "author": "Clare Chambers",
+   "rating": 3.75,
+   "ratings_count": 73590,
+   "url": "https://www.goodreads.com/book/show/51475209-small-pleasures"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-28",
+  "compartment": "C4",
+  "poly": [
+   [
+    3426,
+    2347
+   ],
+   [
+    3844,
+    2347
+   ],
+   [
+    3844,
+    2379
+   ],
+   [
+    3426,
+    2379
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "KIM JIYOUNG, BORN 1982 CHO NAM-JOO",
+  "title": "Kim Jiyoung, Born 1982",
+  "author": "Cho Nam-Joo",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kim Jiyoung, Born 1982",
+   "author": "Cho Nam-Joo",
+   "rating": 4.16,
+   "ratings_count": 203181,
+   "url": "https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-29",
+  "compartment": "C4",
+  "poly": [
+   [
+    3426,
+    2379
+   ],
+   [
+    3847,
+    2379
+   ],
+   [
+    3847,
+    2433
+   ],
+   [
+    3426,
+    2433
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "EVIE WOODS The Lost Bookshop",
+  "title": "The Lost Bookshop",
+  "author": "Evie Woods",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Lost Bookshop",
+   "author": "Evie Woods",
+   "rating": 3.96,
+   "ratings_count": 398163,
+   "url": "https://www.goodreads.com/book/show/65137920-the-lost-bookshop"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-30",
+  "compartment": "C4",
+  "poly": [
+   [
+    3429,
+    2433
+   ],
+   [
+    3845,
+    2433
+   ],
+   [
+    3845,
+    2467
+   ],
+   [
+    3429,
+    2467
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "This Is How You Lose the Time War AMAL EL-MOHTAR MAX GLADSTONE",
+  "title": "This Is How You Lose the Time War",
+  "author": "Amal El-Mohtar, Max Gladstone",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "This Is How You Lose the Time War",
+   "author": "Amal El-Mohtar",
+   "rating": 3.82,
+   "ratings_count": 379106,
+   "url": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war"
+  },
+  "note": ""
+ },
+ {
+  "id": "C4-31",
+  "compartment": "C4",
+  "poly": [
+   [
+    3426,
+    2467
+   ],
+   [
+    3844,
+    2467
+   ],
+   [
+    3844,
+    2518
+   ],
+   [
+    3426,
+    2518
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Love, Theoretically ALI HAZELWOOD",
+  "title": "Love, Theoretically",
+  "author": "Ali Hazelwood",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Love, Theoretically",
+   "author": "Ali Hazelwood",
+   "rating": 4.08,
+   "ratings_count": 757651,
+   "url": "https://www.goodreads.com/book/show/61326735-love-theoretically"
+  },
+  "note": "right part partly hidden behind decorative '&'"
+ },
+ {
+  "id": "C4-32",
+  "compartment": "C4",
+  "poly": [
+   [
+    3429,
+    2518
+   ],
+   [
+    3849,
+    2518
+   ],
+   [
+    3849,
+    2569
+   ],
+   [
+    3429,
+    2569
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A NATURAL HISTORY of DRAGONS ...E BRE[NNAN]",
+  "title": "A Natural History of Dragons",
+  "author": "Marie Brennan",
+  "series": "The Memoirs of Lady Trent #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Natural History of Dragons (The Memoirs of Lady Trent, #1)",
+   "author": "Marie Brennan",
+   "rating": 3.83,
+   "ratings_count": 49651,
+   "url": "https://www.goodreads.com/book/show/12974372-a-natural-history-of-dragons"
+  },
+  "note": "author partly hidden behind decorative '&'"
+ },
+ {
+  "id": "C4-33",
+  "compartment": "C4",
+  "poly": [
+   [
+    3430,
+    2569
+   ],
+   [
+    3849,
+    2569
+   ],
+   [
+    3849,
+    2626
+   ],
+   [
+    3430,
+    2626
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Uprooted [NA]OMI [NOVIK]",
+  "title": "Uprooted",
+  "author": "Naomi Novik",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Uprooted",
+   "author": "Naomi Novik",
+   "rating": 4.01,
+   "ratings_count": 275216,
+   "url": "https://www.goodreads.com/book/show/22544764-uprooted"
+  },
+  "note": "author partly hidden behind decorative '&'"
+ },
+ {
+  "id": "C4-34",
+  "compartment": "C4",
+  "poly": [
+   [
+    3433,
+    2626
+   ],
+   [
+    3851,
+    2626
+   ],
+   [
+    3851,
+    2671
+   ],
+   [
+    3433,
+    2671
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE BEAUTIFUL O[NES] Silvia [Moren]o-Ga[rcia]",
+  "title": "The Beautiful Ones",
+  "author": "Silvia Moreno-Garcia",
+  "series": null,
+  "language": "en",
+  "confidence": "medium",
+  "goodreads": {
+   "title": "The Beautiful Ones",
+   "author": "Silvia Moreno-Garcia",
+   "rating": 3.83,
+   "ratings_count": 26052,
+   "url": "https://www.goodreads.com/book/show/240019877-the-beautiful-ones"
+  },
+  "note": "title partly hidden behind decorative '&'"
+ },
+ {
+  "id": "C4-35",
+  "compartment": "C4",
+  "poly": [
+   [
+    3433,
+    2671
+   ],
+   [
+    3850,
+    2671
+   ],
+   [
+    3850,
+    2737
+   ],
+   [
+    3433,
+    2737
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Spinning Silv[er] NAOMI NOVIK",
+  "title": "Spinning Silver",
+  "author": "Naomi Novik",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Spinning Silver",
+   "author": "Naomi Novik",
+   "rating": 4.17,
+   "ratings_count": 159757,
+   "url": "https://www.goodreads.com/book/show/36896898-spinning-silver"
+  },
+  "note": "bottom of lying stack; partly hidden behind decorative '&'"
+ }
+]

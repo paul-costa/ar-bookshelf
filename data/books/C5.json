@@ -1,0 +1,1038 @@
+[
+ {
+  "id": "C5-01",
+  "compartment": "C5",
+  "poly": [
+   [
+    2240,
+    3052
+   ],
+   [
+    2296,
+    3052
+   ],
+   [
+    2296,
+    3478
+   ],
+   [
+    2240,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BOOK 1 THE MAZE RUNNER JAMES DASHNER",
+  "title": "The Maze Runner",
+  "author": "James Dashner",
+  "series": "The Maze Runner #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Maze Runner (The Maze Runner, #1)",
+   "author": "James Dashner",
+   "rating": 4.06,
+   "ratings_count": 1757439,
+   "url": "https://www.goodreads.com/book/show/6186357-the-maze-runner"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-02",
+  "compartment": "C5",
+  "poly": [
+   [
+    2296,
+    3052
+   ],
+   [
+    2350,
+    3052
+   ],
+   [
+    2350,
+    3478
+   ],
+   [
+    2296,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BOOK 2 THE SCORCH TRIALS JAMES DASHNER",
+  "title": "The Scorch Trials",
+  "author": "James Dashner",
+  "series": "The Maze Runner #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Scorch Trials (The Maze Runner, #2)",
+   "author": "James Dashner",
+   "rating": 3.9,
+   "ratings_count": 670823,
+   "url": "https://www.goodreads.com/book/show/7631105-the-scorch-trials"
+  },
+  "note": "title faint, read as THE SCORCH TRIALS"
+ },
+ {
+  "id": "C5-03",
+  "compartment": "C5",
+  "poly": [
+   [
+    2350,
+    3052
+   ],
+   [
+    2400,
+    3052
+   ],
+   [
+    2400,
+    3478
+   ],
+   [
+    2350,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BOOK 3 THE DEATH CURE JAMES DASHNER",
+  "title": "The Death Cure",
+  "author": "James Dashner",
+  "series": "The Maze Runner #3",
+  "language": "en",
+  "confidence": "medium",
+  "goodreads": {
+   "title": "The Death Cure (The Maze Runner, #3)",
+   "author": "James Dashner",
+   "rating": 3.79,
+   "ratings_count": 518902,
+   "url": "https://www.goodreads.com/book/show/7864437-the-death-cure"
+  },
+  "note": "title faint"
+ },
+ {
+  "id": "C5-04",
+  "compartment": "C5",
+  "poly": [
+   [
+    2400,
+    3060
+   ],
+   [
+    2456,
+    3060
+   ],
+   [
+    2456,
+    3478
+   ],
+   [
+    2400,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "[red title illegible] JAMES DASHNER",
+  "title": "The Kill Order",
+  "author": "James Dashner",
+  "series": "The Maze Runner #4",
+  "language": "en",
+  "confidence": "low",
+  "goodreads": {
+   "title": "The Kill Order (The Maze Runner, #4)",
+   "author": "James Dashner",
+   "rating": 3.71,
+   "ratings_count": 269689,
+   "url": "https://www.goodreads.com/book/show/13089710-the-kill-order"
+  },
+  "note": "Chicken House edition without book number; red title unreadable, prequel guessed (could be The Fever Code)"
+ },
+ {
+  "id": "C5-05",
+  "compartment": "C5",
+  "poly": [
+   [
+    2456,
+    3052
+   ],
+   [
+    2534,
+    3052
+   ],
+   [
+    2534,
+    3472
+   ],
+   [
+    2456,
+    3472
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE AUSERWÄHLTEN 3 IN DER TODESZONE",
+  "title": "Die Auserwählten - In der Todeszone",
+  "author": "James Dashner",
+  "series": "The Maze Runner #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Death Cure (The Maze Runner, #3)",
+   "author": "James Dashner",
+   "rating": 3.79,
+   "ratings_count": 518902,
+   "url": "https://www.goodreads.com/book/show/7864437-the-death-cure"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-06",
+  "compartment": "C5",
+  "poly": [
+   [
+    2534,
+    3052
+   ],
+   [
+    2603,
+    3052
+   ],
+   [
+    2603,
+    3472
+   ],
+   [
+    2534,
+    3472
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE AUSERWÄHLTEN 2 IN DER BRANDWÜSTE",
+  "title": "Die Auserwählten - In der Brandwüste",
+  "author": "James Dashner",
+  "series": "The Maze Runner #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Scorch Trials (The Maze Runner, #2)",
+   "author": "James Dashner",
+   "rating": 3.9,
+   "ratings_count": 670823,
+   "url": "https://www.goodreads.com/book/show/7631105-the-scorch-trials"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-07",
+  "compartment": "C5",
+  "poly": [
+   [
+    2603,
+    3052
+   ],
+   [
+    2678,
+    3052
+   ],
+   [
+    2678,
+    3472
+   ],
+   [
+    2603,
+    3472
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE AUSERWÄHLTEN 1 IM LABYRINTH",
+  "title": "Die Auserwählten - Im Labyrinth",
+  "author": "James Dashner",
+  "series": "The Maze Runner #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Maze Runner (The Maze Runner, #1)",
+   "author": "James Dashner",
+   "rating": 4.06,
+   "ratings_count": 1757439,
+   "url": "https://www.goodreads.com/book/show/6186357-the-maze-runner"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-08",
+  "compartment": "C5",
+  "poly": [
+   [
+    2678,
+    3046
+   ],
+   [
+    2729,
+    3046
+   ],
+   [
+    2729,
+    3490
+   ],
+   [
+    2678,
+    3490
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "NEON GODS KATEE ROBERT",
+  "title": "Neon Gods",
+  "author": "Katee Robert",
+  "series": "Dark Olympus #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Neon Gods (Dark Olympus, #1)",
+   "author": "Katee Robert",
+   "rating": 3.67,
+   "ratings_count": 325191,
+   "url": "https://www.goodreads.com/book/show/54659771-neon-gods"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-09",
+  "compartment": "C5",
+  "poly": [
+   [
+    2729,
+    3046
+   ],
+   [
+    2785,
+    3046
+   ],
+   [
+    2785,
+    3490
+   ],
+   [
+    2729,
+    3490
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ELECTRIC IDOL KATEE ROBERT",
+  "title": "Electric Idol",
+  "author": "Katee Robert",
+  "series": "Dark Olympus #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Electric Idol (Dark Olympus, #2)",
+   "author": "Katee Robert",
+   "rating": 3.93,
+   "ratings_count": 131088,
+   "url": "https://www.goodreads.com/book/show/57661359-electric-idol"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-10",
+  "compartment": "C5",
+  "poly": [
+   [
+    2785,
+    3046
+   ],
+   [
+    2842,
+    3046
+   ],
+   [
+    2842,
+    3490
+   ],
+   [
+    2785,
+    3490
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WICKED BEAUTY KATEE ROBERT",
+  "title": "Wicked Beauty",
+  "author": "Katee Robert",
+  "series": "Dark Olympus #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Wicked Beauty (Dark Olympus, #3)",
+   "author": "Katee Robert",
+   "rating": 3.92,
+   "ratings_count": 79515,
+   "url": "https://www.goodreads.com/book/show/58945351-wicked-beauty"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-11",
+  "compartment": "C5",
+  "poly": [
+   [
+    2842,
+    3046
+   ],
+   [
+    2893,
+    3046
+   ],
+   [
+    2893,
+    3490
+   ],
+   [
+    2842,
+    3490
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "RADIANT SIN KATEE ROBERT",
+  "title": "Radiant Sin",
+  "author": "Katee Robert",
+  "series": "Dark Olympus #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Radiant Sin (Dark Olympus, #4)",
+   "author": "Katee Robert",
+   "rating": 3.77,
+   "ratings_count": 58054,
+   "url": "https://www.goodreads.com/book/show/60478017-radiant-sin"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-12",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    2975
+   ],
+   [
+    3308,
+    2975
+   ],
+   [
+    3308,
+    3085
+   ],
+   [
+    2893,
+    3085
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A TEMPEST OF TEA HAFSAH FAIZAL",
+  "title": "A Tempest of Tea",
+  "author": "Hafsah Faizal",
+  "series": "Blood and Tea #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Tempest of Tea (Blood and Tea, #1)",
+   "author": "Hafsah Faizal",
+   "rating": 3.49,
+   "ratings_count": 38403,
+   "url": "https://www.goodreads.com/book/show/59406549-a-tempest-of-tea"
+  },
+  "note": "top of stack; outline includes the visible top cover"
+ },
+ {
+  "id": "C5-13",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3085
+   ],
+   [
+    3305,
+    3085
+   ],
+   [
+    3305,
+    3140
+   ],
+   [
+    2893,
+    3140
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE BURNING PAGE",
+  "title": "The Burning Page",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Burning Page (The Invisible Library, #3)",
+   "author": "Genevieve Cogman",
+   "rating": 4.05,
+   "ratings_count": 22104,
+   "url": "https://www.goodreads.com/book/show/29345916-the-burning-page"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-14",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3140
+   ],
+   [
+    3305,
+    3140
+   ],
+   [
+    3305,
+    3191
+   ],
+   [
+    2893,
+    3191
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE LOST PLOT",
+  "title": "The Lost Plot",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Lost Plot (The Invisible Library, #4)",
+   "author": "Genevieve Cogman",
+   "rating": 4.17,
+   "ratings_count": 17915,
+   "url": "https://www.goodreads.com/book/show/31690144-the-lost-plot"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-15",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3191
+   ],
+   [
+    3305,
+    3191
+   ],
+   [
+    3305,
+    3244
+   ],
+   [
+    2893,
+    3244
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE MORTAL WORD",
+  "title": "The Mortal Word",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Mortal Word (The Invisible Library, #5)",
+   "author": "Genevieve Cogman",
+   "rating": 4.19,
+   "ratings_count": 14564,
+   "url": "https://www.goodreads.com/book/show/31690153-the-mortal-word"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-16",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3244
+   ],
+   [
+    3305,
+    3244
+   ],
+   [
+    3305,
+    3296
+   ],
+   [
+    2893,
+    3296
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE SECRET CHAPTER",
+  "title": "The Secret Chapter",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #6",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Secret Chapter (The Invisible Library, #6)",
+   "author": "Genevieve Cogman",
+   "rating": 4.17,
+   "ratings_count": 11733,
+   "url": "https://www.goodreads.com/book/show/45043662-the-secret-chapter"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-17",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3296
+   ],
+   [
+    3305,
+    3296
+   ],
+   [
+    3305,
+    3342
+   ],
+   [
+    2893,
+    3342
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE DARK ARCHIVE",
+  "title": "The Dark Archive",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #7",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Dark Archive (The Invisible Library, #7)",
+   "author": "Genevieve Cogman",
+   "rating": 4.18,
+   "ratings_count": 10166,
+   "url": "https://www.goodreads.com/book/show/44572032-the-dark-archive"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-18",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3342
+   ],
+   [
+    3305,
+    3342
+   ],
+   [
+    3305,
+    3391
+   ],
+   [
+    2893,
+    3391
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE UNTOLD STORY",
+  "title": "The Untold Story",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #8",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Untold Story (The Invisible Library, #8)",
+   "author": "Genevieve Cogman",
+   "rating": 4.3,
+   "ratings_count": 8652,
+   "url": "https://www.goodreads.com/book/show/57593991-the-untold-story"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-19",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3391
+   ],
+   [
+    3305,
+    3391
+   ],
+   [
+    3305,
+    3443
+   ],
+   [
+    2893,
+    3443
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE MASKED CITY",
+  "title": "The Masked City",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Masked City (The Invisible Library, #2)",
+   "author": "Genevieve Cogman",
+   "rating": 3.95,
+   "ratings_count": 29008,
+   "url": "https://www.goodreads.com/book/show/25761086-the-masked-city"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-20",
+  "compartment": "C5",
+  "poly": [
+   [
+    2893,
+    3443
+   ],
+   [
+    3305,
+    3443
+   ],
+   [
+    3305,
+    3492
+   ],
+   [
+    2893,
+    3492
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "GENEVIEVE COGMAN THE INVISIBLE LIBRARY",
+  "title": "The Invisible Library",
+  "author": "Genevieve Cogman",
+  "series": "The Invisible Library #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Invisible Library (The Invisible Library, #1)",
+   "author": "Genevieve Cogman",
+   "rating": 3.74,
+   "ratings_count": 67289,
+   "url": "https://www.goodreads.com/book/show/21416690-the-invisible-library"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-21",
+  "compartment": "C5",
+  "poly": [
+   [
+    3308,
+    3070
+   ],
+   [
+    3353,
+    3070
+   ],
+   [
+    3353,
+    3482
+   ],
+   [
+    3308,
+    3482
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Beach Read EMILY HENRY",
+  "title": "Beach Read",
+  "author": "Emily Henry",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Beach Read",
+   "author": "Emily Henry",
+   "rating": 3.95,
+   "ratings_count": 1809178,
+   "url": "https://www.goodreads.com/book/show/245725569-beach-read"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-22",
+  "compartment": "C5",
+  "poly": [
+   [
+    3353,
+    3038
+   ],
+   [
+    3403,
+    3038
+   ],
+   [
+    3403,
+    3474
+   ],
+   [
+    3353,
+    3474
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BOOK LOVERS EMILY HENRY",
+  "title": "Book Lovers",
+  "author": "Emily Henry",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Book Lovers",
+   "author": "Emily Henry",
+   "rating": 4.08,
+   "ratings_count": 1707043,
+   "url": "https://www.goodreads.com/book/show/58690308-book-lovers"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-23",
+  "compartment": "C5",
+  "poly": [
+   [
+    3403,
+    3038
+   ],
+   [
+    3454,
+    3038
+   ],
+   [
+    3454,
+    3472
+   ],
+   [
+    3403,
+    3472
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PEOPLE WE MEET ON VACATION EMILY HENRY",
+  "title": "People We Meet on Vacation",
+  "author": "Emily Henry",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "People We Meet on Vacation",
+   "author": "Emily Henry",
+   "rating": 3.84,
+   "ratings_count": 1992814,
+   "url": "https://www.goodreads.com/book/show/55076069-people-we-meet-on-vacation"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-24",
+  "compartment": "C5",
+  "poly": [
+   [
+    3454,
+    3026
+   ],
+   [
+    3528,
+    3026
+   ],
+   [
+    3528,
+    3472
+   ],
+   [
+    3454,
+    3472
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STIEFVATER THE RAVEN CYCLE BOOK I THE RAVEN BOYS",
+  "title": "The Raven Boys",
+  "author": "Maggie Stiefvater",
+  "series": "The Raven Cycle #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Raven Boys (The Raven Cycle, #1)",
+   "author": "Maggie Stiefvater",
+   "rating": 4.05,
+   "ratings_count": 412756,
+   "url": "https://www.goodreads.com/book/show/17675462-the-raven-boys"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-25",
+  "compartment": "C5",
+  "poly": [
+   [
+    3528,
+    3029
+   ],
+   [
+    3599,
+    3029
+   ],
+   [
+    3599,
+    3486
+   ],
+   [
+    3528,
+    3486
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STIEFVATER THE RAVEN CYCLE BOOK II THE DREAM THIEVES",
+  "title": "The Dream Thieves",
+  "author": "Maggie Stiefvater",
+  "series": "The Raven Cycle #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Dream Thieves (The Raven Cycle, #2)",
+   "author": "Maggie Stiefvater",
+   "rating": 4.22,
+   "ratings_count": 226138,
+   "url": "https://www.goodreads.com/book/show/17347389-the-dream-thieves"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-26",
+  "compartment": "C5",
+  "poly": [
+   [
+    3599,
+    3033
+   ],
+   [
+    3677,
+    3033
+   ],
+   [
+    3677,
+    3488
+   ],
+   [
+    3599,
+    3488
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STIEFVATER THE RAVEN CYCLE BOOK III BLUE LILY, LILY BLUE",
+  "title": "Blue Lily, Lily Blue",
+  "author": "Maggie Stiefvater",
+  "series": "The Raven Cycle #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Blue Lily, Lily Blue (The Raven Cycle, #3)",
+   "author": "Maggie Stiefvater",
+   "rating": 4.25,
+   "ratings_count": 186244,
+   "url": "https://www.goodreads.com/book/show/17378508-blue-lily-lily-blue"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-27",
+  "compartment": "C5",
+  "poly": [
+   [
+    3677,
+    3027
+   ],
+   [
+    3767,
+    3027
+   ],
+   [
+    3767,
+    3488
+   ],
+   [
+    3677,
+    3488
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STIEFVATER THE RAVEN CYCLE BOOK IV THE RAVEN KING",
+  "title": "The Raven King",
+  "author": "Maggie Stiefvater",
+  "series": "The Raven Cycle #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Raven King (The Raven Cycle, #4)",
+   "author": "Maggie Stiefvater",
+   "rating": 4.25,
+   "ratings_count": 164768,
+   "url": "https://www.goodreads.com/book/show/17378527-the-raven-king"
+  },
+  "note": ""
+ },
+ {
+  "id": "C5-28",
+  "compartment": "C5",
+  "poly": [
+   [
+    3767,
+    2995
+   ],
+   [
+    3861,
+    2995
+   ],
+   [
+    3861,
+    3491
+   ],
+   [
+    3767,
+    3491
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DRAGON RIDER TARAN MATHARU",
+  "title": "Dragon Rider",
+  "author": "Taran Matharu",
+  "series": "The Soulbound Saga #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Dragon Rider (The Soulbound Saga #1)",
+   "author": "Taran Matharu",
+   "rating": 3.9,
+   "ratings_count": 6855,
+   "url": "https://www.goodreads.com/book/show/157605258-dragon-rider"
+  },
+  "note": ""
+ }
+]

@@ -1,0 +1,1581 @@
+[
+ {
+  "id": "L2-01",
+  "compartment": "L2",
+  "poly": [
+   [
+    68,
+    1081
+   ],
+   [
+    153,
+    1081
+   ],
+   [
+    153,
+    1541
+   ],
+   [
+    68,
+    1541
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEIGH BARDUGO DAS LIED DER KRÄHEN KNAUR",
+  "title": "Das Lied der Krähen",
+  "author": "Leigh Bardugo",
+  "series": "Six of Crows #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Six of Crows (Six of Crows, #1)",
+   "author": "Leigh Bardugo",
+   "rating": 4.45,
+   "ratings_count": 1224105,
+   "url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-02",
+  "compartment": "L2",
+  "poly": [
+   [
+    153,
+    1084
+   ],
+   [
+    238,
+    1084
+   ],
+   [
+    238,
+    1542
+   ],
+   [
+    153,
+    1542
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEIGH BARDUGO DAS GOLD DER KRÄHEN KNAUR",
+  "title": "Das Gold der Krähen",
+  "author": "Leigh Bardugo",
+  "series": "Six of Crows #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Crooked Kingdom (Six of Crows, #2)",
+   "author": "Leigh Bardugo",
+   "rating": 4.56,
+   "ratings_count": 814328,
+   "url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-03",
+  "compartment": "L2",
+  "poly": [
+   [
+    249,
+    896
+   ],
+   [
+    602,
+    896
+   ],
+   [
+    602,
+    922
+   ],
+   [
+    249,
+    922
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Fyodor Dostoyevsky White Nights (Penguin)",
+  "title": "White Nights",
+  "author": "Fyodor Dostoyevsky",
+  "series": "Penguin Little Black Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "White Nights",
+   "author": "Fyodor Dostoevsky",
+   "rating": 4.05,
+   "ratings_count": 468939,
+   "url": "https://www.goodreads.com/book/show/1772910.White_Nights"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-04",
+  "compartment": "L2",
+  "poly": [
+   [
+    249,
+    922
+   ],
+   [
+    600,
+    922
+   ],
+   [
+    600,
+    948
+   ],
+   [
+    249,
+    948
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Leo Tolstoy The Death of Ivan Ilyich (Penguin)",
+  "title": "The Death of Ivan Ilyich",
+  "author": "Leo Tolstoy",
+  "series": "Penguin Little Black Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Death of Ivan Ilyich",
+   "author": "Leo Tolstoy",
+   "rating": 4.14,
+   "ratings_count": 268423,
+   "url": "https://www.goodreads.com/book/show/160374.The_Death_of_Ivan_Ilyich"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-05",
+  "compartment": "L2",
+  "poly": [
+   [
+    249,
+    948
+   ],
+   [
+    602,
+    948
+   ],
+   [
+    602,
+    974
+   ],
+   [
+    249,
+    974
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Anton Chekhov A Nervous Breakdown (Penguin)",
+  "title": "A Nervous Breakdown",
+  "author": "Anton Chekhov",
+  "series": "Penguin Little Black Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Nervous Breakdown",
+   "author": "Anton Chekhov",
+   "rating": 3.71,
+   "ratings_count": 3497,
+   "url": "https://www.goodreads.com/book/show/28385946-a-nervous-breakdown"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-06",
+  "compartment": "L2",
+  "poly": [
+   [
+    231,
+    974
+   ],
+   [
+    617,
+    974
+   ],
+   [
+    617,
+    1001
+   ],
+   [
+    231,
+    1001
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "the wave Todd Strasser",
+  "title": "The Wave",
+  "author": "Todd Strasser",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Wave",
+   "author": "Todd Strasser",
+   "rating": 3.63,
+   "ratings_count": 45500,
+   "url": "https://www.goodreads.com/book/show/481743.The_Wave"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-07",
+  "compartment": "L2",
+  "poly": [
+   [
+    232,
+    1001
+   ],
+   [
+    622,
+    1001
+   ],
+   [
+    622,
+    1076
+   ],
+   [
+    232,
+    1076
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Catch-22 Joseph Heller VINTAGE",
+  "title": "Catch-22",
+  "author": "Joseph Heller",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Catch-22",
+   "author": "Joseph Heller",
+   "rating": 3.99,
+   "ratings_count": 907845,
+   "url": "https://www.goodreads.com/book/show/168668.Catch_22"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-08",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1076
+   ],
+   [
+    630,
+    1076
+   ],
+   [
+    630,
+    1099
+   ],
+   [
+    238,
+    1099
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ernest hemingway The Old Man and the Sea",
+  "title": "The Old Man and the Sea",
+  "author": "Ernest Hemingway",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Old Man and the Sea",
+   "author": "Ernest Hemingway",
+   "rating": 3.82,
+   "ratings_count": 1386560,
+   "url": "https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-09",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1099
+   ],
+   [
+    627,
+    1099
+   ],
+   [
+    627,
+    1123
+   ],
+   [
+    238,
+    1123
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Albert Camus The Myth of Sisyphus GREAT IDEAS (Penguin)",
+  "title": "The Myth of Sisyphus",
+  "author": "Albert Camus",
+  "series": "Penguin Great Ideas",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Myth of Sisyphus",
+   "author": "Albert Camus",
+   "rating": 4.16,
+   "ratings_count": 111464,
+   "url": "https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-10",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1123
+   ],
+   [
+    624,
+    1123
+   ],
+   [
+    624,
+    1140
+   ],
+   [
+    238,
+    1140
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "st 277 Max Frisch Andorra",
+  "title": "Andorra",
+  "author": "Max Frisch",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Andorra",
+   "author": "Max Frisch",
+   "rating": 3.35,
+   "ratings_count": 14487,
+   "url": "https://www.goodreads.com/book/show/965956.Andorra"
+  },
+  "note": "suhrkamp taschenbuch 277"
+ },
+ {
+  "id": "L2-11",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1140
+   ],
+   [
+    621,
+    1140
+   ],
+   [
+    621,
+    1168
+   ],
+   [
+    238,
+    1168
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "st 354 Max Frisch Homo faber",
+  "title": "Homo faber",
+  "author": "Max Frisch",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Homo Faber",
+   "author": "Max Frisch",
+   "rating": 3.67,
+   "ratings_count": 33446,
+   "url": "https://www.goodreads.com/book/show/10009.Homo_Faber"
+  },
+  "note": "suhrkamp taschenbuch 354"
+ },
+ {
+  "id": "L2-12",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1168
+   ],
+   [
+    632,
+    1168
+   ],
+   [
+    632,
+    1200
+   ],
+   [
+    238,
+    1200
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Friedrich Dürrenmatt ● Der Besuch der alten Dame 23045 (upside down)",
+  "title": "Der Besuch der alten Dame",
+  "author": "Friedrich Dürrenmatt",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Der Besuch der alten Dame",
+   "author": "Friedrich Dürrenmatt",
+   "rating": 3.67,
+   "ratings_count": 41523,
+   "url": "https://www.goodreads.com/book/show/523593.Der_Besuch_der_alten_Dame"
+  },
+  "note": "Diogenes detebe 23045"
+ },
+ {
+  "id": "L2-13",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1200
+   ],
+   [
+    635,
+    1200
+   ],
+   [
+    635,
+    1228
+   ],
+   [
+    238,
+    1228
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Bernhard Schlink ● Der Vorleser 22953",
+  "title": "Der Vorleser",
+  "author": "Bernhard Schlink",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Reader",
+   "author": "Bernhard Schlink",
+   "rating": 3.79,
+   "ratings_count": 239698,
+   "url": "https://www.goodreads.com/book/show/101299.The_Reader"
+  },
+  "note": "Diogenes detebe 22953"
+ },
+ {
+  "id": "L2-14",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1228
+   ],
+   [
+    659,
+    1228
+   ],
+   [
+    659,
+    1251
+   ],
+   [
+    238,
+    1251
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "STEFAN ZWEIG Schachnovelle FISCHER KLASSIK 90225",
+  "title": "Schachnovelle",
+  "author": "Stefan Zweig",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Schachnovelle",
+   "author": "Stefan Zweig",
+   "rating": 4.26,
+   "ratings_count": 200421,
+   "url": "https://www.goodreads.com/book/show/1016722.Schachnovelle"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-15",
+  "compartment": "L2",
+  "poly": [
+   [
+    242,
+    1251
+   ],
+   [
+    661,
+    1251
+   ],
+   [
+    661,
+    1278
+   ],
+   [
+    242,
+    1278
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "dtv Thomas Glavinic Der Kameramörder 13546",
+  "title": "Der Kameramörder",
+  "author": "Thomas Glavinic",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Der Kameramörder",
+   "author": "Thomas Glavinic",
+   "rating": 3.33,
+   "ratings_count": 1880,
+   "url": "https://www.goodreads.com/book/show/1727625.Der_Kameram_rder"
+  },
+  "note": "first of two identical copies"
+ },
+ {
+  "id": "L2-16",
+  "compartment": "L2",
+  "poly": [
+   [
+    240,
+    1278
+   ],
+   [
+    661,
+    1278
+   ],
+   [
+    661,
+    1307
+   ],
+   [
+    240,
+    1307
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "dtv Thomas Glavinic Der Kameramörder 13546",
+  "title": "Der Kameramörder",
+  "author": "Thomas Glavinic",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Der Kameramörder",
+   "author": "Thomas Glavinic",
+   "rating": 3.33,
+   "ratings_count": 1880,
+   "url": "https://www.goodreads.com/book/show/1727625.Der_Kameram_rder"
+  },
+  "note": "second identical copy"
+ },
+ {
+  "id": "L2-17",
+  "compartment": "L2",
+  "poly": [
+   [
+    238,
+    1307
+   ],
+   [
+    664,
+    1307
+   ],
+   [
+    664,
+    1388
+   ],
+   [
+    238,
+    1388
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ANACONDA Friedrich Nietzsche Jenseits von Gut und Böse",
+  "title": "Jenseits von Gut und Böse",
+  "author": "Friedrich Nietzsche",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Beyond Good and Evil",
+   "author": "Friedrich Nietzsche",
+   "rating": 4.02,
+   "ratings_count": 121710,
+   "url": "https://www.goodreads.com/book/show/33651446-beyond-good-and-evil"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-18",
+  "compartment": "L2",
+  "poly": [
+   [
+    251,
+    1388
+   ],
+   [
+    661,
+    1388
+   ],
+   [
+    661,
+    1418
+   ],
+   [
+    251,
+    1418
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "VIKTOR E. FRANKL ...TROTZDEM JA ZUM LEBEN SAGEN 10277",
+  "title": "...trotzdem Ja zum Leben sagen",
+  "author": "Viktor E. Frankl",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Man's Search for Meaning",
+   "author": "Viktor E. Frankl",
+   "rating": 4.36,
+   "ratings_count": 948884,
+   "url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning"
+  },
+  "note": "left end hidden behind Das Gold der Krähen"
+ },
+ {
+  "id": "L2-19",
+  "compartment": "L2",
+  "poly": [
+   [
+    251,
+    1418
+   ],
+   [
+    666,
+    1418
+   ],
+   [
+    666,
+    1476
+   ],
+   [
+    251,
+    1476
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ALBERT CAMUS · Die Pest 22500 rororo",
+  "title": "Die Pest",
+  "author": "Albert Camus",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Plague",
+   "author": "Albert Camus",
+   "rating": 4.02,
+   "ratings_count": 336683,
+   "url": "https://www.goodreads.com/book/show/11989.The_Plague"
+  },
+  "note": "left end hidden behind Das Gold der Krähen"
+ },
+ {
+  "id": "L2-20",
+  "compartment": "L2",
+  "poly": [
+   [
+    251,
+    1476
+   ],
+   [
+    666,
+    1476
+   ],
+   [
+    666,
+    1497
+   ],
+   [
+    251,
+    1497
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Jean-Paul Sartre ■ Geschlossene Gesellschaft 15769 rororo",
+  "title": "Geschlossene Gesellschaft",
+  "author": "Jean-Paul Sartre",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "No Exit",
+   "author": "Jean-Paul Sartre",
+   "rating": 4.11,
+   "ratings_count": 49362,
+   "url": "https://www.goodreads.com/book/show/123933.No_Exit"
+  },
+  "note": "left end hidden behind Das Gold der Krähen"
+ },
+ {
+  "id": "L2-21",
+  "compartment": "L2",
+  "poly": [
+   [
+    251,
+    1497
+   ],
+   [
+    666,
+    1497
+   ],
+   [
+    666,
+    1550
+   ],
+   [
+    251,
+    1550
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "Jean-Paul sartre ■ Der Ekel 10581 rororo",
+  "title": "Der Ekel",
+  "author": "Jean-Paul Sartre",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Nausea",
+   "author": "Jean-Paul Sartre",
+   "rating": 3.93,
+   "ratings_count": 148511,
+   "url": "https://www.goodreads.com/book/show/298275.Nausea"
+  },
+  "note": "left end hidden behind Das Gold der Krähen"
+ },
+ {
+  "id": "L2-22",
+  "compartment": "L2",
+  "poly": [
+   [
+    666,
+    1219
+   ],
+   [
+    692,
+    1219
+   ],
+   [
+    692,
+    1536
+   ],
+   [
+    666,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Kafka ■ Der Process 9676",
+  "title": "Der Process",
+  "author": "Franz Kafka",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Trial",
+   "author": "Franz Kafka",
+   "rating": 3.93,
+   "ratings_count": 427356,
+   "url": "https://www.goodreads.com/book/show/17690.The_Trial"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-23",
+  "compartment": "L2",
+  "poly": [
+   [
+    692,
+    1223
+   ],
+   [
+    702,
+    1223
+   ],
+   [
+    702,
+    1536
+   ],
+   [
+    692,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Kafka ■ Die Verwandlung 9900",
+  "title": "Die Verwandlung",
+  "author": "Franz Kafka",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Die Verwandlung",
+   "author": "Franz Kafka",
+   "rating": 3.91,
+   "ratings_count": 1580271,
+   "url": "https://www.goodreads.com/book/show/930871.Die_Verwandlung"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-24",
+  "compartment": "L2",
+  "poly": [
+   [
+    702,
+    1223
+   ],
+   [
+    712,
+    1223
+   ],
+   [
+    712,
+    1536
+   ],
+   [
+    702,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Kleist ■ Die Marquise von O... · Das Erdbeben in Chili 8002",
+  "title": "Die Marquise von O... / Das Erdbeben in Chili",
+  "author": "Heinrich von Kleist",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Die Marquise von O... / Das Erdbeben in Chili",
+   "author": "Heinrich von Kleist",
+   "rating": 3.1,
+   "ratings_count": 3275,
+   "url": "https://www.goodreads.com/book/show/658533.Die_Marquise_von_O_Das_Erdbeben_in_Chili"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-25",
+  "compartment": "L2",
+  "poly": [
+   [
+    712,
+    1221
+   ],
+   [
+    724,
+    1221
+   ],
+   [
+    724,
+    1536
+   ],
+   [
+    712,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Schnitzler ■ Liebelei 18157",
+  "title": "Liebelei",
+  "author": "Arthur Schnitzler",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Liebelei",
+   "author": "Arthur Schnitzler",
+   "rating": 3.36,
+   "ratings_count": 368,
+   "url": "https://www.goodreads.com/book/show/1954247.Liebelei"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-26",
+  "compartment": "L2",
+  "poly": [
+   [
+    724,
+    1220
+   ],
+   [
+    734,
+    1220
+   ],
+   [
+    734,
+    1536
+   ],
+   [
+    724,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Zweig ■ Angst 19049",
+  "title": "Angst",
+  "author": "Stefan Zweig",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Angst",
+   "author": "Stefan Zweig",
+   "rating": 4.11,
+   "ratings_count": 32320,
+   "url": "https://www.goodreads.com/book/show/51016188-angst"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-27",
+  "compartment": "L2",
+  "poly": [
+   [
+    734,
+    1217
+   ],
+   [
+    747,
+    1217
+   ],
+   [
+    747,
+    1536
+   ],
+   [
+    734,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Ibsen ■ Nora (Ein Puppenheim) 1257",
+  "title": "Nora (Ein Puppenheim)",
+  "author": "Henrik Ibsen",
+  "series": "Reclam Universal-Bibliothek",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Doll's House",
+   "author": "Henrik Ibsen",
+   "rating": 3.77,
+   "ratings_count": 171357,
+   "url": "https://www.goodreads.com/book/show/37793.A_Doll_s_House"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-28",
+  "compartment": "L2",
+  "poly": [
+   [
+    747,
+    1157
+   ],
+   [
+    776,
+    1157
+   ],
+   [
+    776,
+    1527
+   ],
+   [
+    747,
+    1527
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KURT VONNEGUT SLAUGHTERHOUSE-FIVE",
+  "title": "Slaughterhouse-Five",
+  "author": "Kurt Vonnegut",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Slaughterhouse-Five",
+   "author": "Kurt Vonnegut Jr.",
+   "rating": 4.1,
+   "ratings_count": 1535404,
+   "url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-29",
+  "compartment": "L2",
+  "poly": [
+   [
+    776,
+    1151
+   ],
+   [
+    814,
+    1151
+   ],
+   [
+    814,
+    1524
+   ],
+   [
+    776,
+    1524
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PETER PAN · J.M. BARRIE PUFFIN CHALK",
+  "title": "Peter Pan",
+  "author": "J.M. Barrie",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Peter Pan",
+   "author": "J.M. Barrie",
+   "rating": 4.03,
+   "ratings_count": 380284,
+   "url": "https://www.goodreads.com/book/show/34268.Peter_Pan"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-30",
+  "compartment": "L2",
+  "poly": [
+   [
+    814,
+    1136
+   ],
+   [
+    852,
+    1136
+   ],
+   [
+    852,
+    1537
+   ],
+   [
+    814,
+    1537
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "FERDINAND VON SCHIRACH btb TERROR 71496",
+  "title": "Terror",
+  "author": "Ferdinand von Schirach",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Terror: Ein Theaterstück und eine Rede",
+   "author": "Ferdinand von Schirach",
+   "rating": 4.15,
+   "ratings_count": 10343,
+   "url": "https://www.goodreads.com/book/show/28113165-terror"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-31",
+  "compartment": "L2",
+  "poly": [
+   [
+    852,
+    1128
+   ],
+   [
+    875,
+    1128
+   ],
+   [
+    875,
+    1524
+   ],
+   [
+    852,
+    1524
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HAYMON tb 5 Felix Mitterer Kein Platz für Idioten",
+  "title": "Kein Platz für Idioten",
+  "author": "Felix Mitterer",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kein Platz für Idioten",
+   "author": "Felix Mitterer",
+   "rating": 3.13,
+   "ratings_count": 275,
+   "url": "https://www.goodreads.com/book/show/25348747-kein-platz-f-r-idioten"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-32",
+  "compartment": "L2",
+  "poly": [
+   [
+    875,
+    1131
+   ],
+   [
+    931,
+    1131
+   ],
+   [
+    931,
+    1536
+   ],
+   [
+    875,
+    1536
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Aldous Huxley Schöne Neue Welt FISCHER KLASSIK 90573",
+  "title": "Schöne Neue Welt",
+  "author": "Aldous Huxley",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Brave New World",
+   "author": "Aldous Huxley",
+   "rating": 3.98,
+   "ratings_count": 2166332,
+   "url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-33",
+  "compartment": "L2",
+  "poly": [
+   [
+    931,
+    1132
+   ],
+   [
+    1007,
+    1132
+   ],
+   [
+    1007,
+    1540
+   ],
+   [
+    931,
+    1540
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GUSTAVE FLAUBERT Madame Bovary FISCHER KLASSIK 90230",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Madame Bovary",
+   "author": "Gustave Flaubert",
+   "rating": 3.72,
+   "ratings_count": 392569,
+   "url": "https://www.goodreads.com/book/show/2175.Madame_Bovary"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-34",
+  "compartment": "L2",
+  "poly": [
+   [
+    1007,
+    1083
+   ],
+   [
+    1040,
+    1083
+   ],
+   [
+    1040,
+    1542
+   ],
+   [
+    1007,
+    1542
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Eric-Emmanuel Schmitt Monsieur Ibrahim und die Blumen des Koran 16117 (Fischer)",
+  "title": "Monsieur Ibrahim und die Blumen des Koran",
+  "author": "Éric-Emmanuel Schmitt",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Monsieur Ibrahim and the Flowers of the Qur'an",
+   "author": "Éric-Emmanuel Schmitt",
+   "rating": 3.84,
+   "ratings_count": 29315,
+   "url": "https://www.goodreads.com/book/show/4318.Monsieur_Ibrahim_and_the_Flowers_of_the_Qur_an"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-35",
+  "compartment": "L2",
+  "poly": [
+   [
+    1040,
+    1094
+   ],
+   [
+    1075,
+    1094
+   ],
+   [
+    1075,
+    1542
+   ],
+   [
+    1040,
+    1542
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE HITCHHIKER'S GUIDE TO THE GALAXY DOUGLAS ADAMS PAN",
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "series": "Hitchhiker's Guide to the Galaxy #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+   "author": "Douglas Adams",
+   "rating": 4.22,
+   "ratings_count": 2086722,
+   "url": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-36",
+  "compartment": "L2",
+  "poly": [
+   [
+    1075,
+    1120
+   ],
+   [
+    1113,
+    1120
+   ],
+   [
+    1113,
+    1543
+   ],
+   [
+    1075,
+    1543
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Truman Capote In Cold Blood MODERN CLASSICS",
+  "title": "In Cold Blood",
+  "author": "Truman Capote",
+  "series": "Penguin Modern Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "In Cold Blood",
+   "author": "Truman Capote",
+   "rating": 4.09,
+   "ratings_count": 760873,
+   "url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-37",
+  "compartment": "L2",
+  "poly": [
+   [
+    1113,
+    1120
+   ],
+   [
+    1147,
+    1120
+   ],
+   [
+    1147,
+    1545
+   ],
+   [
+    1113,
+    1545
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Truman Capote Breakfast at Tiffany's MODERN CLASSICS",
+  "title": "Breakfast at Tiffany's",
+  "author": "Truman Capote",
+  "series": "Penguin Modern Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Breakfast at Tiffany's and Three Stories",
+   "author": "Truman Capote",
+   "rating": 3.85,
+   "ratings_count": 258218,
+   "url": "https://www.goodreads.com/book/show/251688.Breakfast_at_Tiffany_s_and_Three_Stories"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-38",
+  "compartment": "L2",
+  "poly": [
+   [
+    1147,
+    1120
+   ],
+   [
+    1201,
+    1120
+   ],
+   [
+    1201,
+    1547
+   ],
+   [
+    1147,
+    1547
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DAPHNE DU MAURIER Rebecca VMC",
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "series": "Virago Modern Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Rebecca",
+   "author": "Daphne du Maurier",
+   "rating": 4.25,
+   "ratings_count": 777637,
+   "url": "https://www.goodreads.com/book/show/17899948-rebecca"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-39",
+  "compartment": "L2",
+  "poly": [
+   [
+    1201,
+    1053
+   ],
+   [
+    1249,
+    1053
+   ],
+   [
+    1249,
+    1548
+   ],
+   [
+    1201,
+    1548
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Oscar Wilde The Picture of Dorian Gray Illustrated",
+  "title": "The Picture of Dorian Gray (Illustrated)",
+  "author": "Oscar Wilde",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Picture of Dorian Gray",
+   "author": "Oscar Wilde",
+   "rating": 4.13,
+   "ratings_count": 2026657,
+   "url": "https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-40",
+  "compartment": "L2",
+  "poly": [
+   [
+    1249,
+    1053
+   ],
+   [
+    1265,
+    1053
+   ],
+   [
+    1265,
+    1548
+   ],
+   [
+    1249,
+    1548
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Discourses and Selected Writings Epictetus",
+  "title": "Discourses and Selected Writings",
+  "author": "Epictetus",
+  "series": "Penguin Classics",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Discourses and Selected Writings",
+   "author": "Epictetus",
+   "rating": 4.39,
+   "ratings_count": 13418,
+   "url": "https://www.goodreads.com/book/show/4143812-discourses-and-selected-writings"
+  },
+  "note": ""
+ },
+ {
+  "id": "L2-41",
+  "compartment": "L2",
+  "poly": [
+   [
+    1265,
+    1054
+   ],
+   [
+    1285,
+    1054
+   ],
+   [
+    1285,
+    1550
+   ],
+   [
+    1265,
+    1550
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Plato (ornamental picture band above; title not visible)",
+  "title": "The Republic",
+  "author": "Plato",
+  "series": null,
+  "language": "en",
+  "confidence": "low",
+  "goodreads": {
+   "title": "The Republic",
+   "author": "Plato",
+   "rating": 3.97,
+   "ratings_count": 234650,
+   "url": "https://www.goodreads.com/book/show/30289.The_Republic"
+  },
+  "note": "Only the author name 'Plato' is legible (Wordsworth-Classics-style spine); title is a guess"
+ },
+ {
+  "id": "L2-42",
+  "compartment": "L2",
+  "poly": [
+   [
+    1285,
+    1060
+   ],
+   [
+    1301,
+    1060
+   ],
+   [
+    1301,
+    1550
+   ],
+   [
+    1285,
+    1550
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The ... (rest illegible)",
+  "title": null,
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "dark grey spine at the far right edge, partly hidden; only 'The' legible near the top"
+ },
+ {
+  "id": "L2-43",
+  "compartment": "L2",
+  "poly": [
+   [
+    1087,
+    927
+   ],
+   [
+    1300,
+    942
+   ],
+   [
+    1300,
+    1053
+   ],
+   [
+    1087,
+    1053
+   ]
+  ],
+  "orientation": "face-out",
+  "spine_text": "(cream cover with two faded portrait figures; small text 'De...' bottom left)",
+  "title": null,
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "large cream-coloured book standing face-out against the back wall behind the right-hand books; only its upper cover visible; may possibly be a print/picture rather than a book"
+ }
+]

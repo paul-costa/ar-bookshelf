@@ -1,0 +1,403 @@
+[
+ {
+  "id": "R6-01",
+  "compartment": "R6",
+  "poly": [
+   [
+    3950,
+    3623
+   ],
+   [
+    4018,
+    3623
+   ],
+   [
+    4018,
+    4064
+   ],
+   [
+    3950,
+    4064
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STEPHANIE GARBER FINALE (Flatiron Books)",
+  "title": "Finale",
+  "author": "Stephanie Garber",
+  "series": "Caraval #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Finale",
+   "author": "Stephanie Garber",
+   "rating": 4.12,
+   "ratings_count": 435113,
+   "url": "https://www.goodreads.com/book/show/40381392-finale"
+  },
+  "note": "spine only; page-block top above not included"
+ },
+ {
+  "id": "R6-02",
+  "compartment": "R6",
+  "poly": [
+   [
+    4018,
+    3625
+   ],
+   [
+    4100,
+    3625
+   ],
+   [
+    4100,
+    4077
+   ],
+   [
+    4018,
+    4077
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Burkart Kommunikationswissenschaft 4. A. UTB 2259",
+  "title": "Kommunikationswissenschaft: Grundlagen und Problemfelder",
+  "author": "Roland Burkart",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kommunikationswissenschaft. Grundlagen und Problemfelder",
+   "author": "Roland Burkart",
+   "rating": 3.33,
+   "ratings_count": 9,
+   "url": "https://www.goodreads.com/book/show/12635906-kommunikationswissenschaft-grundlagen-und-problemfelder-umrisse-einer"
+  },
+  "note": "UTB 2259, 4th edition (4. A.)"
+ },
+ {
+  "id": "R6-03",
+  "compartment": "R6",
+  "poly": [
+   [
+    4100,
+    3710
+   ],
+   [
+    4154,
+    3710
+   ],
+   [
+    4154,
+    4081
+   ],
+   [
+    4100,
+    4081
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ELON MUSK ASHLEE VANCE (author photo on spine)",
+  "title": "Elon Musk",
+  "author": "Ashlee Vance",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+   "author": "Ashlee Vance",
+   "rating": 4.11,
+   "ratings_count": 459962,
+   "url": "https://www.goodreads.com/book/show/25541028-elon-musk"
+  },
+  "note": ""
+ },
+ {
+  "id": "R6-04",
+  "compartment": "R6",
+  "poly": [
+   [
+    4178,
+    3674
+   ],
+   [
+    4207,
+    3674
+   ],
+   [
+    4186,
+    4061
+   ],
+   [
+    4154,
+    4061
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "Lemony Snicket A Series Of Unfortunate Events 4 THE MISERABLE MILL (Egmont)",
+  "title": "The Miserable Mill",
+  "author": "Lemony Snicket",
+  "series": "A Series of Unfortunate Events #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Miserable Mill",
+   "author": "Lemony Snicket",
+   "rating": 3.86,
+   "ratings_count": 189906,
+   "url": "https://www.goodreads.com/book/show/65119.The_Miserable_Mill"
+  },
+  "note": ""
+ },
+ {
+  "id": "R6-05",
+  "compartment": "R6",
+  "poly": [
+   [
+    4212,
+    3558
+   ],
+   [
+    4256,
+    3554
+   ],
+   [
+    4204,
+    4050
+   ],
+   [
+    4187,
+    4052
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "(no text; plain white edge)",
+  "title": null,
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "thin leaning item with a plain white edge between The Miserable Mill and City of Bones; no readable text, possibly a thin white paperback or notebook"
+ },
+ {
+  "id": "R6-06",
+  "compartment": "R6",
+  "poly": [
+   [
+    4255,
+    3622
+   ],
+   [
+    4311,
+    3622
+   ],
+   [
+    4276,
+    4065
+   ],
+   [
+    4206,
+    4065
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 1 City of Bones (Walker Books)",
+  "title": "City of Bones",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Bones",
+   "author": "Cassandra Clare",
+   "rating": 4.06,
+   "ratings_count": 2222575,
+   "url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+  },
+  "note": "spine slightly rotated/leaning"
+ },
+ {
+  "id": "R6-07",
+  "compartment": "R6",
+  "poly": [
+   [
+    4308,
+    3652
+   ],
+   [
+    4385,
+    3652
+   ],
+   [
+    4351,
+    4075
+   ],
+   [
+    4275,
+    4075
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 2 City of Ashes (Walker Books)",
+  "title": "City of Ashes",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Ashes",
+   "author": "Cassandra Clare",
+   "rating": 4.1,
+   "ratings_count": 1014381,
+   "url": "https://www.goodreads.com/book/show/1582996.City_of_Ashes"
+  },
+  "note": "includes shadowed cover sliver left of spine"
+ },
+ {
+  "id": "R6-08",
+  "compartment": "R6",
+  "poly": [
+   [
+    4385,
+    3652
+   ],
+   [
+    4452,
+    3652
+   ],
+   [
+    4425,
+    4078
+   ],
+   [
+    4351,
+    4075
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 3 City of Glass (Walker Books)",
+  "title": "City of Glass",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Glass",
+   "author": "Cassandra Clare",
+   "rating": 4.27,
+   "ratings_count": 1031910,
+   "url": "https://www.goodreads.com/book/show/3777732-city-of-glass"
+  },
+  "note": "includes shadowed cover sliver left of spine"
+ },
+ {
+  "id": "R6-09",
+  "compartment": "R6",
+  "poly": [
+   [
+    4452,
+    3660
+   ],
+   [
+    4545,
+    3660
+   ],
+   [
+    4522,
+    4075
+   ],
+   [
+    4425,
+    4078
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 4 City of Fallen Angels (Walker Books)",
+  "title": "City of Fallen Angels",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Fallen Angels",
+   "author": "Cassandra Clare",
+   "rating": 4.07,
+   "ratings_count": 652997,
+   "url": "https://www.goodreads.com/book/show/6752378-city-of-fallen-angels"
+  },
+  "note": "includes teal-tinted cover sliver left of spine"
+ },
+ {
+  "id": "R6-10",
+  "compartment": "R6",
+  "poly": [
+   [
+    4545,
+    3640
+   ],
+   [
+    4610,
+    3640
+   ],
+   [
+    4578,
+    4072
+   ],
+   [
+    4522,
+    4072
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 5 City of Lost Souls (Walker Books)",
+  "title": "City of Lost Souls",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Lost Souls",
+   "author": "Cassandra Clare",
+   "rating": 4.2,
+   "ratings_count": 578043,
+   "url": "https://www.goodreads.com/book/show/8755776-city-of-lost-souls"
+  },
+  "note": ""
+ },
+ {
+  "id": "R6-11",
+  "compartment": "R6",
+  "poly": [
+   [
+    4610,
+    3660
+   ],
+   [
+    4700,
+    3660
+   ],
+   [
+    4656,
+    4078
+   ],
+   [
+    4578,
+    4078
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "CASSANDRA CLARE SHADOWHUNTERS THE MORTAL INSTRUMENTS 6 City of Heavenly Fire (Walker Books)",
+  "title": "City of Heavenly Fire",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #6",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Heavenly Fire",
+   "author": "Cassandra Clare",
+   "rating": 4.38,
+   "ratings_count": 425723,
+   "url": "https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire"
+  },
+  "note": "light-brown diagonal strip on its left (lit cover edge)"
+ }
+]

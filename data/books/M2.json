@@ -1,0 +1,594 @@
+[
+ {
+  "id": "M2-01",
+  "compartment": "M2",
+  "poly": [
+   [
+    1376,
+    904
+   ],
+   [
+    1400,
+    904
+   ],
+   [
+    1400,
+    1323
+   ],
+   [
+    1376,
+    1323
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "FANTASTIC BEASTS & WHERE TO FIND THEM J.K. ROWLING",
+  "title": "Fantastic Beasts and Where to Find Them",
+  "author": "J.K. Rowling (as Newt Scamander)",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Fantastic Beasts and Where to Find Them",
+   "author": "Newt Scamander",
+   "rating": 3.95,
+   "ratings_count": 423138,
+   "url": "https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them"
+  },
+  "note": "Partly hidden at the left edge of the compartment",
+  "series": null
+ },
+ {
+  "id": "M2-02",
+  "compartment": "M2",
+  "poly": [
+   [
+    1413,
+    854
+   ],
+   [
+    1475,
+    854
+   ],
+   [
+    1475,
+    1318
+   ],
+   [
+    1413,
+    1318
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERCY JACKSON & THE OLYMPIANS RIORDAN THE LIGHTNING THIEF DISNEY HYPERION",
+  "title": "The Lightning Thief",
+  "author": "Rick Riordan",
+  "series": "Percy Jackson and the Olympians #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+   "author": "Rick Riordan",
+   "rating": 4.31,
+   "ratings_count": 3581348,
+   "url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief"
+  },
+  "note": "Hardcover in box set slipcase"
+ },
+ {
+  "id": "M2-03",
+  "compartment": "M2",
+  "poly": [
+   [
+    1475,
+    859
+   ],
+   [
+    1529,
+    859
+   ],
+   [
+    1529,
+    1318
+   ],
+   [
+    1475,
+    1318
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERCY JACKSON & THE OLYMPIANS RIORDAN THE SEA OF MONSTERS DISNEY HYPERION",
+  "title": "The Sea of Monsters",
+  "author": "Rick Riordan",
+  "series": "Percy Jackson and the Olympians #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+   "author": "Rick Riordan",
+   "rating": 4.24,
+   "ratings_count": 1434817,
+   "url": "https://www.goodreads.com/book/show/40727118-the-sea-of-monsters"
+  },
+  "note": "Hardcover in box set slipcase"
+ },
+ {
+  "id": "M2-04",
+  "compartment": "M2",
+  "poly": [
+   [
+    1529,
+    861
+   ],
+   [
+    1590,
+    861
+   ],
+   [
+    1590,
+    1318
+   ],
+   [
+    1529,
+    1318
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERCY JACKSON & THE OLYMPIANS RIORDAN THE TITAN'S CURSE DISNEY HYPERION",
+  "title": "The Titan's Curse",
+  "author": "Rick Riordan",
+  "series": "Percy Jackson and the Olympians #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Titan's Curse (Percy Jackson and the Olympians, #3)",
+   "author": "Rick Riordan",
+   "rating": 4.37,
+   "ratings_count": 1274760,
+   "url": "https://www.goodreads.com/book/show/561456.The_Titan_s_Curse"
+  },
+  "note": "Hardcover in box set slipcase"
+ },
+ {
+  "id": "M2-05",
+  "compartment": "M2",
+  "poly": [
+   [
+    1590,
+    861
+   ],
+   [
+    1653,
+    861
+   ],
+   [
+    1653,
+    1318
+   ],
+   [
+    1590,
+    1318
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERCY JACKSON & THE OLYMPIANS RIORDAN THE BATTLE OF THE LABYRINTH DISNEY HYPERION",
+  "title": "The Battle of the Labyrinth",
+  "author": "Rick Riordan",
+  "series": "Percy Jackson and the Olympians #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+   "author": "Rick Riordan",
+   "rating": 4.42,
+   "ratings_count": 1267852,
+   "url": "https://www.goodreads.com/book/show/8130423-the-battle-of-the-labyrinth"
+  },
+  "note": "Hardcover in box set slipcase"
+ },
+ {
+  "id": "M2-06",
+  "compartment": "M2",
+  "poly": [
+   [
+    1653,
+    862
+   ],
+   [
+    1716,
+    862
+   ],
+   [
+    1716,
+    1318
+   ],
+   [
+    1653,
+    1318
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERCY JACKSON & THE OLYMPIANS RIORDAN THE LAST OLYMPIAN DISNEY HYPERION",
+  "title": "The Last Olympian",
+  "author": "Rick Riordan",
+  "series": "Percy Jackson and the Olympians #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+   "author": "Rick Riordan",
+   "rating": 4.56,
+   "ratings_count": 1199464,
+   "url": "https://www.goodreads.com/book/show/4556058-the-last-olympian"
+  },
+  "note": "Hardcover in box set slipcase"
+ },
+ {
+  "id": "M2-07",
+  "compartment": "M2",
+  "poly": [
+   [
+    1697,
+    627
+   ],
+   [
+    2153,
+    627
+   ],
+   [
+    2153,
+    681
+   ],
+   [
+    1697,
+    681
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "KAYVION LEWIS THIEVES' GAMBIT Nancy Paulsen Books",
+  "title": "Thieves' Gambit",
+  "author": "Kayvion Lewis",
+  "series": "Thieves' Gambit #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Thieves' Gambit (Thieves' Gambit, #1)",
+   "author": "Kayvion Lewis",
+   "rating": 3.84,
+   "ratings_count": 19213,
+   "url": "https://www.goodreads.com/book/show/112974911-thieves-gambit"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-08",
+  "compartment": "M2",
+  "poly": [
+   [
+    1726,
+    681
+   ],
+   [
+    2153,
+    681
+   ],
+   [
+    2153,
+    757
+   ],
+   [
+    1726,
+    757
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A GENTLEMAN IN MOSCOW AMOR TOWLES WINDMILL",
+  "title": "A Gentleman in Moscow",
+  "author": "Amor Towles",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Gentleman in Moscow",
+   "author": "Amor Towles",
+   "rating": 4.31,
+   "ratings_count": 714672,
+   "url": "https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M2-09",
+  "compartment": "M2",
+  "poly": [
+   [
+    1727,
+    757
+   ],
+   [
+    2154,
+    757
+   ],
+   [
+    2154,
+    814
+   ],
+   [
+    1727,
+    814
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ARIADNE JENNIFER SAINT WILDFIRE",
+  "title": "Ariadne",
+  "author": "Jennifer Saint",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Ariadne",
+   "author": "Jennifer Saint",
+   "rating": 3.78,
+   "ratings_count": 157361,
+   "url": "https://www.goodreads.com/book/show/54860614-ariadne"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M2-10",
+  "compartment": "M2",
+  "poly": [
+   [
+    1727,
+    814
+   ],
+   [
+    2151,
+    814
+   ],
+   [
+    2151,
+    886
+   ],
+   [
+    1727,
+    886
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "SALLY GREEN THE SMOKE THIEVES",
+  "title": "The Smoke Thieves",
+  "author": "Sally Green",
+  "series": "The Smoke Thieves #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Smoke Thieves (The Smoke Thieves, #1)",
+   "author": "Sally Green",
+   "rating": 3.79,
+   "ratings_count": 10158,
+   "url": "https://www.goodreads.com/book/show/34508382-the-smoke-thieves"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-11",
+  "compartment": "M2",
+  "poly": [
+   [
+    1726,
+    886
+   ],
+   [
+    2151,
+    886
+   ],
+   [
+    2151,
+    959
+   ],
+   [
+    1726,
+    959
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "FOUNDRYSIDE THE FOUNDERS TRILOGY BOOK I ROBERT JACKSON BENNETT",
+  "title": "Foundryside",
+  "author": "Robert Jackson Bennett",
+  "series": "The Founders Trilogy #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Foundryside (The Founders Trilogy, #1)",
+   "author": "Robert Jackson Bennett",
+   "rating": 4.16,
+   "ratings_count": 60095,
+   "url": "https://www.goodreads.com/book/show/37173847-foundryside"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-12",
+  "compartment": "M2",
+  "poly": [
+   [
+    1723,
+    959
+   ],
+   [
+    2146,
+    959
+   ],
+   [
+    2146,
+    1049
+   ],
+   [
+    1723,
+    1049
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A COURT OF WINGS AND RUIN #1 NEW YORK TIMES BESTSELLING AUTHOR SARAH J. MAAS",
+  "title": "A Court of Wings and Ruin",
+  "author": "Sarah J. Maas",
+  "series": "A Court of Thorns and Roses #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",
+   "author": "Sarah J. Maas",
+   "rating": 4.46,
+   "ratings_count": 2998477,
+   "url": "https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-13",
+  "compartment": "M2",
+  "poly": [
+   [
+    1723,
+    1049
+   ],
+   [
+    2141,
+    1049
+   ],
+   [
+    2141,
+    1088
+   ],
+   [
+    1723,
+    1088
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A COURT OF FROST AND STARLIGHT SARAH J. MAAS",
+  "title": "A Court of Frost and Starlight",
+  "author": "Sarah J. Maas",
+  "series": "A Court of Thorns and Roses #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Court of Frost and Starlight (A Court of Thorns and Roses, #4)",
+   "author": "Sarah J. Maas",
+   "rating": 3.7,
+   "ratings_count": 2388952,
+   "url": "https://www.goodreads.com/book/show/50659471-a-court-of-frost-and-starlight"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-14",
+  "compartment": "M2",
+  "poly": [
+   [
+    1723,
+    1088
+   ],
+   [
+    2141,
+    1088
+   ],
+   [
+    2141,
+    1167
+   ],
+   [
+    1723,
+    1167
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A COURT OF MIST AND FURY #1 NEW YORK TIMES BESTSELLING AUTHOR SARAH J. MAAS",
+  "title": "A Court of Mist and Fury",
+  "author": "Sarah J. Maas",
+  "series": "A Court of Thorns and Roses #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Court of Mist and Fury (A Court of Thorns and Roses, #2)",
+   "author": "Sarah J. Maas",
+   "rating": 4.63,
+   "ratings_count": 3537374,
+   "url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-15",
+  "compartment": "M2",
+  "poly": [
+   [
+    1723,
+    1167
+   ],
+   [
+    2138,
+    1167
+   ],
+   [
+    2138,
+    1224
+   ],
+   [
+    1723,
+    1224
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "A COURT OF THORNS AND ROSES #1 NEW YORK TIMES BESTSELLING AUTHOR SARAH J. MAAS",
+  "title": "A Court of Thorns and Roses",
+  "author": "Sarah J. Maas",
+  "series": "A Court of Thorns and Roses #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",
+   "author": "Sarah J. Maas",
+   "rating": 4.14,
+   "ratings_count": 4666166,
+   "url": "https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+  },
+  "note": ""
+ },
+ {
+  "id": "M2-16",
+  "compartment": "M2",
+  "poly": [
+   [
+    1723,
+    1224
+   ],
+   [
+    2146,
+    1224
+   ],
+   [
+    2146,
+    1322
+   ],
+   [
+    1723,
+    1322
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "SARAH J. MAAS A COURT OF SILVER FLAMES",
+  "title": "A Court of Silver Flames",
+  "author": "Sarah J. Maas",
+  "series": "A Court of Thorns and Roses #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Court of Silver Flames (A Court of Thorns and Roses, #5)",
+   "author": "Sarah J. Maas",
+   "rating": 4.45,
+   "ratings_count": 2345394,
+   "url": "https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames"
+  },
+  "note": ""
+ }
+]

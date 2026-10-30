@@ -1,0 +1,631 @@
+[
+ {
+  "id": "L4-01",
+  "compartment": "L4",
+  "poly": [
+   [
+    47,
+    2470
+   ],
+   [
+    103,
+    2470
+   ],
+   [
+    103,
+    2915
+   ],
+   [
+    47,
+    2915
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THIS BOOK LOVES YOU PEWDIEPIE (Penguin)",
+  "title": "This Book Loves You",
+  "author": "PewDiePie",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "This Book Loves You",
+   "author": "PewDiePie",
+   "rating": 3.74,
+   "ratings_count": 6475,
+   "url": "https://www.goodreads.com/book/show/25711621-this-book-loves-you"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-02",
+  "compartment": "L4",
+  "poly": [
+   [
+    103,
+    2473
+   ],
+   [
+    139,
+    2473
+   ],
+   [
+    139,
+    2915
+   ],
+   [
+    103,
+    2915
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "GOD HATES US ALL HANK MOODY",
+  "title": "God Hates Us All",
+  "author": "Hank Moody",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "God Hates Us All",
+   "author": "Hank Moody",
+   "rating": 3.46,
+   "ratings_count": 5013,
+   "url": "https://www.goodreads.com/book/show/5460398-god-hates-us-all"
+  },
+  "note": "Language assumed German (German edition sits among Knaur books); publisher logo at top not fully legible"
+ },
+ {
+  "id": "L4-03",
+  "compartment": "L4",
+  "poly": [
+   [
+    139,
+    2498
+   ],
+   [
+    207,
+    2498
+   ],
+   [
+    207,
+    2915
+   ],
+   [
+    139,
+    2915
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KNAUR SAMUEL SHEM HOUSE OF GOD",
+  "title": "House of God",
+  "author": "Samuel Shem",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The House of God",
+   "author": "Samuel Shem",
+   "rating": 3.83,
+   "ratings_count": 29975,
+   "url": "https://www.goodreads.com/book/show/401876.The_House_of_God"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-04",
+  "compartment": "L4",
+  "poly": [
+   [
+    207,
+    2504
+   ],
+   [
+    303,
+    2504
+   ],
+   [
+    303,
+    2915
+   ],
+   [
+    207,
+    2915
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KNAUR SAMUEL SHEM Mount Misery",
+  "title": "Mount Misery",
+  "author": "Samuel Shem",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Mount Misery",
+   "author": "Samuel Shem",
+   "rating": 3.76,
+   "ratings_count": 1603,
+   "url": "https://www.goodreads.com/book/show/47836.Mount_Misery"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-05",
+  "compartment": "L4",
+  "poly": [
+   [
+    303,
+    2450
+   ],
+   [
+    362,
+    2450
+   ],
+   [
+    362,
+    2919
+   ],
+   [
+    303,
+    2919
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "twisted LOVE ANA HUANG",
+  "title": "Twisted Love",
+  "author": "Ana Huang",
+  "series": "Twisted #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Twisted Love (Twisted, #1)",
+   "author": "Ana Huang",
+   "rating": 3.7,
+   "ratings_count": 1806456,
+   "url": "https://www.goodreads.com/book/show/62057697-twisted-love"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-06",
+  "compartment": "L4",
+  "poly": [
+   [
+    362,
+    2450
+   ],
+   [
+    429,
+    2450
+   ],
+   [
+    429,
+    2919
+   ],
+   [
+    362,
+    2919
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANA HUANG twisted GAMES",
+  "title": "Twisted Games",
+  "author": "Ana Huang",
+  "series": "Twisted #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Twisted Games (Twisted, #2)",
+   "author": "Ana Huang",
+   "rating": 4.07,
+   "ratings_count": 1172513,
+   "url": "https://www.goodreads.com/book/show/62056013-twisted-games"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-07",
+  "compartment": "L4",
+  "poly": [
+   [
+    429,
+    2452
+   ],
+   [
+    505,
+    2452
+   ],
+   [
+    505,
+    2919
+   ],
+   [
+    429,
+    2919
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "twisted HATE ANA HUANG",
+  "title": "Twisted Hate",
+  "author": "Ana Huang",
+  "series": "Twisted #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Twisted Hate (Twisted, #3)",
+   "author": "Ana Huang",
+   "rating": 3.93,
+   "ratings_count": 880956,
+   "url": "https://www.goodreads.com/book/show/62056935-twisted-hate"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-08",
+  "compartment": "L4",
+  "poly": [
+   [
+    505,
+    2452
+   ],
+   [
+    593,
+    2452
+   ],
+   [
+    593,
+    2919
+   ],
+   [
+    505,
+    2919
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "twisted LIES ANA HUANG",
+  "title": "Twisted Lies",
+  "author": "Ana Huang",
+  "series": "Twisted #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Twisted Lies (Twisted, #4)",
+   "author": "Ana Huang",
+   "rating": 4.15,
+   "ratings_count": 759712,
+   "url": "https://www.goodreads.com/book/show/62058385-twisted-lies"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-09",
+  "compartment": "L4",
+  "poly": [
+   [
+    593,
+    2430
+   ],
+   [
+    676,
+    2430
+   ],
+   [
+    676,
+    2922
+   ],
+   [
+    593,
+    2922
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Rainbow Rowell FANGIRL HANSER",
+  "title": "Fangirl",
+  "author": "Rainbow Rowell",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Fangirl",
+   "author": "Rainbow Rowell",
+   "rating": 3.93,
+   "ratings_count": 792927,
+   "url": "https://www.goodreads.com/book/show/16068905-fangirl"
+  },
+  "note": "German edition (Hanser), title printed as Fangirl"
+ },
+ {
+  "id": "L4-10",
+  "compartment": "L4",
+  "poly": [
+   [
+    676,
+    2405
+   ],
+   [
+    747,
+    2405
+   ],
+   [
+    747,
+    2922
+   ],
+   [
+    676,
+    2922
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BUTTER ASAKO YUZUKI TRANSLATED BY POLLY BARTON ecco",
+  "title": "Butter",
+  "author": "Asako Yuzuki",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Butter",
+   "author": "Asako Yuzuki",
+   "rating": 3.42,
+   "ratings_count": 164068,
+   "url": "https://www.goodreads.com/book/show/200776812-butter"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-11",
+  "compartment": "L4",
+  "poly": [
+   [
+    747,
+    2393
+   ],
+   [
+    827,
+    2393
+   ],
+   [
+    827,
+    2922
+   ],
+   [
+    747,
+    2922
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "FOXGLOVE ADALYN GRACE HODDER & STOUGHTON",
+  "title": "Foxglove",
+  "author": "Adalyn Grace",
+  "series": "Belladonna #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Foxglove (Belladonna, #2)",
+   "author": "Adalyn Grace",
+   "rating": 4.08,
+   "ratings_count": 84902,
+   "url": "https://www.goodreads.com/book/show/58651856-foxglove"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-12",
+  "compartment": "L4",
+  "poly": [
+   [
+    827,
+    2393
+   ],
+   [
+    900,
+    2393
+   ],
+   [
+    900,
+    2922
+   ],
+   [
+    827,
+    2922
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BELLADONNA ADALYN GRACE HODDER & STOUGHTON",
+  "title": "Belladonna",
+  "author": "Adalyn Grace",
+  "series": "Belladonna #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Belladonna (Belladonna, #1)",
+   "author": "Adalyn Grace",
+   "rating": 3.93,
+   "ratings_count": 193725,
+   "url": "https://www.goodreads.com/book/show/59227936-belladonna"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-13",
+  "compartment": "L4",
+  "poly": [
+   [
+    900,
+    2395
+   ],
+   [
+    999,
+    2395
+   ],
+   [
+    999,
+    2926
+   ],
+   [
+    900,
+    2926
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WHERE DREAMS DESCEND JANELLA ANGELES WEDNESDAY BOOKS",
+  "title": "Where Dreams Descend",
+  "author": "Janella Angeles",
+  "series": "Kingdom of Cards #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Where Dreams Descend (Kingdom of Cards, #1)",
+   "author": "Janella Angeles",
+   "rating": 3.63,
+   "ratings_count": 10036,
+   "url": "https://www.goodreads.com/book/show/40144224-where-dreams-descend"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-14",
+  "compartment": "L4",
+  "poly": [
+   [
+    999,
+    2399
+   ],
+   [
+    1078,
+    2399
+   ],
+   [
+    1078,
+    2926
+   ],
+   [
+    999,
+    2926
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WHEN NIGHT BREAKS JANELLA ANGELES WEDNESDAY BOOKS",
+  "title": "When Night Breaks",
+  "author": "Janella Angeles",
+  "series": "Kingdom of Cards #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "When Night Breaks (Kingdom of Cards, #2)",
+   "author": "Janella Angeles",
+   "rating": 3.42,
+   "ratings_count": 2724,
+   "url": "https://www.goodreads.com/book/show/54860433-when-night-breaks"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-15",
+  "compartment": "L4",
+  "poly": [
+   [
+    1078,
+    2415
+   ],
+   [
+    1162,
+    2415
+   ],
+   [
+    1162,
+    2926
+   ],
+   [
+    1078,
+    2926
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "OLIVIE BLAKE GIFTED & TALENTED TOR",
+  "title": "Gifted & Talented",
+  "author": "Olivie Blake",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Gifted & Talented",
+   "author": "Olivie Blake",
+   "rating": 3.49,
+   "ratings_count": 13573,
+   "url": "https://www.goodreads.com/book/show/211004124-gifted-talented"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-16",
+  "compartment": "L4",
+  "poly": [
+   [
+    1162,
+    2404
+   ],
+   [
+    1231,
+    2404
+   ],
+   [
+    1231,
+    2926
+   ],
+   [
+    1162,
+    2926
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DK DAS PSYCHOLOGIE BUCH",
+  "title": "Das Psychologie-Buch",
+  "author": "Nigel C. Benson et al. (DK)",
+  "series": "Big Ideas",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Psychology Book: Big Ideas Simply Explained",
+   "author": "Nigel C. Benson",
+   "rating": 4.17,
+   "ratings_count": 5295,
+   "url": "https://www.goodreads.com/book/show/13766064-the-psychology-book"
+  },
+  "note": ""
+ },
+ {
+  "id": "L4-17",
+  "compartment": "L4",
+  "poly": [
+   [
+    1231,
+    2378
+   ],
+   [
+    1283,
+    2378
+   ],
+   [
+    1283,
+    2926
+   ],
+   [
+    1231,
+    2926
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SHERLOCK KNESEBECK Steve Tribe | Mit einem Vorwort von Mark Gatiss",
+  "title": "Sherlock: Die Chroniken",
+  "author": "Steve Tribe",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Sherlock: Chronicles",
+   "author": "Steve Tribe",
+   "rating": 4.42,
+   "ratings_count": 1084,
+   "url": "https://www.goodreads.com/book/show/20662423-sherlock"
+  },
+  "note": "German edition (Knesebeck) of Sherlock: Chronicles; exact German title not on spine"
+ }
+]

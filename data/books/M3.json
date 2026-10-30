@@ -1,0 +1,594 @@
+[
+ {
+  "id": "M3-01",
+  "compartment": "M3",
+  "poly": [
+   [
+    1379,
+    1373
+   ],
+   [
+    1798,
+    1373
+   ],
+   [
+    1798,
+    1438
+   ],
+   [
+    1379,
+    1438
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ADAM SILVERA THEY BOTH DIE AT THE END SIMON & SCHUSTER",
+  "title": "They Both Die at the End",
+  "author": "Adam Silvera",
+  "series": "They Both Die at the End #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "They Both Die at the End (They Both Die at the End, #1)",
+   "author": "Adam Silvera",
+   "rating": 3.75,
+   "ratings_count": 914286,
+   "url": "https://www.goodreads.com/book/show/33385229-they-both-die-at-the-end"
+  },
+  "note": ""
+ },
+ {
+  "id": "M3-02",
+  "compartment": "M3",
+  "poly": [
+   [
+    1376,
+    1438
+   ],
+   [
+    1797,
+    1438
+   ],
+   [
+    1797,
+    1509
+   ],
+   [
+    1376,
+    1509
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "The MAGICIANS LEV GROSSMAN",
+  "title": "The Magicians",
+  "author": "Lev Grossman",
+  "series": "The Magicians #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Magicians (The Magicians, #1)",
+   "author": "Lev Grossman",
+   "rating": 3.53,
+   "ratings_count": 283465,
+   "url": "https://www.goodreads.com/book/show/6101718-the-magicians"
+  },
+  "note": ""
+ },
+ {
+  "id": "M3-03",
+  "compartment": "M3",
+  "poly": [
+   [
+    1374,
+    1509
+   ],
+   [
+    1793,
+    1509
+   ],
+   [
+    1793,
+    1555
+   ],
+   [
+    1374,
+    1555
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "nicola yoon EVERYTHING, EVERYTHING CORGI",
+  "title": "Everything, Everything",
+  "author": "Nicola Yoon",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Everything, Everything",
+   "author": "Nicola Yoon",
+   "rating": 3.95,
+   "ratings_count": 693198,
+   "url": "https://www.goodreads.com/book/show/18692431-everything-everything"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-04",
+  "compartment": "M3",
+  "poly": [
+   [
+    1374,
+    1555
+   ],
+   [
+    1793,
+    1555
+   ],
+   [
+    1793,
+    1609
+   ],
+   [
+    1374,
+    1609
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "nicola yoon THE SUN IS ALSO A STAR CORGI",
+  "title": "The Sun Is Also a Star",
+  "author": "Nicola Yoon",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Sun Is Also a Star",
+   "author": "Nicola Yoon",
+   "rating": 3.95,
+   "ratings_count": 365900,
+   "url": "https://www.goodreads.com/book/show/28763485-the-sun-is-also-a-star"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-05",
+  "compartment": "M3",
+  "poly": [
+   [
+    1375,
+    1609
+   ],
+   [
+    1793,
+    1609
+   ],
+   [
+    1793,
+    1640
+   ],
+   [
+    1375,
+    1640
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "The PERKS of Being a Wallflower Stephen Chbosky",
+  "title": "The Perks of Being a Wallflower",
+  "author": "Stephen Chbosky",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Perks of Being a Wallflower",
+   "author": "Stephen Chbosky",
+   "rating": 4.24,
+   "ratings_count": 2084432,
+   "url": "https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-06",
+  "compartment": "M3",
+  "poly": [
+   [
+    1375,
+    1640
+   ],
+   [
+    1792,
+    1640
+   ],
+   [
+    1792,
+    1694
+   ],
+   [
+    1375,
+    1694
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE FAULT IN OUR STARS JOHN GREEN",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Fault in Our Stars",
+   "author": "John Green",
+   "rating": 4.12,
+   "ratings_count": 5907603,
+   "url": "https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-07",
+  "compartment": "M3",
+  "poly": [
+   [
+    1375,
+    1694
+   ],
+   [
+    1794,
+    1694
+   ],
+   [
+    1794,
+    1745
+   ],
+   [
+    1375,
+    1745
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ALICE CHRISTINA HENRY TITAN BOOKS",
+  "title": "Alice",
+  "author": "Christina Henry",
+  "series": "The Chronicles of Alice #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Alice (The Chronicles of Alice #1)",
+   "author": "Christina Henry",
+   "rating": 3.82,
+   "ratings_count": 54771,
+   "url": "https://www.goodreads.com/book/show/144402616-alice"
+  },
+  "note": ""
+ },
+ {
+  "id": "M3-08",
+  "compartment": "M3",
+  "poly": [
+   [
+    1374,
+    1745
+   ],
+   [
+    1803,
+    1745
+   ],
+   [
+    1803,
+    1795
+   ],
+   [
+    1374,
+    1795
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "MECHANICS OF THE PAST K.A. ASHCOMB",
+  "title": "Mechanics of the Past",
+  "author": "K.A. Ashcomb",
+  "series": "Glorious Mishaps #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Mechanics of the Past (Glorious Mishaps #3)",
+   "author": "K.A. Ashcomb",
+   "rating": 4.18,
+   "ratings_count": 33,
+   "url": "https://www.goodreads.com/book/show/218051018-mechanics-of-the-past"
+  },
+  "note": ""
+ },
+ {
+  "id": "M3-09",
+  "compartment": "M3",
+  "poly": [
+   [
+    1378,
+    1795
+   ],
+   [
+    1795,
+    1795
+   ],
+   [
+    1795,
+    1828
+   ],
+   [
+    1378,
+    1828
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "LOVE IN THE BIG CITY / SANG YOUNG PARK",
+  "title": "Love in the Big City",
+  "author": "Sang Young Park",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Love in the Big City",
+   "author": "Sang Young Park",
+   "rating": 3.66,
+   "ratings_count": 19125,
+   "url": "https://www.goodreads.com/book/show/57500766-love-in-the-big-city"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-10",
+  "compartment": "M3",
+  "poly": [
+   [
+    1375,
+    1828
+   ],
+   [
+    1789,
+    1828
+   ],
+   [
+    1789,
+    1890
+   ],
+   [
+    1375,
+    1890
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "THE POPPY WAR R.F. KUANG",
+  "title": "The Poppy War",
+  "author": "R.F. Kuang",
+  "series": "The Poppy War #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Poppy War (The Poppy War, #1)",
+   "author": "R.F. Kuang",
+   "rating": 4.15,
+   "ratings_count": 560795,
+   "url": "https://www.goodreads.com/book/show/35068705-the-poppy-war"
+  },
+  "note": ""
+ },
+ {
+  "id": "M3-11",
+  "compartment": "M3",
+  "poly": [
+   [
+    1375,
+    1890
+   ],
+   [
+    1785,
+    1890
+   ],
+   [
+    1785,
+    1938
+   ],
+   [
+    1375,
+    1938
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "ATTACHMENTS Rainbow Rowell",
+  "title": "Attachments",
+  "author": "Rainbow Rowell",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Attachments",
+   "author": "Rainbow Rowell",
+   "rating": 3.86,
+   "ratings_count": 212910,
+   "url": "https://www.goodreads.com/book/show/8909152-attachments"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-12",
+  "compartment": "M3",
+  "poly": [
+   [
+    1379,
+    1938
+   ],
+   [
+    1782,
+    1938
+   ],
+   [
+    1782,
+    1989
+   ],
+   [
+    1379,
+    1989
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "62583 DAS SCHICKSAL IST EIN MIESER VERRÄTER JOHN GREEN dtv",
+  "title": "Das Schicksal ist ein mieser Verräter",
+  "author": "John Green",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Fault in Our Stars",
+   "author": "John Green",
+   "rating": 4.12,
+   "ratings_count": 5907603,
+   "url": "https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars"
+  },
+  "note": "German translation of The Fault in Our Stars; lying upside down",
+  "series": null
+ },
+ {
+  "id": "M3-13",
+  "compartment": "M3",
+  "poly": [
+   [
+    1808,
+    1485
+   ],
+   [
+    1862,
+    1485
+   ],
+   [
+    1862,
+    1968
+   ],
+   [
+    1808,
+    1968
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BLOOD OVER BRIGHT HAVEN M. L. WANG",
+  "title": "Blood Over Bright Haven",
+  "author": "M.L. Wang",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Blood Over Bright Haven",
+   "author": "M.L. Wang",
+   "rating": 4.3,
+   "ratings_count": 191316,
+   "url": "https://www.goodreads.com/book/show/208430658-blood-over-bright-haven"
+  },
+  "note": "Spine only; top page edges also visible above",
+  "series": null
+ },
+ {
+  "id": "M3-14",
+  "compartment": "M3",
+  "poly": [
+   [
+    1862,
+    1460
+   ],
+   [
+    1922,
+    1460
+   ],
+   [
+    1922,
+    1957
+   ],
+   [
+    1862,
+    1957
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "NATALIE SUE I HOPE THIS FINDS YOU WELL",
+  "title": "I Hope This Finds You Well",
+  "author": "Natalie Sue",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "I Hope This Finds You Well",
+   "author": "Natalie Sue",
+   "rating": 3.72,
+   "ratings_count": 146006,
+   "url": "https://www.goodreads.com/book/show/200987323-i-hope-this-finds-you-well"
+  },
+  "series": null,
+  "note": ""
+ },
+ {
+  "id": "M3-15",
+  "compartment": "M3",
+  "poly": [
+   [
+    1922,
+    1463
+   ],
+   [
+    2024,
+    1463
+   ],
+   [
+    2024,
+    1955
+   ],
+   [
+    1922,
+    1955
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WOULDN'T [BURN] MARK LAWRENCE HARPER Voyager",
+  "title": "The Book That Wouldn't Burn",
+  "author": "Mark Lawrence",
+  "series": "The Library Trilogy #1",
+  "language": "en",
+  "confidence": "medium",
+  "goodreads": {
+   "title": "The Book That Wouldn't Burn (The Library Trilogy, #1)",
+   "author": "Mark Lawrence",
+   "rating": 3.94,
+   "ratings_count": 46792,
+   "url": "https://www.goodreads.com/book/show/61612864-the-book-that-wouldn-t-burn"
+  },
+  "note": "Dark embossed spine, only 'WOULDN'T' and author clearly legible"
+ },
+ {
+  "id": "M3-16",
+  "compartment": "M3",
+  "poly": [
+   [
+    2028,
+    1497
+   ],
+   [
+    2128,
+    1497
+   ],
+   [
+    2128,
+    1993
+   ],
+   [
+    2028,
+    1993
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BARDUGO KING OF SCARS",
+  "title": "King of Scars",
+  "author": "Leigh Bardugo",
+  "series": "King of Scars #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "King of Scars (King of Scars, #1)",
+   "author": "Leigh Bardugo",
+   "rating": 4.15,
+   "ratings_count": 240718,
+   "url": "https://www.goodreads.com/book/show/36307634-king-of-scars"
+  },
+  "note": ""
+ }
+]

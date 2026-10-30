@@ -1,0 +1,631 @@
+[
+ {
+  "id": "R3-01",
+  "compartment": "R3",
+  "poly": [
+   [
+    3951,
+    1535
+   ],
+   [
+    4001,
+    1535
+   ],
+   [
+    4001,
+    2058
+   ],
+   [
+    3951,
+    2058
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "VOLUME 1 HEARTSTOPPER ALICE OSEMAN",
+  "title": "Heartstopper: Volume One",
+  "author": "Alice Oseman",
+  "series": "Heartstopper #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Heartstopper: Volume One (Heartstopper, #1)",
+   "author": "Alice Oseman",
+   "rating": 4.4,
+   "ratings_count": 938335,
+   "url": "https://www.goodreads.com/book/show/40495957-heartstopper"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-02",
+  "compartment": "R3",
+  "poly": [
+   [
+    4001,
+    1553
+   ],
+   [
+    4043,
+    1553
+   ],
+   [
+    4043,
+    2052
+   ],
+   [
+    4001,
+    2052
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "baek sehee i want to die but i want to eat tteokbokki",
+  "title": "I Want to Die but I Want to Eat Tteokbokki",
+  "author": "Baek Sehee",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "I Want to Die But I Want to Eat Tteokbokki",
+   "author": "Baek Se-hee",
+   "rating": 3.19,
+   "ratings_count": 116691,
+   "url": "https://www.goodreads.com/book/show/60400779-i-want-to-die-but-i-want-to-eat-tteokbokki"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-03",
+  "compartment": "R3",
+  "poly": [
+   [
+    4043,
+    1609
+   ],
+   [
+    4073,
+    1609
+   ],
+   [
+    4073,
+    2047
+   ],
+   [
+    4043,
+    2047
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "meet me at the convenience store by the sea sonoko machida",
+  "title": "Meet Me at the Convenience Store by the Sea",
+  "author": "Sonoko Machida",
+  "series": "Convenience Store by the Sea #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Meet Me at the Convenience Store by the Sea (Convenience Store by the Sea, #2)",
+   "author": "Sonoko Machida",
+   "rating": 3.7,
+   "ratings_count": 1021,
+   "url": "https://www.goodreads.com/book/show/237804717-meet-me-at-the-convenience-store-by-the-sea"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-04",
+  "compartment": "R3",
+  "poly": [
+   [
+    4073,
+    1609
+   ],
+   [
+    4113,
+    1609
+   ],
+   [
+    4113,
+    2048
+   ],
+   [
+    4073,
+    2048
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "NOTES FROM THE GINZA SHIHODO STATIONERY SHOP KENJI UEDA",
+  "title": "Notes from the Ginza Shihodo Stationery Shop",
+  "author": "Kenji Ueda",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Notes from the Ginza Shihodo Stationery Shop",
+   "author": "Kenji Ueda",
+   "rating": 3.99,
+   "ratings_count": 662,
+   "url": "https://www.goodreads.com/book/show/234860197-notes-from-the-ginza-shihodo-stationery-shop"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-05",
+  "compartment": "R3",
+  "poly": [
+   [
+    4113,
+    1613
+   ],
+   [
+    4144,
+    1613
+   ],
+   [
+    4144,
+    2052
+   ],
+   [
+    4113,
+    2052
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SOYANGRI BOOK KITCHEN KIM JEE HYE VINTAGE",
+  "title": "Soyangri Book Kitchen",
+  "author": "Kim Jee Hye",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Soyangri Book Kitchen",
+   "author": "Jee-Hye Kim",
+   "rating": 3.68,
+   "ratings_count": 4062,
+   "url": "https://www.goodreads.com/book/show/233977406-soyangri-book-kitchen"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-06",
+  "compartment": "R3",
+  "poly": [
+   [
+    4144,
+    1608
+   ],
+   [
+    4176,
+    1608
+   ],
+   [
+    4176,
+    2050
+   ],
+   [
+    4144,
+    2050
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE SECOND CHANCE CONVENIENCE STORE KIM HO-YEON",
+  "title": "The Second Chance Convenience Store",
+  "author": "Kim Ho-yeon",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Second Chance Convenience Store",
+   "author": "Ho-yeon Kim",
+   "rating": 3.89,
+   "ratings_count": 25596,
+   "url": "https://www.goodreads.com/book/show/217432781-the-second-chance-convenience-store"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-07",
+  "compartment": "R3",
+  "poly": [
+   [
+    4176,
+    1610
+   ],
+   [
+    4225,
+    1610
+   ],
+   [
+    4225,
+    2050
+   ],
+   [
+    4176,
+    2050
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PSYCHE & EROS LUNA McNAMARA ORION",
+  "title": "Psyche & Eros",
+  "author": "Luna McNamara",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Psyche and Eros",
+   "author": "Luna McNamara",
+   "rating": 3.76,
+   "ratings_count": 23217,
+   "url": "https://www.goodreads.com/book/show/62292422-psyche-and-eros"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-08",
+  "compartment": "R3",
+  "poly": [
+   [
+    4225,
+    1612
+   ],
+   [
+    4276,
+    1612
+   ],
+   [
+    4276,
+    2048
+   ],
+   [
+    4225,
+    2048
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HERA JENNIFER SAINT WILDFIRE",
+  "title": "Hera",
+  "author": "Jennifer Saint",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Hera",
+   "author": "Jennifer Saint",
+   "rating": 3.54,
+   "ratings_count": 24473,
+   "url": "https://www.goodreads.com/book/show/195790663-hera"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-09",
+  "compartment": "R3",
+  "poly": [
+   [
+    4276,
+    1580
+   ],
+   [
+    4325,
+    1580
+   ],
+   [
+    4325,
+    2055
+   ],
+   [
+    4276,
+    2055
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ROUNDABOUT PHONG NGUYEN",
+  "title": "Roundabout",
+  "author": "Phong Nguyen",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Roundabout",
+   "author": "Phong Nguyen",
+   "rating": 3.02,
+   "ratings_count": 280,
+   "url": "https://www.goodreads.com/book/show/48669816-roundabout"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-10",
+  "compartment": "R3",
+  "poly": [
+   [
+    4325,
+    1622
+   ],
+   [
+    4359,
+    1622
+   ],
+   [
+    4359,
+    2055
+   ],
+   [
+    4325,
+    2055
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The Kamogawa Food Detectives Hisashi Kashiwai",
+  "title": "The Kamogawa Food Detectives",
+  "author": "Hisashi Kashiwai",
+  "series": "Kamogawa Food Detectives #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Kamogawa Food Detectives (Kamogawa Food Detectives, #1)",
+   "author": "Hisashi Kashiwai",
+   "rating": 3.65,
+   "ratings_count": 53815,
+   "url": "https://www.goodreads.com/book/show/154488299-the-kamogawa-food-detectives"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-11",
+  "compartment": "R3",
+  "poly": [
+   [
+    4359,
+    1580
+   ],
+   [
+    4393,
+    1580
+   ],
+   [
+    4393,
+    2055
+   ],
+   [
+    4359,
+    2055
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "OCEAN VUONG On Earth We're Briefly Gorgeous VINTAGE",
+  "title": "On Earth We're Briefly Gorgeous",
+  "author": "Ocean Vuong",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "On Earth We're Briefly Gorgeous",
+   "author": "Ocean Vuong",
+   "rating": 3.99,
+   "ratings_count": 449227,
+   "url": "https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-12",
+  "compartment": "R3",
+  "poly": [
+   [
+    4393,
+    1593
+   ],
+   [
+    4444,
+    1593
+   ],
+   [
+    4444,
+    2053
+   ],
+   [
+    4393,
+    2053
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "We'll prescribe you a cat SYOU ISHIDA doubleday",
+  "title": "We'll Prescribe You a Cat",
+  "author": "Syou Ishida",
+  "series": "We'll Prescribe You a Cat #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "We'll Prescribe You a Cat (We'll Prescribe You a Cat, #1)",
+   "author": "Syou Ishida",
+   "rating": 3.74,
+   "ratings_count": 71861,
+   "url": "https://www.goodreads.com/book/show/209891170-we-ll-prescribe-you-a-cat"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-13",
+  "compartment": "R3",
+  "poly": [
+   [
+    4444,
+    1600
+   ],
+   [
+    4490,
+    1600
+   ],
+   [
+    4490,
+    2059
+   ],
+   [
+    4444,
+    2059
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Mornings With My Cat Mii MAYUMI INABA",
+  "title": "Mornings With My Cat Mii",
+  "author": "Mayumi Inaba",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Mornings With My Cat Mii",
+   "author": "Mayumi Inaba",
+   "rating": 3.66,
+   "ratings_count": 2947,
+   "url": "https://www.goodreads.com/book/show/206660894-mornings-with-my-cat-mii"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-14",
+  "compartment": "R3",
+  "poly": [
+   [
+    4490,
+    1622
+   ],
+   [
+    4550,
+    1622
+   ],
+   [
+    4550,
+    2060
+   ],
+   [
+    4490,
+    2060
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ink Alice Broadway",
+  "title": "Ink",
+  "author": "Alice Broadway",
+  "series": "Skin Books #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Ink (Skin Books, #1)",
+   "author": "Alice Broadway",
+   "rating": 3.57,
+   "ratings_count": 15586,
+   "url": "https://www.goodreads.com/book/show/32827036-ink"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-15",
+  "compartment": "R3",
+  "poly": [
+   [
+    4550,
+    1597
+   ],
+   [
+    4600,
+    1597
+   ],
+   [
+    4600,
+    2064
+   ],
+   [
+    4550,
+    2064
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THAT INEVITABLE VICTORIAN THING E.K. JOHNSTON DUTTON",
+  "title": "That Inevitable Victorian Thing",
+  "author": "E.K. Johnston",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "That Inevitable Victorian Thing",
+   "author": "E.K. Johnston",
+   "rating": 3.2,
+   "ratings_count": 4982,
+   "url": "https://www.goodreads.com/book/show/25528808-that-inevitable-victorian-thing"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-16",
+  "compartment": "R3",
+  "poly": [
+   [
+    4600,
+    1582
+   ],
+   [
+    4661,
+    1582
+   ],
+   [
+    4661,
+    2066
+   ],
+   [
+    4600,
+    2066
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The LAST TALE of the FLOWER BRIDE ROSHANI CHOKSHI",
+  "title": "The Last Tale of the Flower Bride",
+  "author": "Roshani Chokshi",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Last Tale of the Flower Bride",
+   "author": "Roshani Chokshi",
+   "rating": 3.69,
+   "ratings_count": 32783,
+   "url": "https://www.goodreads.com/book/show/61150759-the-last-tale-of-the-flower-bride"
+  },
+  "note": ""
+ },
+ {
+  "id": "R3-17",
+  "compartment": "R3",
+  "poly": [
+   [
+    4661,
+    1622
+   ],
+   [
+    4750,
+    1622
+   ],
+   [
+    4750,
+    2068
+   ],
+   [
+    4661,
+    2068
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "FROM BLOOD AND ASH JENNIFER L. ARMENTROUT",
+  "title": "From Blood and Ash",
+  "author": "Jennifer L. Armentrout",
+  "series": "Blood and Ash #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "From Blood and Ash (Blood and Ash, #1)",
+   "author": "Jennifer L. Armentrout",
+   "rating": 4.21,
+   "ratings_count": 914407,
+   "url": "https://www.goodreads.com/book/show/52831200-from-blood-and-ash"
+  },
+  "note": ""
+ }
+]

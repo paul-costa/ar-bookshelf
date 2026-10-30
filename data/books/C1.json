@@ -1,0 +1,927 @@
+[
+ {
+  "id": "C1-01",
+  "compartment": "C1",
+  "poly": [
+   [
+    2234,
+    12
+   ],
+   [
+    2650,
+    12
+   ],
+   [
+    2650,
+    103
+   ],
+   [
+    2234,
+    103
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "a conjuring of light V.E. Schwab",
+  "title": "A Conjuring of Light",
+  "author": "V.E. Schwab",
+  "series": "Shades of Magic #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Conjuring of Light (Shades of Magic, #3)",
+   "author": "V.E. Schwab",
+   "rating": 4.29,
+   "ratings_count": 203630,
+   "url": "https://www.goodreads.com/book/show/29939230-a-conjuring-of-light"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-02",
+  "compartment": "C1",
+  "poly": [
+   [
+    2237,
+    106
+   ],
+   [
+    2652,
+    106
+   ],
+   [
+    2652,
+    180
+   ],
+   [
+    2237,
+    180
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "a gathering of shadows V.E. Schwab",
+  "title": "A Gathering of Shadows",
+  "author": "V.E. Schwab",
+  "series": "Shades of Magic #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Gathering of Shadows (Shades of Magic, #2)",
+   "author": "V.E. Schwab",
+   "rating": 4.18,
+   "ratings_count": 245528,
+   "url": "https://www.goodreads.com/book/show/20764879-a-gathering-of-shadows"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-03",
+  "compartment": "C1",
+  "poly": [
+   [
+    2232,
+    181
+   ],
+   [
+    2661,
+    181
+   ],
+   [
+    2661,
+    236
+   ],
+   [
+    2232,
+    236
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "a darker shade of magic V.E. Schwab",
+  "title": "A Darker Shade of Magic",
+  "author": "V.E. Schwab",
+  "series": "Shades of Magic #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Darker Shade of Magic (Shades of Magic, #1)",
+   "author": "V.E. Schwab",
+   "rating": 4.03,
+   "ratings_count": 449746,
+   "url": "https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-04",
+  "compartment": "C1",
+  "poly": [
+   [
+    2231,
+    237
+   ],
+   [
+    2297,
+    237
+   ],
+   [
+    2297,
+    661
+   ],
+   [
+    2231,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE ASSASSIN'S BLADE SARAH J. MAAS",
+  "title": "The Assassin's Blade",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #0.5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Assassin's Blade (Throne of Glass, #0.1-0.5)",
+   "author": "Sarah J. Maas",
+   "rating": 4.2,
+   "ratings_count": 1391206,
+   "url": "https://www.goodreads.com/book/show/126062562-the-assassin-s-blade"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-05",
+  "compartment": "C1",
+  "poly": [
+   [
+    2297,
+    237
+   ],
+   [
+    2359,
+    237
+   ],
+   [
+    2359,
+    661
+   ],
+   [
+    2297,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THRONE OF GLASS SARAH J. MAAS",
+  "title": "Throne of Glass",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Throne of Glass (Throne of Glass, #1)",
+   "author": "Sarah J. Maas",
+   "rating": 4.18,
+   "ratings_count": 2742315,
+   "url": "https://www.goodreads.com/book/show/76703559-throne-of-glass"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-06",
+  "compartment": "C1",
+  "poly": [
+   [
+    2359,
+    237
+   ],
+   [
+    2421,
+    237
+   ],
+   [
+    2421,
+    661
+   ],
+   [
+    2359,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "CROWN OF MIDNIGHT SARAH J. MAAS",
+  "title": "Crown of Midnight",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Crown of Midnight (Throne of Glass, #2)",
+   "author": "Sarah J. Maas",
+   "rating": 4.36,
+   "ratings_count": 2027804,
+   "url": "https://www.goodreads.com/book/show/76705490-crown-of-midnight"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-07",
+  "compartment": "C1",
+  "poly": [
+   [
+    2421,
+    237
+   ],
+   [
+    2496,
+    237
+   ],
+   [
+    2496,
+    661
+   ],
+   [
+    2421,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HEIR OF FIRE SARAH J. MAAS",
+  "title": "Heir of Fire",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Heir of Fire (Throne of Glass, #3)",
+   "author": "Sarah J. Maas",
+   "rating": 4.44,
+   "ratings_count": 1807759,
+   "url": "https://www.goodreads.com/book/show/76706470-heir-of-fire"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-08",
+  "compartment": "C1",
+  "poly": [
+   [
+    2496,
+    237
+   ],
+   [
+    2590,
+    237
+   ],
+   [
+    2590,
+    661
+   ],
+   [
+    2496,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "QUEEN OF SHADOWS SARAH J. MAAS",
+  "title": "Queen of Shadows",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Queen of Shadows (Throne of Glass, #4)",
+   "author": "Sarah J. Maas",
+   "rating": 4.62,
+   "ratings_count": 1637626,
+   "url": "https://www.goodreads.com/book/show/123004944-queen-of-shadows"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-09",
+  "compartment": "C1",
+  "poly": [
+   [
+    2590,
+    237
+   ],
+   [
+    2690,
+    237
+   ],
+   [
+    2690,
+    661
+   ],
+   [
+    2590,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "EMPIRE OF STORMS SARAH J. MAAS",
+  "title": "Empire of Storms",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Empire of Storms (Throne of Glass, #5)",
+   "author": "Sarah J. Maas",
+   "rating": 4.63,
+   "ratings_count": 1439703,
+   "url": "https://www.goodreads.com/book/show/76713323-empire-of-storms"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-10",
+  "compartment": "C1",
+  "poly": [
+   [
+    2690,
+    240
+   ],
+   [
+    2784,
+    240
+   ],
+   [
+    2784,
+    661
+   ],
+   [
+    2690,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "TOWER OF DAWN SARAH J. MAAS",
+  "title": "Tower of Dawn",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #6",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tower of Dawn (Throne of Glass, #6)",
+   "author": "Sarah J. Maas",
+   "rating": 4.28,
+   "ratings_count": 1257331,
+   "url": "https://www.goodreads.com/book/show/76714487-tower-of-dawn"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-11",
+  "compartment": "C1",
+  "poly": [
+   [
+    2784,
+    240
+   ],
+   [
+    2900,
+    240
+   ],
+   [
+    2900,
+    661
+   ],
+   [
+    2784,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KINGDOM OF ASH SARAH J. MAAS",
+  "title": "Kingdom of Ash",
+  "author": "Sarah J. Maas",
+  "series": "Throne of Glass #7",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kingdom of Ash (Throne of Glass, #7)",
+   "author": "Sarah J. Maas",
+   "rating": 4.71,
+   "ratings_count": 1288077,
+   "url": "https://www.goodreads.com/book/show/76715522-kingdom-of-ash"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-12",
+  "compartment": "C1",
+  "poly": [
+   [
+    2900,
+    240
+   ],
+   [
+    2962,
+    240
+   ],
+   [
+    2962,
+    661
+   ],
+   [
+    2900,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "1 THE SHEPHERD KING ONE DARK WINDOW RACHEL GILLIG",
+  "title": "One Dark Window",
+  "author": "Rachel Gillig",
+  "series": "The Shepherd King #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "One Dark Window (The Shepherd King, #1)",
+   "author": "Rachel Gillig",
+   "rating": 4.25,
+   "ratings_count": 788894,
+   "url": "https://www.goodreads.com/book/show/58340706-one-dark-window"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-13",
+  "compartment": "C1",
+  "poly": [
+   [
+    2962,
+    240
+   ],
+   [
+    3030,
+    240
+   ],
+   [
+    3030,
+    661
+   ],
+   [
+    2962,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "2 THE SHEPHERD KING TWO TWISTED CROWNS RACHEL GILLIG",
+  "title": "Two Twisted Crowns",
+  "author": "Rachel Gillig",
+  "series": "The Shepherd King #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Two Twisted Crowns (The Shepherd King, #2)",
+   "author": "Rachel Gillig",
+   "rating": 4.37,
+   "ratings_count": 605717,
+   "url": "https://www.goodreads.com/book/show/63910262-two-twisted-crowns"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-14",
+  "compartment": "C1",
+  "poly": [
+   [
+    3030,
+    240
+   ],
+   [
+    3099,
+    240
+   ],
+   [
+    3099,
+    661
+   ],
+   [
+    3030,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "IF WE WERE VILLAINS M.L. RIO",
+  "title": "If We Were Villains",
+  "author": "M.L. Rio",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "If We Were Villains",
+   "author": "M.L. Rio",
+   "rating": 4.07,
+   "ratings_count": 449840,
+   "url": "https://www.goodreads.com/book/show/30319086-if-we-were-villains"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-15",
+  "compartment": "C1",
+  "poly": [
+   [
+    3099,
+    238
+   ],
+   [
+    3157,
+    238
+   ],
+   [
+    3157,
+    661
+   ],
+   [
+    3099,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DONNA TARTT THE SECRET HISTORY",
+  "title": "The Secret History",
+  "author": "Donna Tartt",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Secret History",
+   "author": "Donna Tartt",
+   "rating": 4.14,
+   "ratings_count": 1143909,
+   "url": "https://www.goodreads.com/book/show/29044.The_Secret_History"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-16",
+  "compartment": "C1",
+  "poly": [
+   [
+    3157,
+    238
+   ],
+   [
+    3215,
+    238
+   ],
+   [
+    3215,
+    661
+   ],
+   [
+    3157,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "VICIOUS V.E. SCHWAB",
+  "title": "Vicious",
+  "author": "V.E. Schwab",
+  "series": "Villains #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Vicious (Villains, #1)",
+   "author": "V.E. Schwab",
+   "rating": 4.17,
+   "ratings_count": 349933,
+   "url": "https://www.goodreads.com/book/show/40874032-vicious"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-17",
+  "compartment": "C1",
+  "poly": [
+   [
+    3215,
+    237
+   ],
+   [
+    3298,
+    237
+   ],
+   [
+    3298,
+    661
+   ],
+   [
+    3215,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "VENGEFUL V.E. SCHWAB",
+  "title": "Vengeful",
+  "author": "V.E. Schwab",
+  "series": "Villains #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Vengeful (Villains, #2)",
+   "author": "V.E. Schwab",
+   "rating": 4.11,
+   "ratings_count": 142402,
+   "url": "https://www.goodreads.com/book/show/26856502-vengeful"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-18",
+  "compartment": "C1",
+  "poly": [
+   [
+    3298,
+    280
+   ],
+   [
+    3381,
+    280
+   ],
+   [
+    3381,
+    661
+   ],
+   [
+    3298,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE NIGHT CIRCUS ERIN MORGENSTERN",
+  "title": "The Night Circus",
+  "author": "Erin Morgenstern",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Night Circus",
+   "author": "Erin Morgenstern",
+   "rating": 3.99,
+   "ratings_count": 1144920,
+   "url": "https://www.goodreads.com/book/show/9361589-the-night-circus"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-19",
+  "compartment": "C1",
+  "poly": [
+   [
+    3381,
+    232
+   ],
+   [
+    3466,
+    232
+   ],
+   [
+    3466,
+    661
+   ],
+   [
+    3381,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SIX OF CROWS LEIGH BARDUGO",
+  "title": "Six of Crows",
+  "author": "Leigh Bardugo",
+  "series": "Six of Crows #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Six of Crows (Six of Crows, #1)",
+   "author": "Leigh Bardugo",
+   "rating": 4.45,
+   "ratings_count": 1224105,
+   "url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-20",
+  "compartment": "C1",
+  "poly": [
+   [
+    3466,
+    162
+   ],
+   [
+    3540,
+    162
+   ],
+   [
+    3540,
+    661
+   ],
+   [
+    3466,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BARDUGO CROOKED KINGDOM",
+  "title": "Crooked Kingdom",
+  "author": "Leigh Bardugo",
+  "series": "Six of Crows #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Crooked Kingdom (Six of Crows, #2)",
+   "author": "Leigh Bardugo",
+   "rating": 4.56,
+   "ratings_count": 814328,
+   "url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-21",
+  "compartment": "C1",
+  "poly": [
+   [
+    3540,
+    210
+   ],
+   [
+    3604,
+    210
+   ],
+   [
+    3604,
+    661
+   ],
+   [
+    3540,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HOLLY BLACK THE CRUEL PRINCE",
+  "title": "The Cruel Prince",
+  "author": "Holly Black",
+  "series": "The Folk of the Air #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Cruel Prince (The Folk of the Air, #1)",
+   "author": "Holly Black",
+   "rating": 4.0,
+   "ratings_count": 1892260,
+   "url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-22",
+  "compartment": "C1",
+  "poly": [
+   [
+    3604,
+    168
+   ],
+   [
+    3668,
+    168
+   ],
+   [
+    3668,
+    661
+   ],
+   [
+    3604,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HOLLY BLACK THE WICKED KING",
+  "title": "The Wicked King",
+  "author": "Holly Black",
+  "series": "The Folk of the Air #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Wicked King (The Folk of the Air, #2)",
+   "author": "Holly Black",
+   "rating": 4.27,
+   "ratings_count": 1172656,
+   "url": "https://www.goodreads.com/book/show/26032887-the-wicked-king"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-23",
+  "compartment": "C1",
+  "poly": [
+   [
+    3668,
+    157
+   ],
+   [
+    3722,
+    157
+   ],
+   [
+    3722,
+    661
+   ],
+   [
+    3668,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE QUEEN OF NOTHING HOLLY BLACK",
+  "title": "The Queen of Nothing",
+  "author": "Holly Black",
+  "series": "The Folk of the Air #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Queen of Nothing (The Folk of the Air, #3)",
+   "author": "Holly Black",
+   "rating": 4.33,
+   "ratings_count": 1057037,
+   "url": "https://www.goodreads.com/book/show/26032912-the-queen-of-nothing"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-24",
+  "compartment": "C1",
+  "poly": [
+   [
+    3722,
+    152
+   ],
+   [
+    3792,
+    152
+   ],
+   [
+    3792,
+    661
+   ],
+   [
+    3722,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE TAINTED CUP ROBERT JACKSON BENNETT",
+  "title": "The Tainted Cup",
+  "author": "Robert Jackson Bennett",
+  "series": "Ana and Din Mysteries #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Tainted Cup (Ana and Din Mysteries, #1)",
+   "author": "Robert Jackson Bennett",
+   "rating": 4.29,
+   "ratings_count": 116858,
+   "url": "https://www.goodreads.com/book/show/150247395-the-tainted-cup"
+  },
+  "note": ""
+ },
+ {
+  "id": "C1-25",
+  "compartment": "C1",
+  "poly": [
+   [
+    3792,
+    154
+   ],
+   [
+    3858,
+    154
+   ],
+   [
+    3858,
+    661
+   ],
+   [
+    3792,
+    661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "A DROP OF CORRUPTION ROBERT JACKSON BENNETT",
+  "title": "A Drop of Corruption",
+  "author": "Robert Jackson Bennett",
+  "series": "Ana and Din Mysteries #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Drop of Corruption (Ana and Din Mysteries, #2)",
+   "author": "Robert Jackson Bennett",
+   "rating": 4.47,
+   "ratings_count": 60616,
+   "url": "https://www.goodreads.com/book/show/213618143-a-drop-of-corruption"
+  },
+  "note": ""
+ }
+]

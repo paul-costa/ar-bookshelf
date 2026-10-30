@@ -1,0 +1,631 @@
+[
+ {
+  "id": "L1-01",
+  "compartment": "L1",
+  "poly": [
+   [
+    61,
+    373
+   ],
+   [
+    153,
+    373
+   ],
+   [
+    153,
+    846
+   ],
+   [
+    61,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANN & ALEXANDER SHULGIN PIHKAL",
+  "title": "Pihkal: A Chemical Love Story",
+  "author": "Alexander Shulgin, Ann Shulgin",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Pihkal: A Chemical Love Story",
+   "author": "Alexander Shulgin",
+   "rating": 4.41,
+   "ratings_count": 3730,
+   "url": "https://www.goodreads.com/book/show/886113.Pihkal"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-02",
+  "compartment": "L1",
+  "poly": [
+   [
+    153,
+    347
+   ],
+   [
+    237,
+    347
+   ],
+   [
+    237,
+    846
+   ],
+   [
+    153,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANN & ALEXANDER SHULGIN TIHKAL THE CONTINUATION TRANSFORM PRESS",
+  "title": "Tihkal: The Continuation",
+  "author": "Alexander Shulgin, Ann Shulgin",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tihkal: The Continuation",
+   "author": "Alexander Shulgin",
+   "rating": 4.42,
+   "ratings_count": 1261,
+   "url": "https://www.goodreads.com/book/show/271921.Tihkal"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-03",
+  "compartment": "L1",
+  "poly": [
+   [
+    237,
+    442
+   ],
+   [
+    292,
+    442
+   ],
+   [
+    292,
+    846
+   ],
+   [
+    237,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "23410 GEORGE ORWELL 1984 ullstein",
+  "title": "1984",
+  "author": "George Orwell",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "1984",
+   "author": "George Orwell",
+   "rating": 4.21,
+   "ratings_count": 5813070,
+   "url": "https://www.goodreads.com/book/show/61439040-1984"
+  },
+  "note": "Ullstein German edition"
+ },
+ {
+  "id": "L1-04",
+  "compartment": "L1",
+  "poly": [
+   [
+    292,
+    428
+   ],
+   [
+    363,
+    428
+   ],
+   [
+    363,
+    846
+   ],
+   [
+    292,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "18423 ALEXANDER SOLSCHENIZYN DER ARCHIPEL GULAG (Fischer)",
+  "title": "Der Archipel GULAG",
+  "author": "Alexander Solschenizyn",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Der Archipel Gulag",
+   "author": "Aleksandr Solzhenitsyn",
+   "rating": 4.33,
+   "ratings_count": 36432,
+   "url": "https://www.goodreads.com/book/show/4543922-der-archipel-gulag"
+  },
+  "note": "Fischer one-volume abridged edition"
+ },
+ {
+  "id": "L1-05",
+  "compartment": "L1",
+  "poly": [
+   [
+    363,
+    396
+   ],
+   [
+    496,
+    396
+   ],
+   [
+    496,
+    846
+   ],
+   [
+    363,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The Count of Monte Cristo Alexandre Dumas (Penguin Clothbound Classics)",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Count of Monte Cristo",
+   "author": "Alexandre Dumas",
+   "rating": 4.34,
+   "ratings_count": 1094155,
+   "url": "https://www.goodreads.com/book/show/197029269-the-count-of-monte-cristo"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-06",
+  "compartment": "L1",
+  "poly": [
+   [
+    496,
+    421
+   ],
+   [
+    552,
+    421
+   ],
+   [
+    552,
+    846
+   ],
+   [
+    496,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Dostojewski Der Spieler",
+  "title": "Der Spieler",
+  "author": "Fjodor M. Dostojewski",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Gambler",
+   "author": "Fyodor Dostoevsky",
+   "rating": 3.91,
+   "ratings_count": 138583,
+   "url": "https://www.goodreads.com/book/show/12857.The_Gambler"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-07",
+  "compartment": "L1",
+  "poly": [
+   [
+    552,
+    477
+   ],
+   [
+    605,
+    477
+   ],
+   [
+    605,
+    846
+   ],
+   [
+    552,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SOMETHING WICKED THIS WAY COMES RAY BRADBURY",
+  "title": "Something Wicked This Way Comes",
+  "author": "Ray Bradbury",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Something Wicked This Way Comes",
+   "author": "Ray Bradbury",
+   "rating": 3.89,
+   "ratings_count": 162660,
+   "url": "https://www.goodreads.com/book/show/248596.Something_Wicked_This_Way_Comes"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-08",
+  "compartment": "L1",
+  "poly": [
+   [
+    605,
+    413
+   ],
+   [
+    631,
+    413
+   ],
+   [
+    631,
+    846
+   ],
+   [
+    605,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "YUKIO MISHIMA THE SAILOR WHO FELL FROM GRACE WITH THE SEA VINTAGE",
+  "title": "The Sailor Who Fell from Grace with the Sea",
+  "author": "Yukio Mishima",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Sailor Who Fell from Grace with the Sea",
+   "author": "Yukio Mishima",
+   "rating": 3.83,
+   "ratings_count": 58061,
+   "url": "https://www.goodreads.com/book/show/162332.The_Sailor_Who_Fell_from_Grace_with_the_Sea"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-09",
+  "compartment": "L1",
+  "poly": [
+   [
+    631,
+    415
+   ],
+   [
+    661,
+    415
+   ],
+   [
+    661,
+    846
+   ],
+   [
+    631,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI SOUTH OF THE BORDER, WEST OF THE SUN VINTAGE",
+  "title": "South of the Border, West of the Sun",
+  "author": "Haruki Murakami",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "South of the Border, West of the Sun",
+   "author": "Haruki Murakami",
+   "rating": 3.85,
+   "ratings_count": 160043,
+   "url": "https://www.goodreads.com/book/show/17799.South_of_the_Border_West_of_the_Sun"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-10",
+  "compartment": "L1",
+  "poly": [
+   [
+    661,
+    414
+   ],
+   [
+    719,
+    414
+   ],
+   [
+    719,
+    846
+   ],
+   [
+    661,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI HARD-BOILED WONDERLAND AND THE END OF THE WORLD VINTAGE",
+  "title": "Hard-Boiled Wonderland and the End of the World",
+  "author": "Haruki Murakami",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Hard-Boiled Wonderland and the End of the World",
+   "author": "Haruki Murakami",
+   "rating": 4.11,
+   "ratings_count": 158933,
+   "url": "https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-11",
+  "compartment": "L1",
+  "poly": [
+   [
+    719,
+    417
+   ],
+   [
+    851,
+    417
+   ],
+   [
+    851,
+    846
+   ],
+   [
+    719,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI 1Q84 THE COMPLETE TRILOGY VINTAGE",
+  "title": "1Q84: The Complete Trilogy",
+  "author": "Haruki Murakami",
+  "series": "1Q84 #1-3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "1Q84 (1Q84, #1-3)",
+   "author": "Haruki Murakami",
+   "rating": 3.95,
+   "ratings_count": 351078,
+   "url": "https://www.goodreads.com/book/show/10357575-1q84"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-12",
+  "compartment": "L1",
+  "poly": [
+   [
+    851,
+    410
+   ],
+   [
+    912,
+    410
+   ],
+   [
+    912,
+    846
+   ],
+   [
+    851,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARUKI MURAKAMI NORWEGIAN WOOD VINTAGE",
+  "title": "Norwegian Wood",
+  "author": "Haruki Murakami",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Norwegian Wood",
+   "author": "Haruki Murakami",
+   "rating": 3.98,
+   "ratings_count": 779476,
+   "url": "https://www.goodreads.com/book/show/11297.Norwegian_Wood"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-13",
+  "compartment": "L1",
+  "poly": [
+   [
+    912,
+    335
+   ],
+   [
+    965,
+    335
+   ],
+   [
+    965,
+    846
+   ],
+   [
+    912,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DAVID EAGLEMAN LIVEWIRED",
+  "title": "Livewired: The Inside Story of the Ever-Changing Brain",
+  "author": "David Eagleman",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Livewired: The Inside Story of the Ever-Changing Brain",
+   "author": "David Eagleman",
+   "rating": 4.16,
+   "ratings_count": 5661,
+   "url": "https://www.goodreads.com/book/show/51778153-livewired"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-14",
+  "compartment": "L1",
+  "poly": [
+   [
+    965,
+    325
+   ],
+   [
+    1051,
+    325
+   ],
+   [
+    1051,
+    846
+   ],
+   [
+    965,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BEYOND ORDER 12 MORE RULES FOR LIFE JORDAN B. PETERSON",
+  "title": "Beyond Order: 12 More Rules for Life",
+  "author": "Jordan B. Peterson",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Beyond Order: 12 More Rules For Life",
+   "author": "Jordan B. Peterson",
+   "rating": 4.13,
+   "ratings_count": 32140,
+   "url": "https://www.goodreads.com/book/show/56019043-beyond-order"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-15",
+  "compartment": "L1",
+  "poly": [
+   [
+    1051,
+    313
+   ],
+   [
+    1149,
+    313
+   ],
+   [
+    1149,
+    846
+   ],
+   [
+    1051,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Michael Pollan How to Change Your Mind Penguin Press",
+  "title": "How to Change Your Mind",
+  "author": "Michael Pollan",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "How to Change Your Mind: The New Science of Psychedelics",
+   "author": "Michael Pollan",
+   "rating": 4.27,
+   "ratings_count": 87897,
+   "url": "https://www.goodreads.com/book/show/36613747-how-to-change-your-mind"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-16",
+  "compartment": "L1",
+  "poly": [
+   [
+    1149,
+    302
+   ],
+   [
+    1238,
+    302
+   ],
+   [
+    1238,
+    846
+   ],
+   [
+    1149,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ANDY WEIR PROJECT HAIL MARY BALLANTINE BOOKS",
+  "title": "Project Hail Mary",
+  "author": "Andy Weir",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Project Hail Mary",
+   "author": "Andy Weir",
+   "rating": 4.51,
+   "ratings_count": 1923722,
+   "url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+  },
+  "note": ""
+ },
+ {
+  "id": "L1-17",
+  "compartment": "L1",
+  "poly": [
+   [
+    1238,
+    296
+   ],
+   [
+    1306,
+    296
+   ],
+   [
+    1306,
+    846
+   ],
+   [
+    1238,
+    846
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ERNEST CLINE READY PLAYER TWO",
+  "title": "Ready Player Two",
+  "author": "Ernest Cline",
+  "series": "Ready Player One #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Ready Player Two (Ready Player One, #2)",
+   "author": "Ernest Cline",
+   "rating": 3.44,
+   "ratings_count": 196788,
+   "url": "https://www.goodreads.com/book/show/26082916-ready-player-two"
+  },
+  "note": ""
+ }
+]

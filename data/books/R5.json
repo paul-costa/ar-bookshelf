@@ -1,0 +1,335 @@
+[
+ {
+  "id": "R5-01",
+  "compartment": "R5",
+  "poly": [
+   [
+    3946,
+    3023
+   ],
+   [
+    4068,
+    3023
+   ],
+   [
+    4068,
+    3478
+   ],
+   [
+    3946,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "CHRONIKEN DER SCHATTENJÄGER CLOCKWORK PRINCESS CASSANDRA CLARE (Arena)",
+  "title": "Clockwork Princess",
+  "author": "Cassandra Clare",
+  "series": "The Infernal Devices #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Clockwork Princess",
+   "author": "Cassandra Clare",
+   "rating": 4.55,
+   "ratings_count": 487968,
+   "url": "https://www.goodreads.com/book/show/18335634-clockwork-princess"
+  },
+  "note": "German hardcover (Arena), series label Chroniken der Schattenjäger; spine only, page-block top above it not included; purple ribbon bookmark hangs at bottom"
+ },
+ {
+  "id": "R5-02",
+  "compartment": "R5",
+  "poly": [
+   [
+    4068,
+    2983
+   ],
+   [
+    4128,
+    2983
+   ],
+   [
+    4128,
+    3467
+   ],
+   [
+    4068,
+    3467
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "AN EDUCATION IN MALICE S.T. GIBSON (Orbit)",
+  "title": "An Education in Malice",
+  "author": "S.T. Gibson",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "An Education in Malice",
+   "author": "S.T. Gibson",
+   "rating": 3.47,
+   "ratings_count": 25873,
+   "url": "https://www.goodreads.com/book/show/64414866-an-education-in-malice"
+  },
+  "note": ""
+ },
+ {
+  "id": "R5-03",
+  "compartment": "R5",
+  "poly": [
+   [
+    4128,
+    2968
+   ],
+   [
+    4227,
+    2968
+   ],
+   [
+    4227,
+    3467
+   ],
+   [
+    4128,
+    3467
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE DEVIL AND THE DARK WATER STUART TURTON",
+  "title": "The Devil and the Dark Water",
+  "author": "Stuart Turton",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Devil and the Dark Water",
+   "author": "Stuart Turton",
+   "rating": 3.83,
+   "ratings_count": 69701,
+   "url": "https://www.goodreads.com/book/show/51854625-the-devil-and-the-dark-water"
+  },
+  "note": ""
+ },
+ {
+  "id": "R5-04",
+  "compartment": "R5",
+  "poly": [
+   [
+    4227,
+    2988
+   ],
+   [
+    4318,
+    2988
+   ],
+   [
+    4318,
+    3467
+   ],
+   [
+    4227,
+    3467
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MAGNUS CHASE AND THE SWORD OF SUMMER RICK RIORDAN (Puffin)",
+  "title": "Magnus Chase and the Gods of Asgard: The Sword of Summer",
+  "author": "Rick Riordan",
+  "series": "Magnus Chase and the Gods of Asgard #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Sword of Summer",
+   "author": "Rick Riordan",
+   "rating": 4.23,
+   "ratings_count": 248619,
+   "url": "https://www.goodreads.com/book/show/15724396-the-sword-of-summer"
+  },
+  "note": ""
+ },
+ {
+  "id": "R5-05",
+  "compartment": "R5",
+  "poly": [
+   [
+    4318,
+    2984
+   ],
+   [
+    4387,
+    2984
+   ],
+   [
+    4387,
+    3463
+   ],
+   [
+    4318,
+    3463
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE TRIALS OF APOLLO THE HIDDEN ORACLE RICK RIORDAN",
+  "title": "The Trials of Apollo: The Hidden Oracle",
+  "author": "Rick Riordan",
+  "series": "The Trials of Apollo #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Hidden Oracle",
+   "author": "Rick Riordan",
+   "rating": 4.12,
+   "ratings_count": 243189,
+   "url": "https://www.goodreads.com/book/show/26252859-the-hidden-oracle"
+  },
+  "note": ""
+ },
+ {
+  "id": "R5-06",
+  "compartment": "R5",
+  "poly": [
+   [
+    4387,
+    2971
+   ],
+   [
+    4451,
+    2971
+   ],
+   [
+    4451,
+    3478
+   ],
+   [
+    4387,
+    3478
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "RULES FOR PERFECT MURDERS PETER SWANSON (ff)",
+  "title": "Rules for Perfect Murders",
+  "author": "Peter Swanson",
+  "series": "Malcolm Kershaw #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Rules for Perfect Murders",
+   "author": "Peter Swanson",
+   "rating": 3.62,
+   "ratings_count": 100579,
+   "url": "https://www.goodreads.com/book/show/49866475-rules-for-perfect-murders"
+  },
+  "note": "also published as Eight Perfect Murders"
+ },
+ {
+  "id": "R5-07",
+  "compartment": "R5",
+  "poly": [
+   [
+    4468,
+    3088
+   ],
+   [
+    4537,
+    3088
+   ],
+   [
+    4537,
+    3489
+   ],
+   [
+    4468,
+    3489
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE TRIBUTE VON PANEM Tödliche Spiele Suzanne Collins (Oetinger, 01.14)",
+  "title": "Die Tribute von Panem: Tödliche Spiele",
+  "author": "Suzanne Collins",
+  "series": "The Hunger Games #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Hunger Games",
+   "author": "Suzanne Collins",
+   "rating": 4.36,
+   "ratings_count": 10339269,
+   "url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  "note": "German paperback; page-block top above spine not included"
+ },
+ {
+  "id": "R5-08",
+  "compartment": "R5",
+  "poly": [
+   [
+    4550,
+    3088
+   ],
+   [
+    4616,
+    3088
+   ],
+   [
+    4616,
+    3493
+   ],
+   [
+    4550,
+    3493
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE TRIBUTE VON PANEM Gefährliche Liebe Suzanne Collins (Oetinger, 01.15)",
+  "title": "Die Tribute von Panem: Gefährliche Liebe",
+  "author": "Suzanne Collins",
+  "series": "The Hunger Games #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Catching Fire",
+   "author": "Suzanne Collins",
+   "rating": 4.37,
+   "ratings_count": 4366199,
+   "url": "https://www.goodreads.com/book/show/6148028-catching-fire"
+  },
+  "note": "German paperback"
+ },
+ {
+  "id": "R5-09",
+  "compartment": "R5",
+  "poly": [
+   [
+    4616,
+    3036
+   ],
+   [
+    4718,
+    3036
+   ],
+   [
+    4718,
+    3498
+   ],
+   [
+    4616,
+    3498
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE TRIBUTE VON PANEM Flammender Zorn Suzanne Collins (Oetinger)",
+  "title": "Die Tribute von Panem: Flammender Zorn",
+  "author": "Suzanne Collins",
+  "series": "The Hunger Games #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Mockingjay",
+   "author": "Suzanne Collins",
+   "rating": 4.13,
+   "ratings_count": 3903118,
+   "url": "https://www.goodreads.com/book/show/7260188-mockingjay"
+  },
+  "note": "German hardcover with dust jacket"
+ }
+]

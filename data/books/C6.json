@@ -1,0 +1,773 @@
+[
+ {
+  "id": "C6-01",
+  "compartment": "C6",
+  "poly": [
+   [
+    2243,
+    3715
+   ],
+   [
+    2351,
+    3715
+   ],
+   [
+    2351,
+    4095
+   ],
+   [
+    2243,
+    4095
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Goblet of Fire J.K. ROWLING",
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+   "author": "J.K. Rowling",
+   "rating": 4.57,
+   "ratings_count": 4382007,
+   "url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+  },
+  "note": "Bloomsbury children's paperback (2014 Jonny Duddle edition)"
+ },
+ {
+  "id": "C6-02",
+  "compartment": "C6",
+  "poly": [
+   [
+    2351,
+    3716
+   ],
+   [
+    2383,
+    3716
+   ],
+   [
+    2383,
+    4095
+   ],
+   [
+    2351,
+    4095
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter À L'ÉCOLE DES SORCIERS J.K. Rowling",
+  "title": "Harry Potter à l'école des sorciers",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #1",
+  "language": "fr",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+   "author": "J.K. Rowling",
+   "rating": 4.47,
+   "ratings_count": 11891541,
+   "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+  },
+  "note": "Folio Junior (Gallimard)"
+ },
+ {
+  "id": "C6-03",
+  "compartment": "C6",
+  "poly": [
+   [
+    2383,
+    3713
+   ],
+   [
+    2432,
+    3713
+   ],
+   [
+    2432,
+    4091
+   ],
+   [
+    2383,
+    4091
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Philosopher's Stone J.K. ROWLING",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+   "author": "J.K. Rowling",
+   "rating": 4.47,
+   "ratings_count": 11891541,
+   "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-04",
+  "compartment": "C6",
+  "poly": [
+   [
+    2432,
+    3713
+   ],
+   [
+    2485,
+    3713
+   ],
+   [
+    2485,
+    4091
+   ],
+   [
+    2432,
+    4091
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Chamber of Secrets J.K. ROWLING",
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+   "author": "J.K. Rowling",
+   "rating": 4.43,
+   "ratings_count": 4701815,
+   "url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-05",
+  "compartment": "C6",
+  "poly": [
+   [
+    2485,
+    3713
+   ],
+   [
+    2585,
+    3713
+   ],
+   [
+    2585,
+    4089
+   ],
+   [
+    2485,
+    4089
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Half-Blood Prince J.K. ROWLING",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #6",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+   "author": "J.K. Rowling",
+   "rating": 4.58,
+   "ratings_count": 3802013,
+   "url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-06",
+  "compartment": "C6",
+  "poly": [
+   [
+    2585,
+    3716
+   ],
+   [
+    2721,
+    3716
+   ],
+   [
+    2721,
+    4092
+   ],
+   [
+    2585,
+    4092
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Order of the Phoenix J.K. ROWLING",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #5",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+   "author": "J.K. Rowling",
+   "rating": 4.5,
+   "ratings_count": 3954340,
+   "url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-07",
+  "compartment": "C6",
+  "poly": [
+   [
+    2721,
+    3721
+   ],
+   [
+    2792,
+    3721
+   ],
+   [
+    2792,
+    4092
+   ],
+   [
+    2721,
+    4092
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Prisoner of Azkaban J.K. ROWLING",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+   "author": "J.K. Rowling",
+   "rating": 4.58,
+   "ratings_count": 5083357,
+   "url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-08",
+  "compartment": "C6",
+  "poly": [
+   [
+    2792,
+    3719
+   ],
+   [
+    2900,
+    3719
+   ],
+   [
+    2900,
+    4098
+   ],
+   [
+    2792,
+    4098
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter and the Deathly Hallows J.K. ROWLING",
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #7",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+   "author": "J.K. Rowling",
+   "rating": 4.62,
+   "ratings_count": 4259359,
+   "url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-09",
+  "compartment": "C6",
+  "poly": [
+   [
+    2900,
+    3693
+   ],
+   [
+    2964,
+    3693
+   ],
+   [
+    2964,
+    4097
+   ],
+   [
+    2900,
+    4097
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "1 Harry Potter und der Stein der Weisen Joanne K. Rowling CARLSEN",
+  "title": "Harry Potter und der Stein der Weisen",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+   "author": "J.K. Rowling",
+   "rating": 4.47,
+   "ratings_count": 11891541,
+   "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+  },
+  "note": "Carlsen paperback"
+ },
+ {
+  "id": "C6-10",
+  "compartment": "C6",
+  "poly": [
+   [
+    2964,
+    3693
+   ],
+   [
+    3033,
+    3693
+   ],
+   [
+    3033,
+    4092
+   ],
+   [
+    2964,
+    4092
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "2 Harry Potter und die Kammer des Schreckens Joanne K. Rowling CARLSEN",
+  "title": "Harry Potter und die Kammer des Schreckens",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+   "author": "J.K. Rowling",
+   "rating": 4.43,
+   "ratings_count": 4701815,
+   "url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  "note": "Carlsen paperback"
+ },
+ {
+  "id": "C6-11",
+  "compartment": "C6",
+  "poly": [
+   [
+    3033,
+    3600
+   ],
+   [
+    3123,
+    3600
+   ],
+   [
+    3123,
+    4083
+   ],
+   [
+    3033,
+    4083
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter und der Gefangene von Askaban JOANNE K. ROWLING CARLSEN",
+  "title": "Harry Potter und der Gefangene von Askaban",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+   "author": "J.K. Rowling",
+   "rating": 4.58,
+   "ratings_count": 5083357,
+   "url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  "note": "Carlsen hardcover"
+ },
+ {
+  "id": "C6-12",
+  "compartment": "C6",
+  "poly": [
+   [
+    3123,
+    3600
+   ],
+   [
+    3225,
+    3600
+   ],
+   [
+    3225,
+    4093
+   ],
+   [
+    3123,
+    4093
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter und der Feuerkelch JOANNE K. ROWLING",
+  "title": "Harry Potter und der Feuerkelch",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #4",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+   "author": "J.K. Rowling",
+   "rating": 4.57,
+   "ratings_count": 4382007,
+   "url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+  },
+  "note": "Carlsen hardcover"
+ },
+ {
+  "id": "C6-13",
+  "compartment": "C6",
+  "poly": [
+   [
+    3225,
+    3690
+   ],
+   [
+    3341,
+    3690
+   ],
+   [
+    3341,
+    4097
+   ],
+   [
+    3225,
+    4097
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "5 Harry Potter und der Orden des Phönix Joanne K. Rowling CARLSEN",
+  "title": "Harry Potter und der Orden des Phönix",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #5",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+   "author": "J.K. Rowling",
+   "rating": 4.5,
+   "ratings_count": 3954340,
+   "url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+  },
+  "note": "Carlsen paperback"
+ },
+ {
+  "id": "C6-14",
+  "compartment": "C6",
+  "poly": [
+   [
+    3341,
+    3700
+   ],
+   [
+    3427,
+    3700
+   ],
+   [
+    3427,
+    4097
+   ],
+   [
+    3341,
+    4097
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter und der Halbblutprinz Joanne K. Rowling CARLSEN",
+  "title": "Harry Potter und der Halbblutprinz",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #6",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+   "author": "J.K. Rowling",
+   "rating": 4.58,
+   "ratings_count": 3802013,
+   "url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+  },
+  "note": "Carlsen paperback"
+ },
+ {
+  "id": "C6-15",
+  "compartment": "C6",
+  "poly": [
+   [
+    3427,
+    3690
+   ],
+   [
+    3527,
+    3690
+   ],
+   [
+    3527,
+    4097
+   ],
+   [
+    3427,
+    4097
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Harry Potter und die Heiligtümer des Todes Joanne K. Rowling CARLSEN",
+  "title": "Harry Potter und die Heiligtümer des Todes",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #7",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+   "author": "J.K. Rowling",
+   "rating": 4.62,
+   "ratings_count": 4259359,
+   "url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+  },
+  "note": "Carlsen paperback"
+ },
+ {
+  "id": "C6-16",
+  "compartment": "C6",
+  "poly": [
+   [
+    3527,
+    3660
+   ],
+   [
+    3587,
+    3660
+   ],
+   [
+    3587,
+    4090
+   ],
+   [
+    3527,
+    4090
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARRY POTTER and the Philosopher's Stone J.K. ROWLING",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+   "author": "J.K. Rowling",
+   "rating": 4.47,
+   "ratings_count": 11891541,
+   "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+  },
+  "note": "black Bloomsbury paperback with teal lettering"
+ },
+ {
+  "id": "C6-17",
+  "compartment": "C6",
+  "poly": [
+   [
+    3587,
+    3670
+   ],
+   [
+    3638,
+    3670
+   ],
+   [
+    3638,
+    4092
+   ],
+   [
+    3587,
+    4092
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "HARRY POTTER and the Chamber of Secrets J.K. ROWLING",
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+  "series": "Harry Potter #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+   "author": "J.K. Rowling",
+   "rating": 4.43,
+   "ratings_count": 4701815,
+   "url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  "note": "black Bloomsbury paperback with gold lettering"
+ },
+ {
+  "id": "C6-18",
+  "compartment": "C6",
+  "poly": [
+   [
+    3638,
+    3643
+   ],
+   [
+    3667,
+    3643
+   ],
+   [
+    3667,
+    4090
+   ],
+   [
+    3638,
+    4090
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "(no text visible; plain orange spine, white strip at bottom)",
+  "title": "Unknown",
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "thin orange book, possibly turned spine-in"
+ },
+ {
+  "id": "C6-19",
+  "compartment": "C6",
+  "poly": [
+   [
+    3667,
+    3647
+   ],
+   [
+    3727,
+    3647
+   ],
+   [
+    3727,
+    4090
+   ],
+   [
+    3667,
+    4090
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "WEYWARD EMILIA HART",
+  "title": "Weyward",
+  "author": "Emilia Hart",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Weyward",
+   "author": "Emilia Hart",
+   "rating": 4.05,
+   "ratings_count": 472279,
+   "url": "https://www.goodreads.com/book/show/127280850-weyward"
+  },
+  "note": ""
+ },
+ {
+  "id": "C6-20",
+  "compartment": "C6",
+  "poly": [
+   [
+    3727,
+    3673
+   ],
+   [
+    3777,
+    3673
+   ],
+   [
+    3777,
+    4090
+   ],
+   [
+    3727,
+    4090
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "EIGHT DETECTIVES ALEX PAVESI",
+  "title": "Eight Detectives",
+  "author": "Alex Pavesi",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Eighth Detective",
+   "author": "Alex Pavesi",
+   "rating": 3.5,
+   "ratings_count": 21036,
+   "url": "https://www.goodreads.com/book/show/53139064-the-eighth-detective"
+  },
+  "note": "UK title of The Eighth Detective"
+ },
+ {
+  "id": "C6-21",
+  "compartment": "C6",
+  "poly": [
+   [
+    3777,
+    3560
+   ],
+   [
+    3840,
+    3560
+   ],
+   [
+    3840,
+    4093
+   ],
+   [
+    3777,
+    4093
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PARTS ONE AND TWO HARRY POTTER AND THE CURSED CHILD J.K. ROWLING JOHN TIFFANY JACK THORNE",
+  "title": "Harry Potter and the Cursed Child: Parts One and Two",
+  "author": "J.K. Rowling, John Tiffany, Jack Thorne",
+  "series": "Harry Potter #8",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)",
+   "author": "John Tiffany",
+   "rating": 3.47,
+   "ratings_count": 1177380,
+   "url": "https://www.goodreads.com/book/show/29056083-harry-potter-and-the-cursed-child"
+  },
+  "note": ""
+ }
+]

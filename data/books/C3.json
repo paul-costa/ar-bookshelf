@@ -1,0 +1,890 @@
+[
+ {
+  "id": "C3-01",
+  "compartment": "C3",
+  "poly": [
+   [
+    2229,
+    1588
+   ],
+   [
+    2304,
+    1588
+   ],
+   [
+    2304,
+    2025
+   ],
+   [
+    2229,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "RAINBOW ROWELL Fangirl",
+  "title": "Fangirl",
+  "author": "Rainbow Rowell",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Fangirl",
+   "author": "Rainbow Rowell",
+   "rating": 3.93,
+   "ratings_count": 792927,
+   "url": "https://www.goodreads.com/book/show/16068905-fangirl"
+  },
+  "note": "partly hidden behind decorative '&'"
+ },
+ {
+  "id": "C3-02",
+  "compartment": "C3",
+  "poly": [
+   [
+    2304,
+    1586
+   ],
+   [
+    2358,
+    1586
+   ],
+   [
+    2358,
+    2025
+   ],
+   [
+    2304,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KING OF W... ANA HUANG",
+  "title": "King of Wrath",
+  "author": "Ana Huang",
+  "series": "Kings of Sin #1",
+  "language": "en",
+  "confidence": "medium",
+  "goodreads": {
+   "title": "King of Wrath (Kings of Sin, #1)",
+   "author": "Ana Huang",
+   "rating": 4.03,
+   "ratings_count": 705451,
+   "url": "https://www.goodreads.com/book/show/217206738-king-of-wrath"
+  },
+  "note": "partly hidden behind decorative '&'; title partly read, inferred from series order"
+ },
+ {
+  "id": "C3-03",
+  "compartment": "C3",
+  "poly": [
+   [
+    2358,
+    1588
+   ],
+   [
+    2410,
+    1588
+   ],
+   [
+    2410,
+    2025
+   ],
+   [
+    2358,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KING OF PRIDE ANA HUANG",
+  "title": "King of Pride",
+  "author": "Ana Huang",
+  "series": "Kings of Sin #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "King of Pride (Kings of Sin, #2)",
+   "author": "Ana Huang",
+   "rating": 3.9,
+   "ratings_count": 402070,
+   "url": "https://www.goodreads.com/book/show/62994279-king-of-pride"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-04",
+  "compartment": "C3",
+  "poly": [
+   [
+    2410,
+    1593
+   ],
+   [
+    2461,
+    1593
+   ],
+   [
+    2461,
+    2025
+   ],
+   [
+    2410,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KING of GREED ANA HUANG",
+  "title": "King of Greed",
+  "author": "Ana Huang",
+  "series": "Kings of Sin #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "King of Greed (Kings of Sin, #3)",
+   "author": "Ana Huang",
+   "rating": 3.92,
+   "ratings_count": 348359,
+   "url": "https://www.goodreads.com/book/show/124943221-king-of-greed"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-05",
+  "compartment": "C3",
+  "poly": [
+   [
+    2461,
+    1598
+   ],
+   [
+    2523,
+    1598
+   ],
+   [
+    2523,
+    2025
+   ],
+   [
+    2461,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KING OF SLOTH ANA HUANG",
+  "title": "King of Sloth",
+  "author": "Ana Huang",
+  "series": "Kings of Sin #4",
+  "language": "en",
+  "confidence": "medium",
+  "goodreads": {
+   "title": "King of Sloth (Kings of Sin, #4)",
+   "author": "Ana Huang",
+   "rating": 3.97,
+   "ratings_count": 261169,
+   "url": "https://www.goodreads.com/book/show/75491526-king-of-sloth"
+  },
+  "note": "spine text faint; series order"
+ },
+ {
+  "id": "C3-06",
+  "compartment": "C3",
+  "poly": [
+   [
+    2523,
+    1600
+   ],
+   [
+    2607,
+    1600
+   ],
+   [
+    2607,
+    2027
+   ],
+   [
+    2523,
+    2027
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE STRIKER ANA HUANG",
+  "title": "The Striker",
+  "author": "Ana Huang",
+  "series": "Gods of the Game #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Striker (Gods of the Game, #1)",
+   "author": "Ana Huang",
+   "rating": 3.74,
+   "ratings_count": 153708,
+   "url": "https://www.goodreads.com/book/show/204538483-the-striker"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-07",
+  "compartment": "C3",
+  "poly": [
+   [
+    2607,
+    1600
+   ],
+   [
+    2677,
+    1600
+   ],
+   [
+    2677,
+    2027
+   ],
+   [
+    2607,
+    2027
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE DEFENDER ANA HUANG",
+  "title": "The Defender",
+  "author": "Ana Huang",
+  "series": "Gods of the Game #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Defender (Gods of the Game, #2)",
+   "author": "Ana Huang",
+   "rating": 3.9,
+   "ratings_count": 60503,
+   "url": "https://www.goodreads.com/book/show/220237323-the-defender"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-08",
+  "compartment": "C3",
+  "poly": [
+   [
+    2677,
+    1598
+   ],
+   [
+    2725,
+    1598
+   ],
+   [
+    2725,
+    2022
+   ],
+   [
+    2677,
+    2022
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEIGH BARDUGO Shadow and Bone",
+  "title": "Shadow and Bone",
+  "author": "Leigh Bardugo",
+  "series": "Shadow and Bone #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Shadow and Bone (Shadow and Bone, #1)",
+   "author": "Leigh Bardugo",
+   "rating": 3.91,
+   "ratings_count": 1159899,
+   "url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-09",
+  "compartment": "C3",
+  "poly": [
+   [
+    2725,
+    1598
+   ],
+   [
+    2783,
+    1598
+   ],
+   [
+    2783,
+    2022
+   ],
+   [
+    2725,
+    2022
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEIGH BARDUGO Siege and Storm",
+  "title": "Siege and Storm",
+  "author": "Leigh Bardugo",
+  "series": "Shadow and Bone #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+   "author": "Leigh Bardugo",
+   "rating": 3.8,
+   "ratings_count": 705056,
+   "url": "https://www.goodreads.com/book/show/14061955-siege-and-storm"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-10",
+  "compartment": "C3",
+  "poly": [
+   [
+    2783,
+    1573
+   ],
+   [
+    2858,
+    1573
+   ],
+   [
+    2858,
+    2022
+   ],
+   [
+    2783,
+    2022
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "BARDUGO Ruin and Rising",
+  "title": "Ruin and Rising",
+  "author": "Leigh Bardugo",
+  "series": "Shadow and Bone #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Ruin and Rising (Shadow and Bone, #3)",
+   "author": "Leigh Bardugo",
+   "rating": 3.97,
+   "ratings_count": 610234,
+   "url": "https://www.goodreads.com/book/show/14061957-ruin-and-rising"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-11",
+  "compartment": "C3",
+  "poly": [
+   [
+    2858,
+    1598
+   ],
+   [
+    2922,
+    1598
+   ],
+   [
+    2922,
+    2024
+   ],
+   [
+    2858,
+    2024
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Honeybees and Distant Thunder Riku Onda",
+  "title": "Honeybees and Distant Thunder",
+  "author": "Riku Onda",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Honeybees and Distant Thunder",
+   "author": "Riku Onda",
+   "rating": 3.91,
+   "ratings_count": 4018,
+   "url": "https://www.goodreads.com/book/show/62919004-honeybees-and-distant-thunder"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-12",
+  "compartment": "C3",
+  "poly": [
+   [
+    2922,
+    1580
+   ],
+   [
+    2974,
+    1580
+   ],
+   [
+    2974,
+    2025
+   ],
+   [
+    2922,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "V.E. SCHWAB GALLANT",
+  "title": "Gallant",
+  "author": "V.E. Schwab",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Gallant",
+   "author": "V.E. Schwab",
+   "rating": 3.7,
+   "ratings_count": 156696,
+   "url": "https://www.goodreads.com/book/show/58064046-gallant"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-13",
+  "compartment": "C3",
+  "poly": [
+   [
+    2974,
+    1535
+   ],
+   [
+    3039,
+    1535
+   ],
+   [
+    3039,
+    2025
+   ],
+   [
+    2974,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KERRI MANISCALCO Stalking JACK THE RIPPER",
+  "title": "Stalking Jack the Ripper",
+  "author": "Kerri Maniscalco",
+  "series": "Stalking Jack the Ripper #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Stalking Jack the Ripper (Stalking Jack the Ripper, #1)",
+   "author": "Kerri Maniscalco",
+   "rating": 3.92,
+   "ratings_count": 188281,
+   "url": "https://www.goodreads.com/book/show/40727470-stalking-jack-the-ripper"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-14",
+  "compartment": "C3",
+  "poly": [
+   [
+    3039,
+    1532
+   ],
+   [
+    3098,
+    1532
+   ],
+   [
+    3098,
+    2025
+   ],
+   [
+    3039,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KERRI MANISCALCO Hunting PRINCE DRACULA",
+  "title": "Hunting Prince Dracula",
+  "author": "Kerri Maniscalco",
+  "series": "Stalking Jack the Ripper #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Hunting Prince Dracula (Stalking Jack the Ripper, #2)",
+   "author": "Kerri Maniscalco",
+   "rating": 4.18,
+   "ratings_count": 89839,
+   "url": "https://www.goodreads.com/book/show/33784373-hunting-prince-dracula"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-15",
+  "compartment": "C3",
+  "poly": [
+   [
+    3098,
+    1532
+   ],
+   [
+    3167,
+    1532
+   ],
+   [
+    3167,
+    2025
+   ],
+   [
+    3098,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KERRI MANISCALCO Escaping FROM HOUDINI",
+  "title": "Escaping from Houdini",
+  "author": "Kerri Maniscalco",
+  "series": "Stalking Jack the Ripper #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Escaping from Houdini (Stalking Jack the Ripper, #3)",
+   "author": "Kerri Maniscalco",
+   "rating": 3.92,
+   "ratings_count": 62043,
+   "url": "https://www.goodreads.com/book/show/30375937-escaping-from-houdini"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-16",
+  "compartment": "C3",
+  "poly": [
+   [
+    3167,
+    1535
+   ],
+   [
+    3233,
+    1535
+   ],
+   [
+    3233,
+    2025
+   ],
+   [
+    3167,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KERRI MANISCALCO Capturing THE DEVIL",
+  "title": "Capturing the Devil",
+  "author": "Kerri Maniscalco",
+  "series": "Stalking Jack the Ripper #4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Capturing the Devil (Stalking Jack the Ripper, #4)",
+   "author": "Kerri Maniscalco",
+   "rating": 4.17,
+   "ratings_count": 49221,
+   "url": "https://www.goodreads.com/book/show/37539001-capturing-the-devil"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-17",
+  "compartment": "C3",
+  "poly": [
+   [
+    3233,
+    1505
+   ],
+   [
+    3303,
+    1505
+   ],
+   [
+    3303,
+    2025
+   ],
+   [
+    3233,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LEIGH BARDUGO The Familiar",
+  "title": "The Familiar",
+  "author": "Leigh Bardugo",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Familiar",
+   "author": "Leigh Bardugo",
+   "rating": 3.74,
+   "ratings_count": 153169,
+   "url": "https://www.goodreads.com/book/show/133286777-the-familiar"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-18",
+  "compartment": "C3",
+  "poly": [
+   [
+    3303,
+    1502
+   ],
+   [
+    3374,
+    1502
+   ],
+   [
+    3374,
+    2025
+   ],
+   [
+    3303,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KINGDOM of THE CURSED KERRI MANISCALCO",
+  "title": "Kingdom of the Cursed",
+  "author": "Kerri Maniscalco",
+  "series": "Kingdom of the Wicked #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kingdom of the Cursed (Kingdom of the Wicked, #2)",
+   "author": "Kerri Maniscalco",
+   "rating": 4.08,
+   "ratings_count": 230333,
+   "url": "https://www.goodreads.com/book/show/52772417-kingdom-of-the-cursed"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-19",
+  "compartment": "C3",
+  "poly": [
+   [
+    3374,
+    1505
+   ],
+   [
+    3446,
+    1505
+   ],
+   [
+    3446,
+    2025
+   ],
+   [
+    3374,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KINGDOM of THE WICKED KERRI MANISCALCO",
+  "title": "Kingdom of the Wicked",
+  "author": "Kerri Maniscalco",
+  "series": "Kingdom of the Wicked #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kingdom of the Wicked (Kingdom of the Wicked, #1)",
+   "author": "Kerri Maniscalco",
+   "rating": 3.86,
+   "ratings_count": 374907,
+   "url": "https://www.goodreads.com/book/show/52735921-kingdom-of-the-wicked"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-20",
+  "compartment": "C3",
+  "poly": [
+   [
+    3446,
+    1520
+   ],
+   [
+    3527,
+    1520
+   ],
+   [
+    3527,
+    2025
+   ],
+   [
+    3446,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "KINGDOM of THE FEARED KERRI MANISCALCO",
+  "title": "Kingdom of the Feared",
+  "author": "Kerri Maniscalco",
+  "series": "Kingdom of the Wicked #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Kingdom of the Feared (Kingdom of the Wicked, #3)",
+   "author": "Kerri Maniscalco",
+   "rating": 3.85,
+   "ratings_count": 163556,
+   "url": "https://www.goodreads.com/book/show/58470171-kingdom-of-the-feared"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-21",
+  "compartment": "C3",
+  "poly": [
+   [
+    3527,
+    1525
+   ],
+   [
+    3626,
+    1525
+   ],
+   [
+    3626,
+    2025
+   ],
+   [
+    3527,
+    2025
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THRONE OF THE FALLEN KERRI MANISCALCO",
+  "title": "Throne of the Fallen",
+  "author": "Kerri Maniscalco",
+  "series": "Prince of Sin #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Throne of the Fallen (Prince of Sin, #1)",
+   "author": "Kerri Maniscalco",
+   "rating": 3.95,
+   "ratings_count": 123943,
+   "url": "https://www.goodreads.com/book/show/73071451-throne-of-the-fallen"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-22",
+  "compartment": "C3",
+  "poly": [
+   [
+    3626,
+    1527
+   ],
+   [
+    3720,
+    1527
+   ],
+   [
+    3720,
+    2027
+   ],
+   [
+    3626,
+    2027
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "V.E. SCHWAB THE INVISIBLE LIFE OF ADDIE LARUE",
+  "title": "The Invisible Life of Addie LaRue",
+  "author": "V.E. Schwab",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Invisible Life of Addie LaRue",
+   "author": "V.E. Schwab",
+   "rating": 4.15,
+   "ratings_count": 1646109,
+   "url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-23",
+  "compartment": "C3",
+  "poly": [
+   [
+    3720,
+    1527
+   ],
+   [
+    3791,
+    1527
+   ],
+   [
+    3791,
+    2027
+   ],
+   [
+    3720,
+    2027
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "THE STARLESS SEA ERIN MORGENSTERN",
+  "title": "The Starless Sea",
+  "author": "Erin Morgenstern",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Starless Sea",
+   "author": "Erin Morgenstern",
+   "rating": 3.83,
+   "ratings_count": 244406,
+   "url": "https://www.goodreads.com/book/show/43575115-the-starless-sea"
+  },
+  "note": ""
+ },
+ {
+  "id": "C3-24",
+  "compartment": "C3",
+  "poly": [
+   [
+    3791,
+    1527
+   ],
+   [
+    3858,
+    1527
+   ],
+   [
+    3858,
+    2037
+   ],
+   [
+    3791,
+    2037
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Blue Sisters COCO MELLORS",
+  "title": "Blue Sisters",
+  "author": "Coco Mellors",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Blue Sisters",
+   "author": "Coco Mellors",
+   "rating": 3.89,
+   "ratings_count": 363327,
+   "url": "https://www.goodreads.com/book/show/195430687-blue-sisters"
+  },
+  "note": ""
+ }
+]

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AR Bookshelf</title>
+<meta name="description" content="Interaktives Bücherregal: über ein Buch fahren und Titel, Autor, Cover und Goodreads-Rating sehen.">
+<meta property="og:title" content="AR Bookshelf">
+<meta property="og:description" content="Interaktives Bücherregal mit AR-Overlay.">
+<meta property="og:image" content="img/og.jpg">
+<meta name="theme-color" content="#05080d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2305080d'/%3E%3Cpath d='M8 7v18M13 9v16M18 6v19l6-2-4-16' stroke='%2346f0e1' stroke-width='2.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<main id="stage" aria-label="Bücherregal">
+  <div id="world">
+    <img id="shelf" src="img/shelf-2400.webp" width="4785" height="4300" alt="Panorama des Bücherregals" draggable="false">
+    <svg id="overlay" viewBox="0 0 4785 4300" width="4785" height="4300" aria-hidden="true">
+      <defs>
+        <clipPath id="clipActive"><polygon id="clipPoly" points=""/></clipPath>
+        <filter id="lift" x="-50%" y="-50%" width="200%" height="200%">
+          <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#46f0e1" flood-opacity=".55"/>
+        </filter>
+        <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#46f0e1" stop-opacity="0"/>
+          <stop offset=".85" stop-color="#46f0e1" stop-opacity=".35"/>
+          <stop offset="1" stop-color="#bffcf6" stop-opacity=".9"/>
+        </linearGradient>
+      </defs>
+      <path id="dim" fill-rule="evenodd" d=""/>
+      <g id="matches"></g>
+      <g id="hits"></g>
+      <g id="focus">
+        <g id="lifted" filter="url(#lift)">
+          <image id="liftImg" href="img/shelf-2400.webp" x="0" y="0" width="4785" height="4300" clip-path="url(#clipActive)" preserveAspectRatio="none"/>
+        </g>
+        <g id="liftedFx">
+          <g clip-path="url(#clipActive)"><rect id="scan" x="0" y="0" width="0" height="0" fill="url(#scanGrad)"/></g>
+          <polygon id="outline" points="" vector-effect="non-scaling-stroke"/>
+          <path id="brackets" d="" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g id="sweep"><rect id="sweepBar" x="0" y="-200" width="4785" height="200"/></g>
+    </svg>
+  </div>
+
+  <svg id="leader" aria-hidden="true">
+    <circle id="anchorRing" r="10"/>
+    <circle id="anchorDot" r="3.5"/>
+    <polyline id="leaderLine" points=""/>
+  </svg>
+
+  <aside id="card" role="dialog" aria-live="polite" hidden>
+    <div class="card-inner">
+      <div class="card-head"><span class="tag" id="cTag">ID</span><span class="tag dim" id="cConf"></span><button class="close" id="cClose" aria-label="Schließen">✕</button></div>
+      <div class="card-body">
+        <div class="cover" id="cCoverWrap"><img id="cCover" alt=""><div class="cover-fallback" id="cCoverFb">KEIN<br>COVER</div></div>
+        <div class="meta">
+          <h2 id="cTitle"></h2>
+          <p class="author" id="cAuthor"></p>
+          <p class="series" id="cSeries"></p>
+          <div class="rating" id="cRating">
+            <span class="stars"><span class="stars-bg">★★★★★</span><span class="stars-fg" id="cStars">★★★★★</span></span>
+            <span class="num" id="cRatingNum"></span>
+          </div>
+          <p class="count" id="cCount"></p>
+        </div>
+      </div>
+      <div class="links">
+        <a id="cGr" target="_blank" rel="noopener">Goodreads <span>↗</span></a>
+        <a id="cAmz" target="_blank" rel="noopener">Amazon <span>↗</span></a>
+      </div>
+    </div>
+  </aside>
+</main>
+
+<header class="hud hud-top">
+  <div class="brand"><span class="blip"></span>AR&nbsp;BOOKSHELF<span class="sub" id="stat">scanning…</span></div>
+  <div class="search">
+    <input id="q" type="search" placeholder="Titel oder Autor suchen…" autocomplete="off" spellcheck="false" aria-label="Buch suchen">
+    <ul id="results" hidden></ul>
+  </div>
+</header>
+
+<div class="hud hud-bottom">
+  <div class="readout" id="readout">X 0000 · Y 0000</div>
+  <div class="hint" id="hint">Über ein Buch fahren · Klick fixiert · Scrollen/Pinch zoomt · Ziehen verschiebt</div>
+  <div class="zoom">
+    <button id="zIn" aria-label="Hineinzoomen">+</button>
+    <button id="zOut" aria-label="Herauszoomen">−</button>
+    <button id="zFit" aria-label="Ganzes Regal">⤢</button>
+  </div>
+</div>
+
+<div id="minimap" aria-hidden="true"><img src="img/og.jpg" alt=""><div id="mmView"></div></div>
+
+<script src="books.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

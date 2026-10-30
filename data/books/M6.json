@@ -1,0 +1,261 @@
+[
+ {
+  "id": "M6-01",
+  "compartment": "M6",
+  "poly": [
+   [
+    1382,
+    3572
+   ],
+   [
+    1446,
+    3572
+   ],
+   [
+    1440,
+    4068
+   ],
+   [
+    1376,
+    4068
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "MIDNIGHT AT THE BRIGHT IDEAS BOOKSTORE MATTHEW SULLIVAN",
+  "title": "Midnight at the Bright Ideas Bookstore",
+  "author": "Matthew Sullivan",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Midnight at the Bright Ideas Bookstore",
+   "author": "Matthew J. Sullivan",
+   "rating": 3.8,
+   "ratings_count": 41413,
+   "url": "https://www.goodreads.com/book/show/32620349-midnight-at-the-bright-ideas-bookstore"
+  },
+  "note": "Standing slightly tilted at the far left of an otherwise empty space; outline is the spine only (a cream page-top / bookmark area at 1382-1487 x 3470-3572 sits above it)"
+ },
+ {
+  "id": "M6-02",
+  "compartment": "M6",
+  "poly": [
+   [
+    1696,
+    3469
+   ],
+   [
+    2136,
+    3469
+   ],
+   [
+    2136,
+    3626
+   ],
+   [
+    1696,
+    3626
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Heavenly Fire CASSANDRA CLARE",
+  "title": "City of Heavenly Fire",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #6",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Heavenly Fire",
+   "author": "Cassandra Clare",
+   "rating": 4.38,
+   "ratings_count": 425723,
+   "url": "https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire"
+  },
+  "note": "Top of stack (incl. visible top of cover); German edition (Chroniken der Unterwelt)"
+ },
+ {
+  "id": "M6-03",
+  "compartment": "M6",
+  "poly": [
+   [
+    1692,
+    3626
+   ],
+   [
+    2140,
+    3626
+   ],
+   [
+    2140,
+    3721
+   ],
+   [
+    1692,
+    3721
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Fallen Angels CASSANDRA CLARE",
+  "title": "City of Fallen Angels",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #4",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Fallen Angels",
+   "author": "Cassandra Clare",
+   "rating": 4.07,
+   "ratings_count": 652997,
+   "url": "https://www.goodreads.com/book/show/6752378-city-of-fallen-angels"
+  },
+  "note": "Lying in stack; German edition (Chroniken der Unterwelt)"
+ },
+ {
+  "id": "M6-04",
+  "compartment": "M6",
+  "poly": [
+   [
+    1692,
+    3721
+   ],
+   [
+    2140,
+    3721
+   ],
+   [
+    2140,
+    3840
+   ],
+   [
+    1692,
+    3840
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Lost Souls CASSANDRA CLARE",
+  "title": "City of Lost Souls",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #5",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Lost Souls",
+   "author": "Cassandra Clare",
+   "rating": 4.2,
+   "ratings_count": 578043,
+   "url": "https://www.goodreads.com/book/show/8755776-city-of-lost-souls"
+  },
+  "note": "Lying in stack; German edition (Chroniken der Unterwelt)"
+ },
+ {
+  "id": "M6-05",
+  "compartment": "M6",
+  "poly": [
+   [
+    1692,
+    3840
+   ],
+   [
+    2140,
+    3840
+   ],
+   [
+    2140,
+    3952
+   ],
+   [
+    1692,
+    3952
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Glass CASSANDRA CLARE",
+  "title": "City of Glass",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Glass",
+   "author": "Cassandra Clare",
+   "rating": 4.27,
+   "ratings_count": 1031910,
+   "url": "https://www.goodreads.com/book/show/3777732-city-of-glass"
+  },
+  "note": "Lying in stack; German edition (Chroniken der Unterwelt)"
+ },
+ {
+  "id": "M6-06",
+  "compartment": "M6",
+  "poly": [
+   [
+    1692,
+    3952
+   ],
+   [
+    2140,
+    3952
+   ],
+   [
+    2140,
+    4028
+   ],
+   [
+    1692,
+    4028
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Ashes CASSANDRA CLARE",
+  "title": "City of Ashes",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Ashes",
+   "author": "Cassandra Clare",
+   "rating": 4.1,
+   "ratings_count": 1014381,
+   "url": "https://www.goodreads.com/book/show/1582996.City_of_Ashes"
+  },
+  "note": "Lying in stack; German edition (Chroniken der Unterwelt)"
+ },
+ {
+  "id": "M6-07",
+  "compartment": "M6",
+  "poly": [
+   [
+    1692,
+    4028
+   ],
+   [
+    2140,
+    4028
+   ],
+   [
+    2140,
+    4106
+   ],
+   [
+    1692,
+    4106
+   ]
+  ],
+  "orientation": "horizontal",
+  "spine_text": "CHRONIKEN DER UNTERWELT City of Bones CASSANDRA CLARE",
+  "title": "City of Bones",
+  "author": "Cassandra Clare",
+  "series": "The Mortal Instruments #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "City of Bones",
+   "author": "Cassandra Clare",
+   "rating": 4.06,
+   "ratings_count": 2222575,
+   "url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+  },
+  "note": "Bottom of stack; German edition (Chroniken der Unterwelt)"
+ }
+]

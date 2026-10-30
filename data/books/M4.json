@@ -1,0 +1,551 @@
+[
+ {
+  "id": "M4-01",
+  "compartment": "M4",
+  "poly": [
+   [
+    1368,
+    2203
+   ],
+   [
+    1417,
+    2203
+   ],
+   [
+    1417,
+    2661
+   ],
+   [
+    1368,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "the SPELLSHOP Sarah Beth Durst",
+  "title": "The Spellshop",
+  "author": "Sarah Beth Durst",
+  "series": "Spellshop #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Spellshop",
+   "author": "Sarah Beth Durst",
+   "rating": 3.99,
+   "ratings_count": 190540,
+   "url": "https://www.goodreads.com/book/show/217206125-the-spellshop"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-02",
+  "compartment": "M4",
+  "poly": [
+   [
+    1417,
+    2227
+   ],
+   [
+    1448,
+    2227
+   ],
+   [
+    1448,
+    2661
+   ],
+   [
+    1417,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "(no visible text, dark maroon spine)",
+  "title": null,
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "Plain dark maroon spine between The Spellshop and The Demon World; possibly The Smoke Thieves (Sally Green #1) but unreadable"
+ },
+ {
+  "id": "M4-03",
+  "compartment": "M4",
+  "poly": [
+   [
+    1449,
+    2241
+   ],
+   [
+    1503,
+    2241
+   ],
+   [
+    1503,
+    2661
+   ],
+   [
+    1449,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SALLY GREEN The SMOKE THIEVES The DEMON WORLD",
+  "title": "The Demon World",
+  "author": "Sally Green",
+  "series": "The Smoke Thieves #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Demon World",
+   "author": "Sally Green",
+   "rating": 3.85,
+   "ratings_count": 4083,
+   "url": "https://www.goodreads.com/book/show/40643751-the-demon-world"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-04",
+  "compartment": "M4",
+  "poly": [
+   [
+    1512,
+    2223
+   ],
+   [
+    1571,
+    2223
+   ],
+   [
+    1571,
+    2661
+   ],
+   [
+    1512,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERKINS ANNA and the FRENCH KISS speak",
+  "title": "Anna and the French Kiss",
+  "author": "Stephanie Perkins",
+  "series": "Anna and the French Kiss #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Anna and the French Kiss",
+   "author": "Stephanie Perkins",
+   "rating": 3.95,
+   "ratings_count": 467831,
+   "url": "https://www.goodreads.com/book/show/6936382-anna-and-the-french-kiss"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-05",
+  "compartment": "M4",
+  "poly": [
+   [
+    1573,
+    2224
+   ],
+   [
+    1626,
+    2224
+   ],
+   [
+    1626,
+    2661
+   ],
+   [
+    1573,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERKINS ISLA and the HAPPILY EVER AFTER speak",
+  "title": "Isla and the Happily Ever After",
+  "author": "Stephanie Perkins",
+  "series": "Anna and the French Kiss #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Isla and the Happily Ever After",
+   "author": "Stephanie Perkins",
+   "rating": 3.98,
+   "ratings_count": 119943,
+   "url": "https://www.goodreads.com/book/show/9627755-isla-and-the-happily-ever-after"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-06",
+  "compartment": "M4",
+  "poly": [
+   [
+    1630,
+    2223
+   ],
+   [
+    1682,
+    2223
+   ],
+   [
+    1682,
+    2661
+   ],
+   [
+    1630,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PERKINS LOLA and the BOY NEXT DOOR speak",
+  "title": "Lola and the Boy Next Door",
+  "author": "Stephanie Perkins",
+  "series": "Anna and the French Kiss #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Lola and the Boy Next Door",
+   "author": "Stephanie Perkins",
+   "rating": 3.89,
+   "ratings_count": 167411,
+   "url": "https://www.goodreads.com/book/show/9961796-lola-and-the-boy-next-door"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-07",
+  "compartment": "M4",
+  "poly": [
+   [
+    1686,
+    2224
+   ],
+   [
+    1752,
+    2224
+   ],
+   [
+    1752,
+    2661
+   ],
+   [
+    1686,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SÁENZ Aristotle and Dante DISCOVER THE SECRETS OF THE UNIVERSE SIMON & SCHUSTER",
+  "title": "Aristotle and Dante Discover the Secrets of the Universe",
+  "author": "Benjamin Alire Sáenz",
+  "series": "Aristotle and Dante #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Aristotle and Dante Discover the Secrets of the Universe",
+   "author": "Benjamin Alire Sáenz",
+   "rating": 4.28,
+   "ratings_count": 697217,
+   "url": "https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-08",
+  "compartment": "M4",
+  "poly": [
+   [
+    1753,
+    2223
+   ],
+   [
+    1807,
+    2223
+   ],
+   [
+    1807,
+    2661
+   ],
+   [
+    1753,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SALLY ROONEY BEAUTIFUL WORLD, WHERE ARE YOU ff",
+  "title": "Beautiful World, Where Are You",
+  "author": "Sally Rooney",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Beautiful World, Where Are You",
+   "author": "Sally Rooney",
+   "rating": 3.52,
+   "ratings_count": 522491,
+   "url": "https://www.goodreads.com/book/show/75555793-beautiful-world-where-are-you"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-09",
+  "compartment": "M4",
+  "poly": [
+   [
+    1808,
+    2258
+   ],
+   [
+    1851,
+    2258
+   ],
+   [
+    1851,
+    2661
+   ],
+   [
+    1808,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The BABY DRAGON CAFE A.T. QURESHI avon",
+  "title": "The Baby Dragon Cafe",
+  "author": "A. T. Qureshi",
+  "series": "The Baby Dragon #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Baby Dragon Café",
+   "author": "Aamna Qureshi",
+   "rating": 3.23,
+   "ratings_count": 25362,
+   "url": "https://www.goodreads.com/book/show/215767834-the-baby-dragon-caf"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-10",
+  "compartment": "M4",
+  "poly": [
+   [
+    1852,
+    2260
+   ],
+   [
+    1915,
+    2260
+   ],
+   [
+    1915,
+    2661
+   ],
+   [
+    1852,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SHUSTERMAN SCYTHE WALKER BOOKS",
+  "title": "Scythe",
+  "author": "Neal Shusterman",
+  "series": "Arc of a Scythe #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Scythe",
+   "author": "Neal Shusterman",
+   "rating": 4.31,
+   "ratings_count": 449813,
+   "url": "https://www.goodreads.com/book/show/28954189-scythe"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-11",
+  "compartment": "M4",
+  "poly": [
+   [
+    1915,
+    2259
+   ],
+   [
+    1989,
+    2259
+   ],
+   [
+    1989,
+    2661
+   ],
+   [
+    1915,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "SHUSTERMAN THUNDERHEAD WALKER BOOKS",
+  "title": "Thunderhead",
+  "author": "Neal Shusterman",
+  "series": "Arc of a Scythe #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Thunderhead",
+   "author": "Neal Shusterman",
+   "rating": 4.37,
+   "ratings_count": 255736,
+   "url": "https://www.goodreads.com/book/show/33555224-thunderhead"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-12",
+  "compartment": "M4",
+  "poly": [
+   [
+    1990,
+    2234
+   ],
+   [
+    2025,
+    2234
+   ],
+   [
+    2025,
+    2661
+   ],
+   [
+    1990,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "the PAPER MAGICIAN CHARLIE N. HOLMBERG",
+  "title": "The Paper Magician",
+  "author": "Charlie N. Holmberg",
+  "series": "The Paper Magician #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Paper Magician",
+   "author": "Charlie N. Holmberg",
+   "rating": 3.69,
+   "ratings_count": 92017,
+   "url": "https://www.goodreads.com/book/show/20727654-the-paper-magician"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-13",
+  "compartment": "M4",
+  "poly": [
+   [
+    2025,
+    2231
+   ],
+   [
+    2058,
+    2231
+   ],
+   [
+    2058,
+    2661
+   ],
+   [
+    2025,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "the GLASS MAGICIAN CHARLIE N. HOLMBERG",
+  "title": "The Glass Magician",
+  "author": "Charlie N. Holmberg",
+  "series": "The Paper Magician #2",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Glass Magician",
+   "author": "Charlie N. Holmberg",
+   "rating": 3.94,
+   "ratings_count": 50575,
+   "url": "https://www.goodreads.com/book/show/22341276-the-glass-magician"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-14",
+  "compartment": "M4",
+  "poly": [
+   [
+    2058,
+    2227
+   ],
+   [
+    2094,
+    2227
+   ],
+   [
+    2094,
+    2661
+   ],
+   [
+    2058,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "the MASTER MAGICIAN CHARLIE N. HOLMBERG",
+  "title": "The Master Magician",
+  "author": "Charlie N. Holmberg",
+  "series": "The Paper Magician #3",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Master Magician",
+   "author": "Charlie N. Holmberg",
+   "rating": 3.92,
+   "ratings_count": 41813,
+   "url": "https://www.goodreads.com/book/show/23485372-the-master-magician"
+  },
+  "note": ""
+ },
+ {
+  "id": "M4-15",
+  "compartment": "M4",
+  "poly": [
+   [
+    2094,
+    2211
+   ],
+   [
+    2138,
+    2211
+   ],
+   [
+    2138,
+    2661
+   ],
+   [
+    2094,
+    2661
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "FULL MOON COFFEE SHOP MAI MOCHIZUKI",
+  "title": "The Full Moon Coffee Shop",
+  "author": "Mai Mochizuki",
+  "series": "The Full Moon Coffee Shop #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Full Moon Coffee Shop",
+   "author": "Mai Mochizuki",
+   "rating": 3.58,
+   "ratings_count": 40415,
+   "url": "https://www.goodreads.com/book/show/202468425-the-full-moon-coffee-shop"
+  },
+  "note": ""
+ }
+]

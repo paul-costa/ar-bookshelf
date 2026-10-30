@@ -1,0 +1,693 @@
+[
+ {
+  "id": "L3-01",
+  "compartment": "L3",
+  "poly": [
+   [
+    38,
+    1869
+   ],
+   [
+    72,
+    1869
+   ],
+   [
+    72,
+    2242
+   ],
+   [
+    38,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "RAY BRADBURY FAHRENHEIT 451 (Simon & Schuster)",
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Fahrenheit 451",
+   "author": "Ray Bradbury",
+   "rating": 3.97,
+   "ratings_count": 3015530,
+   "url": "https://www.goodreads.com/book/show/240111710-fahrenheit-451"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-02",
+  "compartment": "L3",
+  "poly": [
+   [
+    72,
+    1835
+   ],
+   [
+    98,
+    1835
+   ],
+   [
+    98,
+    2242
+   ],
+   [
+    72,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DALAI LAMA DIE VIER EDLEN WAHRHEITEN (Fischer)",
+  "title": "Die vier edlen Wahrheiten",
+  "author": "Dalai Lama XIV",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Four Noble Truths",
+   "author": "Dalai Lama XIV",
+   "rating": 4.2,
+   "ratings_count": 1223,
+   "url": "https://www.goodreads.com/book/show/79336.The_Four_Noble_Truths"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-03",
+  "compartment": "L3",
+  "poly": [
+   [
+    98,
+    1832
+   ],
+   [
+    125,
+    1832
+   ],
+   [
+    125,
+    2242
+   ],
+   [
+    98,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Charlotte Fritsch Zwischen mir und mir",
+  "title": "Zwischen mir und mir - Sommerferien in der Psychiatrie",
+  "author": "Charlotte Fritsch",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Zwischen mir und mir - Sommerferien in der Psychiatrie",
+   "author": "Charlotte Fritsch",
+   "rating": 3.17,
+   "ratings_count": 6,
+   "url": "https://www.goodreads.com/book/show/17800465-zwischen-mir-und-mir---sommerferien-in-der-psychiatrie"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-04",
+  "compartment": "L3",
+  "poly": [
+   [
+    125,
+    1801
+   ],
+   [
+    162,
+    1801
+   ],
+   [
+    162,
+    2242
+   ],
+   [
+    125,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PSYCHOLOGIE LERNEN Hans-Peter Nolting Peter Paulus BELTZ",
+  "title": "Psychologie lernen",
+  "author": "Hans-Peter Nolting, Peter Paulus",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Psychologie lernen",
+   "author": "Hans-Peter Nolting",
+   "rating": 3.8,
+   "ratings_count": 25,
+   "url": "https://www.goodreads.com/book/show/4066230-psychologie-lernen"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-05",
+  "compartment": "L3",
+  "poly": [
+   [
+    162,
+    1831
+   ],
+   [
+    211,
+    1831
+   ],
+   [
+    211,
+    2242
+   ],
+   [
+    162,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "PRINZ PI · NICHTS WAR UMSONST",
+  "title": "Nichts war umsonst",
+  "author": "Prinz Pi",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": null,
+  "note": "Book by the rapper Prinz Pi; not found on Goodreads"
+ },
+ {
+  "id": "L3-06",
+  "compartment": "L3",
+  "poly": [
+   [
+    211,
+    1782
+   ],
+   [
+    252,
+    1782
+   ],
+   [
+    252,
+    2242
+   ],
+   [
+    211,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "LUNA DARKO VERGESSENE KINDER",
+  "title": "Vergessene Kinder",
+  "author": "Luna Darko",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Vergessene Kinder",
+   "author": "Luna Darko",
+   "rating": 3.37,
+   "ratings_count": 1213,
+   "url": "https://www.goodreads.com/book/show/34235245-vergessene-kinder"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-07",
+  "compartment": "L3",
+  "poly": [
+   [
+    252,
+    1794
+   ],
+   [
+    320,
+    1794
+   ],
+   [
+    320,
+    2242
+   ],
+   [
+    252,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "(no spine text; plain pink, small peace-sign-like logo at bottom)",
+  "title": null,
+  "author": null,
+  "series": null,
+  "language": null,
+  "confidence": "unknown",
+  "goodreads": null,
+  "note": "Plain pink spine next to the Luna Darko books; possibly another Luna Darko title, unconfirmed"
+ },
+ {
+  "id": "L3-08",
+  "compartment": "L3",
+  "poly": [
+   [
+    320,
+    1809
+   ],
+   [
+    376,
+    1809
+   ],
+   [
+    376,
+    2242
+   ],
+   [
+    320,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MYKO",
+  "title": "Myko. Gedanken in der Nacht",
+  "author": "Luna Darko",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Myko. Gedanken in der Nacht",
+   "author": "Luna Darko",
+   "rating": 3.18,
+   "ratings_count": 648,
+   "url": "https://www.goodreads.com/book/show/37643152-myko-gedanken-in-der-nacht"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-09",
+  "compartment": "L3",
+  "poly": [
+   [
+    376,
+    1821
+   ],
+   [
+    474,
+    1821
+   ],
+   [
+    474,
+    2242
+   ],
+   [
+    376,
+    2242
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "STEPHEN KING 11.22.63 (Hodder)",
+  "title": "11.22.63",
+  "author": "Stephen King",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "11/22/63",
+   "author": "Stephen King",
+   "rating": 4.35,
+   "ratings_count": 716790,
+   "url": "https://www.goodreads.com/book/show/10644930-11-22-63"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-10",
+  "compartment": "L3",
+  "poly": [
+   [
+    474,
+    1774
+   ],
+   [
+    565,
+    1774
+   ],
+   [
+    565,
+    2245
+   ],
+   [
+    474,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE BESTIMMUNG cbt ROTH",
+  "title": "Die Bestimmung",
+  "author": "Veronica Roth",
+  "series": "Die Bestimmung #1",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Die Bestimmung (Die Bestimmung, #1)",
+   "author": "Veronica Roth",
+   "rating": 4.13,
+   "ratings_count": 4505461,
+   "url": "https://www.goodreads.com/book/show/13131651-die-bestimmung"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-11",
+  "compartment": "L3",
+  "poly": [
+   [
+    565,
+    1774
+   ],
+   [
+    652,
+    1774
+   ],
+   [
+    652,
+    2245
+   ],
+   [
+    565,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE BESTIMMUNG TÖDLICHE WAHRHEIT cbt ROTH",
+  "title": "Die Bestimmung - Tödliche Wahrheit",
+  "author": "Veronica Roth",
+  "series": "Die Bestimmung #2",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tödliche Wahrheit (Die Bestimmung, #2)",
+   "author": "Veronica Roth",
+   "rating": 3.96,
+   "ratings_count": 1661586,
+   "url": "https://www.goodreads.com/book/show/15845588-t-dliche-wahrheit"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-12",
+  "compartment": "L3",
+  "poly": [
+   [
+    652,
+    1768
+   ],
+   [
+    752,
+    1768
+   ],
+   [
+    752,
+    2245
+   ],
+   [
+    652,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "DIE BESTIMMUNG LETZTE ENTSCHEIDUNG cbt ROTH",
+  "title": "Die Bestimmung - Letzte Entscheidung",
+  "author": "Veronica Roth",
+  "series": "Die Bestimmung #3",
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Letzte Entscheidung (Die Bestimmung, #3)",
+   "author": "Veronica Roth",
+   "rating": 3.6,
+   "ratings_count": 1170352,
+   "url": "https://www.goodreads.com/book/show/18998388-letzte-entscheidung"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-13",
+  "compartment": "L3",
+  "poly": [
+   [
+    752,
+    1774
+   ],
+   [
+    806,
+    1774
+   ],
+   [
+    806,
+    2245
+   ],
+   [
+    752,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "ROTH FOUR A DIVERGENT COLLECTION (international edition, KT)",
+  "title": "Four: A Divergent Collection",
+  "author": "Veronica Roth",
+  "series": "Divergent #0.1-0.4",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+   "author": "Veronica Roth",
+   "rating": 3.93,
+   "ratings_count": 266758,
+   "url": "https://www.goodreads.com/book/show/18126198-four"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-14",
+  "compartment": "L3",
+  "poly": [
+   [
+    806,
+    1768
+   ],
+   [
+    880,
+    1768
+   ],
+   [
+    880,
+    2245
+   ],
+   [
+    806,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "The GREEK MYTHS ROBERT GRAVES (Penguin)",
+  "title": "The Greek Myths",
+  "author": "Robert Graves",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Greek Myths: Complete Edition",
+   "author": "Robert Graves",
+   "rating": 4.14,
+   "ratings_count": 7910,
+   "url": "https://www.goodreads.com/book/show/820461.The_Greek_Myths"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-15",
+  "compartment": "L3",
+  "poly": [
+   [
+    880,
+    1834
+   ],
+   [
+    939,
+    1834
+   ],
+   [
+    939,
+    2245
+   ],
+   [
+    880,
+    2245
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "rowohlt WOLFGANG HERRNDORF tschick",
+  "title": "Tschick",
+  "author": "Wolfgang Herrndorf",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Tschick",
+   "author": "Wolfgang Herrndorf",
+   "rating": 3.54,
+   "ratings_count": 39528,
+   "url": "https://www.goodreads.com/book/show/9397145-tschick"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-16",
+  "compartment": "L3",
+  "poly": [
+   [
+    939,
+    1818
+   ],
+   [
+    982,
+    1818
+   ],
+   [
+    982,
+    2247
+   ],
+   [
+    939,
+    2247
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "MARGARET ATWOOD THE HANDMAID'S TALE VINTAGE",
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Handmaid's Tale",
+   "author": "Margaret Atwood",
+   "rating": 4.16,
+   "ratings_count": 2582468,
+   "url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-17",
+  "compartment": "L3",
+  "poly": [
+   [
+    982,
+    1858
+   ],
+   [
+    1045,
+    1858
+   ],
+   [
+    1045,
+    2247
+   ],
+   [
+    982,
+    2247
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "COLLINS CLASSICS JANE AUSTEN Pride and Prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "rating": 4.3,
+   "ratings_count": 5042433,
+   "url": "https://www.goodreads.com/book/show/129915654-pride-and-prejudice"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-18",
+  "compartment": "L3",
+  "poly": [
+   [
+    1045,
+    1856
+   ],
+   [
+    1153,
+    1856
+   ],
+   [
+    1153,
+    2247
+   ],
+   [
+    1045,
+    2247
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "COLLINS CLASSICS HENRY JAMES The Portrait of a Lady",
+  "title": "The Portrait of a Lady",
+  "author": "Henry James",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Portrait of a Lady",
+   "author": "Henry James",
+   "rating": 3.8,
+   "ratings_count": 87181,
+   "url": "https://www.goodreads.com/book/show/264.The_Portrait_of_a_Lady"
+  },
+  "note": ""
+ },
+ {
+  "id": "L3-19",
+  "compartment": "L3",
+  "poly": [
+   [
+    1153,
+    1771
+   ],
+   [
+    1289,
+    1771
+   ],
+   [
+    1289,
+    2247
+   ],
+   [
+    1153,
+    2247
+   ]
+  ],
+  "orientation": "vertical",
+  "spine_text": "Arthur Conan DOYLE Sherlock Holmes Die Romane (Anaconda)",
+  "title": "Sherlock Holmes - Die Romane",
+  "author": "Arthur Conan Doyle",
+  "series": null,
+  "language": "de",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Sherlock Holmes - Die Romane",
+   "author": "Arthur Conan Doyle",
+   "rating": 4.34,
+   "ratings_count": 3932,
+   "url": "https://www.goodreads.com/book/show/20877265-sherlock-holmes---die-romane"
+  },
+  "note": ""
+ }
+]

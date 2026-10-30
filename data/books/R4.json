@@ -1,0 +1,372 @@
+[
+ {
+  "id": "R4-01",
+  "compartment": "R4",
+  "poly": [
+   [
+    3942,
+    2310
+   ],
+   [
+    3978,
+    2308
+   ],
+   [
+    4049,
+    2727
+   ],
+   [
+    4004,
+    2727
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "NEIL GAIMAN STARDUST (Headline)",
+  "title": "Stardust",
+  "author": "Neil Gaiman",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Stardust",
+   "author": "Neil Gaiman",
+   "rating": 4.09,
+   "ratings_count": 490355,
+   "url": "https://www.goodreads.com/book/show/16793.Stardust"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-02",
+  "compartment": "R4",
+  "poly": [
+   [
+    3979,
+    2311
+   ],
+   [
+    4039,
+    2303
+   ],
+   [
+    4100,
+    2726
+   ],
+   [
+    4049,
+    2727
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "THE COURT OF MIRACLES KESTER GRANT (HarperVoyager)",
+  "title": "The Court of Miracles",
+  "author": "Kester Grant",
+  "series": "The Court of Miracles #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Court of Miracles",
+   "author": "Kester Grant",
+   "rating": 3.68,
+   "ratings_count": 9463,
+   "url": "https://www.goodreads.com/book/show/33973264-the-court-of-miracles"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-03",
+  "compartment": "R4",
+  "poly": [
+   [
+    4048,
+    2357
+   ],
+   [
+    4094,
+    2350
+   ],
+   [
+    4163,
+    2728
+   ],
+   [
+    4100,
+    2726
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "To Kill a Mockingbird Harper Lee",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "rating": 4.26,
+   "ratings_count": 7157833,
+   "url": "https://www.goodreads.com/book/show/56916837-to-kill-a-mockingbird"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-04",
+  "compartment": "R4",
+  "poly": [
+   [
+    4095,
+    2318
+   ],
+   [
+    4151,
+    2318
+   ],
+   [
+    4226,
+    2725
+   ],
+   [
+    4163,
+    2728
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "THE GAME OF TRIUMPHS LAURA POWELL",
+  "title": "The Game of Triumphs",
+  "author": "Laura Powell",
+  "series": "The Game of Triumphs #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Game of Triumphs",
+   "author": "Laura Powell",
+   "rating": 3.29,
+   "ratings_count": 397,
+   "url": "https://www.goodreads.com/book/show/9716923-the-game-of-triumphs"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-05",
+  "compartment": "R4",
+  "poly": [
+   [
+    4151,
+    2325
+   ],
+   [
+    4197,
+    2318
+   ],
+   [
+    4277,
+    2727
+   ],
+   [
+    4226,
+    2725
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "DON'T EVEN THINK ABOUT IT Sarah Mlynowski (Orchard)",
+  "title": "Don't Even Think About It",
+  "author": "Sarah Mlynowski",
+  "series": "Don't Even Think About It #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Don't Even Think About It",
+   "author": "Sarah Mlynowski",
+   "rating": 3.72,
+   "ratings_count": 7867,
+   "url": "https://www.goodreads.com/book/show/17560541-don-t-even-think-about-it"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-06",
+  "compartment": "R4",
+  "poly": [
+   [
+    4197,
+    2318
+   ],
+   [
+    4306,
+    2298
+   ],
+   [
+    4402,
+    2713
+   ],
+   [
+    4277,
+    2727
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "A LITTLE LIFE HANYA YANAGIHARA (Anchor Books)",
+  "title": "A Little Life",
+  "author": "Hanya Yanagihara",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "A Little Life",
+   "author": "Hanya Yanagihara",
+   "rating": 4.26,
+   "ratings_count": 1024267,
+   "url": "https://www.goodreads.com/book/show/22822858-a-little-life"
+  },
+  "note": "leaning; spine plus part of the back cover (barcode) visible"
+ },
+ {
+  "id": "R4-07",
+  "compartment": "R4",
+  "poly": [
+   [
+    4301,
+    2266
+   ],
+   [
+    4350,
+    2256
+   ],
+   [
+    4462,
+    2717
+   ],
+   [
+    4402,
+    2713
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "SARAH PENNER THE LOST APOTHECARY",
+  "title": "The Lost Apothecary",
+  "author": "Sarah Penner",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "The Lost Apothecary",
+   "author": "Sarah Penner",
+   "rating": 3.76,
+   "ratings_count": 529460,
+   "url": "https://www.goodreads.com/book/show/53288434-the-lost-apothecary"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-08",
+  "compartment": "R4",
+  "poly": [
+   [
+    4370,
+    2302
+   ],
+   [
+    4422,
+    2312
+   ],
+   [
+    4505,
+    2720
+   ],
+   [
+    4462,
+    2717
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "THORNHEDGE T. KINGFISHER (Titan Books)",
+  "title": "Thornhedge",
+  "author": "T. Kingfisher",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Thornhedge",
+   "author": "T. Kingfisher",
+   "rating": 3.91,
+   "ratings_count": 72198,
+   "url": "https://www.goodreads.com/book/show/61884932-thornhedge"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-09",
+  "compartment": "R4",
+  "poly": [
+   [
+    4422,
+    2312
+   ],
+   [
+    4457,
+    2318
+   ],
+   [
+    4542,
+    2717
+   ],
+   [
+    4505,
+    2720
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "WHAT MOVES THE DEAD T. KINGFISHER (Titan Books)",
+  "title": "What Moves the Dead",
+  "author": "T. Kingfisher",
+  "series": "Sworn Soldier #1",
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "What Moves the Dead",
+   "author": "T. Kingfisher",
+   "rating": 3.83,
+   "ratings_count": 165814,
+   "url": "https://www.goodreads.com/book/show/58724626-what-moves-the-dead"
+  },
+  "note": ""
+ },
+ {
+  "id": "R4-10",
+  "compartment": "R4",
+  "poly": [
+   [
+    4457,
+    2318
+   ],
+   [
+    4494,
+    2310
+   ],
+   [
+    4582,
+    2712
+   ],
+   [
+    4542,
+    2717
+   ]
+  ],
+  "orientation": "tilted",
+  "spine_text": "T. KINGFISHER HEMLOCK & SILVER (Tor)",
+  "title": "Hemlock & Silver",
+  "author": "T. Kingfisher",
+  "series": null,
+  "language": "en",
+  "confidence": "high",
+  "goodreads": {
+   "title": "Hemlock & Silver",
+   "author": "T. Kingfisher",
+   "rating": 4.0,
+   "ratings_count": 46072,
+   "url": "https://www.goodreads.com/book/show/253218212-hemlock-silver"
+  },
+  "note": ""
+ }
+]
